@@ -17,6 +17,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 - Project focus moved from empty setup to catalog-data foundation; storefront UI remains intentionally deferred
 
+## [0.2.1] - 2026-09-17
+
+### Added
+
+- Visual page inventory for 79 scan-only catalog pages, retained separately from verified product records
+
+### Changed
+
+- Verified Allye and Polisa as brands on six visually reviewed source catalogs
+
 ## [0.1.0] - 2026-09-17
 
 ### Added

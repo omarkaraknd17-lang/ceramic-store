@@ -13,6 +13,10 @@ The current batch is one Chinese supplier group. It is not merged with TAU, SEBA
 - Do not add a product to a public storefront until its price, unit of sale and availability have been checked.
 - Do not use a marketing name inferred from an image. Store `null` and flag the page for OCR or human review instead.
 
+## Scan-only catalog queue
+
+`data/visual-extraction-queue.json` contains page-level work items for catalogs whose product codes or sizes cannot be safely read from the PDF text layer. These are not sellable product records and must not be copied into `master-products.json` until a high-resolution OCR pass or original supplier sheet verifies the SKU, size and finish. This preserves a complete page inventory without inventing product facts.
+
 ## Chinese-text display-image workflow
 
 The goal is a clean product-display derivative, never a new source identity.
