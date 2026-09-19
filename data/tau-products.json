@@ -1506,5 +1506,411 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "10.5x30cm stick-mosaic wall tile. A broader 'Basics' color range (10+ additional colors including tan, gold, bronze, olive, navy speckled, teal, turquoise) is shown in the source page as an unlabeled color strip; only White is individually named/confirmed here. Display image is the shared color-strip reference, not an isolated White swatch."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4547",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "TU3P4547",
+    "product_name": "PT Campaspero Linen TXT 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Textured (TXT), R11 slip resistance",
+    "color_design": "PT Campaspero Linen TXT 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4547.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4548",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "TU3P4548",
+    "product_name": "E-PT Campaspero Linen TXT 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Textured (TXT)",
+    "color_design": "E-PT Campaspero Linen TXT 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4548.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4578",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "LITHOS",
+    "sku_model_code": "TU3P4578",
+    "product_name": "PSTH Lithos Linen / RLV 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Linen (RLV - rectified)",
+    "color_design": "PSTH Lithos Linen / RLV 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4578.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4579",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "LITHOS",
+    "sku_model_code": "TU3P4579",
+    "product_name": "E-PSTH Lithos Linen / RLV 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Linen (RLV - rectified)",
+    "color_design": "E-PSTH Lithos Linen / RLV 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4579.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2299",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2299",
+    "product_name": "PT Novastone W White/Ivory / RLV 30x90 (stock)",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone W White/Ivory / RLV 30x90 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2299.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2302",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2302",
+    "product_name": "PT Novastone White / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone White / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2302.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2301",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2301",
+    "product_name": "PT Novastone Pearl / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone Pearl / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2301.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2300",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2300",
+    "product_name": "PT Novastone Ivory / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1005,
+      1924
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone Ivory / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2300.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2295",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2295",
+    "product_name": "E-PT Novastone White/Ivory/Pearl RLV 30x90 (stock)",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone White/Ivory/Pearl RLV 30x90 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2295.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2290",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2290",
+    "product_name": "E-PT Novastone Wall / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2290.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2303",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2303",
+    "product_name": "E-PT Novastone Wall White/Ivory/Pearl RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall White/Ivory/Pearl RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2303.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2305",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2305",
+    "product_name": "E-PT Novastone Wall Ivory / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall Ivory / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2305.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2311",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2311",
+    "product_name": "E-PT Novastone Wall White / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall White / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2311.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2306",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2306",
+    "product_name": "E-PT Novastone Wall Pearl / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      1200,
+      2400
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall Pearl / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2306.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
   }
 ]

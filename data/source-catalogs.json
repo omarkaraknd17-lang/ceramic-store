@@ -423,10 +423,10 @@
     "original_filename": "5003ab8f-Promoci_n_Novedades.pdf",
     "page_count": 6,
     "source_sha256": "579f55d3d919683475d1f2365334045b1588b07a1a2423b41bb0e467158594be",
-    "ingestion_status": "intake_registered_promotional_roundup_no_standalone_products",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Promotional new-products roundup (multiple collections)",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Dated 03/09/2026 on cover; likely references collections cataloged elsewhere rather than being a standalone product line."
+    "notes": "Dated 03/09/2026 on cover. Contains 14 genuinely new SKU codes (2 CAMPASPERO, 2 LITHOS, 10 NOVASTONE WALL) not present elsewhere in the TAU dataset; all extracted with individual verified crops."
   },
   {
     "catalog_id": "ES-TAU-LUXOR-MOSAICS",

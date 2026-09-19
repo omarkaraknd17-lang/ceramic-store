@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.7.0] - 2026-09-19
+
+### Added
+
+- Resolved product names for the four previously-unnamed Micro Cement variants (K8FJ693TE, K8FJ696TE, K8FJ700TE, K8FJ701TE) by re-reading the source PDF's text layer, which had not been checked on the first pass: Yardang Gray, Yasur Volcanic Ash, Ripple Rock Gray and Navajo Gray respectively. Also corrected their `finish` field, which had mistakenly been copied from a neighboring column (the K8FF-series) in the original extraction; each record now reflects its own column's texture and process details.
+- Reviewed the TAU "Promoción Novedades" roundup PDF (previously registered as intake-only, with a note that it likely just referenced collections cataloged elsewhere) and confirmed it in fact contains 14 genuinely new SKU codes: 2 CAMPASPERO (linen-textured, TXT/RLV), 2 LITHOS (linen, RLV), and 10 NOVASTONE WALL variants (a collection not previously present in this dataset at all). All 14 added to `data/tau-products.json` with individually-cropped, brand-visible-but-confirmed (TAU is this dataset's already-verified brand) display images.
+
 ## [0.6.0] - 2026-09-19
 
 ### Added

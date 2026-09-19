@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.6.0` (all 13 previously placeholder-only tile catalogs individually SKU-extracted; site prepared for free hosting)
+`0.7.0` (all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed and its 14 new SKUs added; site prepared for free hosting)
 
 ## Completed
 
@@ -139,13 +139,15 @@
 - `public/bathroom-catalog.html` (384 verified SEBACH/Mitrani records) is now linked from `public/bathroom.html` navigation; it was previously fully built but unreachable from any page
 - Added a graceful placeholder fallback for every product/logo/hero image across the site that references a file not present in this repository, so the known missing-image gap (see Next Steps) no longer shows as broken-image icons
 - All 13 collection-level placeholder tile catalogs (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) now have individually-verified SKU records (35 total) with real codes, colors, sizes and finishes read directly from the source pages; no brand mark was found in any of them across all pages reviewed, so brand is intentionally left unconfirmed rather than assumed
+- Resolved the four unnamed K8FJ693/696/700/701TE Micro Cement product names (Yardang Gray, Yasur Volcanic Ash, Ripple Rock Gray, Navajo Gray) and fixed a finish-field data error found while doing so
+- Reviewed the TAU "Promoción Novedades" roundup PDF; it contained 14 genuinely new SKUs (including an entirely new NOVASTONE WALL collection), now added with individual verified images
 
 ## In Progress
 
 - Full variant extraction for the four verified Allye polished-porcelain collections, then high-resolution OCR or supplier data-sheet verification for the remaining scan-only pages
 - Verify price, sale unit and availability for every product before storefront publication
 - Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets
-- Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset, and for the unnamed K8FJ693/696/700/701TE micro-cement variants
+- Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset
 
 ## Next Steps
 
@@ -155,7 +157,6 @@
 - Confirm public pricing, availability and ordering rules before enabling purchases
 - Locate and re-supply the original 1,010 supplier catalogue images so existing verified records can be backed by their real image assets in this repository (most existing records currently reference `public/bathroom-product-assets/...` paths whose image files are not yet present here)
 - Identify the brand behind the 13 tile catalogs added in v0.6.0 (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) — no brand mark appears anywhere in any of their source pages, so it remains unconfirmed
-- Follow up on the TAU "Promoción Novedades" roundup PDF to confirm whether it references any collection not already covered by EVIAN WALL, BALISTONE, LUXOR or EVOLVE 2026
 - Re-supply the original supplier image archive so the ~1,200+ legacy records that currently fall back to a placeholder (356 of 384 bathroom records, all 851 `millennium-design.html` catalog photos, and the site logo/hero images) can show their real photos
 - Verify from a real (non-sandboxed) network that `public/millennium-design.html`'s runtime dependency on `unpkg.com` for React loads reliably once the site is live
 - Merge the site-prep branch into `main` and enable free static hosting (e.g. GitHub Pages) once approved

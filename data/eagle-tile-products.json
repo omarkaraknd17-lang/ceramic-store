@@ -2559,14 +2559,14 @@
     "source_catalog": "2023 Eagle Ceramics New Products - Plain Luxury Micro Cement (素奢·微水泥)",
     "collection_series": "Plain Luxury Micro Cement (素奢·微水泥)",
     "sku_model_code": "K8FJ693TE",
-    "product_name": "K8FJ693TE",
+    "product_name": "Yardang Gray (雅丹灰)",
     "product_type_category": "Porcelain slab",
     "sizes_mm": [
       750,
       1500
     ],
-    "finish": "matte (哑光面), one-stone-four-faces (一石四面), micro-cement texture (微水泥), velvet glaze+brush polish (丝绒釉+刷抛)",
-    "color_design": "not stated in reviewed pages",
+    "finish": "matte (哑光面), one-stone-four-faces freely-infinite-connecting pattern (一石四面自由无限连纹), micro-cement texture (微水泥), skin glaze+brush polish (肌肤釉+刷抛)",
+    "color_design": "Yardang Gray (雅丹灰)",
     "image_page_reference": {
       "catalog_id": "CN-EAGLE-2023-MICRO-CEMENT",
       "page": 14,
@@ -2578,7 +2578,7 @@
     "availability": "not_confirmed",
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "750x1500x9.5mm. Product name not shown in reviewed matrix/spec pages."
+    "notes": "Product name and finish/texture/process details read from the source PDF's text layer, page 14 (previously not extracted; the finish field had also been mistakenly copied from the neighboring K8FF-series column and is now corrected to match this SKU's own column)."
   },
   {
     "id": "CN-EAGLE-2023-MICRO-CEMENT:K8FJ696TE",
@@ -2588,14 +2588,14 @@
     "source_catalog": "2023 Eagle Ceramics New Products - Plain Luxury Micro Cement (素奢·微水泥)",
     "collection_series": "Plain Luxury Micro Cement (素奢·微水泥)",
     "sku_model_code": "K8FJ696TE",
-    "product_name": "K8FJ696TE",
+    "product_name": "Yasur Volcanic Ash (亚苏尔火山灰)",
     "product_type_category": "Porcelain slab",
     "sizes_mm": [
       750,
       1500
     ],
-    "finish": "matte (哑光面), one-stone-four-faces (一石四面), micro-cement texture (微水泥), velvet glaze+brush polish (丝绒釉+刷抛)",
-    "color_design": "not stated in reviewed pages",
+    "finish": "matte (哑光面), one-stone-four-faces freely-infinite-connecting pattern (一石四面自由无限连纹), stone-grain + micro-cement texture (石纹+微水泥), skin glaze+brush polish (肌肤釉+刷抛)",
+    "color_design": "Yasur Volcanic Ash (亚苏尔火山灰)",
     "image_page_reference": {
       "catalog_id": "CN-EAGLE-2023-MICRO-CEMENT",
       "page": 14,
@@ -2607,7 +2607,7 @@
     "availability": "not_confirmed",
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "750x1500x9.5mm. Product name not shown in reviewed matrix/spec pages."
+    "notes": "Product name and finish/texture/process details read from the source PDF's text layer, page 14 (previously not extracted; the finish field had also been mistakenly copied from the neighboring K8FF-series column and is now corrected to match this SKU's own column)."
   },
   {
     "id": "CN-EAGLE-2023-MICRO-CEMENT:K8FJ700TE",
@@ -2617,14 +2617,14 @@
     "source_catalog": "2023 Eagle Ceramics New Products - Plain Luxury Micro Cement (素奢·微水泥)",
     "collection_series": "Plain Luxury Micro Cement (素奢·微水泥)",
     "sku_model_code": "K8FJ700TE",
-    "product_name": "K8FJ700TE",
+    "product_name": "Ripple Rock Gray (波纹岩灰)",
     "product_type_category": "Porcelain slab",
     "sizes_mm": [
       750,
       1500
     ],
-    "finish": "matte (哑光面), one-stone-four-faces (一石四面), micro-cement texture (微水泥), velvet glaze+brush polish (丝绒釉+刷抛)",
-    "color_design": "not stated in reviewed pages",
+    "finish": "matte (哑光面), one-stone-four-faces (一石四面), stone-grain + micro-cement texture (石纹+微水泥), skin glaze+brush polish (肌肤釉+刷抛)",
+    "color_design": "Ripple Rock Gray (波纹岩灰)",
     "image_page_reference": {
       "catalog_id": "CN-EAGLE-2023-MICRO-CEMENT",
       "page": 14,
@@ -2636,7 +2636,7 @@
     "availability": "not_confirmed",
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "750x1500x9.5mm. Product name not shown in reviewed matrix/spec pages."
+    "notes": "Product name and finish/texture/process details read from the source PDF's text layer, page 14 (previously not extracted; the finish field had also been mistakenly copied from the neighboring K8FF-series column and is now corrected to match this SKU's own column)."
   },
   {
     "id": "CN-EAGLE-2023-MICRO-CEMENT:K8FJ701TE",
@@ -2646,14 +2646,14 @@
     "source_catalog": "2023 Eagle Ceramics New Products - Plain Luxury Micro Cement (素奢·微水泥)",
     "collection_series": "Plain Luxury Micro Cement (素奢·微水泥)",
     "sku_model_code": "K8FJ701TE",
-    "product_name": "K8FJ701TE",
+    "product_name": "Navajo Gray (纳瓦霍灰)",
     "product_type_category": "Porcelain slab",
     "sizes_mm": [
       750,
       1500
     ],
-    "finish": "matte (哑光面), one-stone-four-faces (一石四面), micro-cement texture (微水泥), velvet glaze+brush polish (丝绒釉+刷抛)",
-    "color_design": "not stated in reviewed pages",
+    "finish": "matte (哑光面), one-stone-four-faces (一石四面), stone-grain + micro-cement texture (石纹+微水泥), skin glaze+brush polish (肌肤釉+刷抛)",
+    "color_design": "Navajo Gray (纳瓦霍灰)",
     "image_page_reference": {
       "catalog_id": "CN-EAGLE-2023-MICRO-CEMENT",
       "page": 14,
@@ -2665,7 +2665,7 @@
     "availability": "not_confirmed",
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "750x1500x9.5mm. Product name not shown in reviewed matrix/spec pages."
+    "notes": "Product name and finish/texture/process details read from the source PDF's text layer, page 14 (previously not extracted; the finish field had also been mistakenly copied from the neighboring K8FF-series column and is now corrected to match this SKU's own column)."
   },
   {
     "id": "CN-EAGLE-HUAYANG-NIANHUA:S0DC01GE",
