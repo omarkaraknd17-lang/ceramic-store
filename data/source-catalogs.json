@@ -20,10 +20,10 @@
     "original_filename": "polsihed-tile.pdf",
     "page_count": 8,
     "source_sha256": "d85ab6e3b21a36e1f00159ded170c9754db754a1c4515b6c0723b906aa84fea2",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Polished porcelain tiles",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: 7 series (Soluble Salt, Micro Crystal, Stone Line, Super White/Black, Double Loading, Pulati, Navona), 32 SKUs total, each with a real verified display crop."
   },
   {
     "catalog_id": "CN-EAGLE-WHALE-MAX-2024",
@@ -59,10 +59,10 @@
     "original_filename": "rustic-tiles.pdf",
     "page_count": 12,
     "source_sha256": "fd24a2b551490262319d0d174208e302b65a45fb746786dcf348cef0fa8eeb16",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Rustic / wood-look tiles",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: Milano Series, 18 SKUs (8 stone-look AYMJ4501-4508, 10 wood-look AYMJ4509-4518), each with a real verified display crop."
   },
   {
     "catalog_id": "CN-UNBRANDED-MILANO",
@@ -72,10 +72,10 @@
     "original_filename": "Rustic_Tile-Milano_Series.pdf",
     "page_count": 13,
     "source_sha256": "3b7045e5d38f8bc89355fda6fd439954ea847bccbe185f933a4fb9a9038c8a5a",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Rustic tile",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: Milano Series (Glazed Ceramic Floor Tile), 12 SKUs (AYM601-AYM612), each with a real verified display crop. Separate code family from the AYMJ45xx Milano Series in the companion rustic-tiles.pdf catalog."
   },
   {
     "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",

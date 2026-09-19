@@ -2372,9 +2372,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6000.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYS6001",
@@ -2400,9 +2401,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6001.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYS6014",
@@ -2428,9 +2430,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6014.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYS6020",
@@ -2456,9 +2459,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6020.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYS6028",
@@ -2484,9 +2488,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6028.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYS6079",
@@ -2512,9 +2517,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYS6079.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYC6001",
@@ -2540,9 +2546,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYC6001.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYC6002",
@@ -2568,9 +2575,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYC6002.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYC6003",
@@ -2596,9 +2604,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYC6003.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYL6001",
@@ -2624,9 +2633,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYL6001.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYL6002",
@@ -2652,9 +2662,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYL6002.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYL6003",
@@ -2680,9 +2691,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYL6003.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYL6004",
@@ -2708,9 +2720,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYL6004.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYSW601F",
@@ -2736,9 +2749,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYSW601F.jpg"
   },
   {
     "id": "CN-UNBRANDED-POLISHED:AYSW601D",
@@ -2764,18 +2778,19 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale.",
+    "display_image": "public/bathroom-product-assets/allye/AYSW601D.jpg"
   },
   {
-    "id": "CN-UNBRANDED-POLISHED:AYSB601",
+    "id": "CN-UNBRANDED-POLISHED:AYSB6001",
     "supplier_group": "Chinese supplier group",
     "brand": "Allye",
     "source_catalog_id": "CN-UNBRANDED-POLISHED",
     "source_catalog": "Polished Porcelain Tile",
     "collection_series": "Super White / Super Black Series",
-    "sku_model_code": "AYSB601",
+    "sku_model_code": "AYSB6001",
     "product_name": null,
     "product_type_category": "Polished porcelain tile",
     "sizes_mm": [
@@ -2792,18 +2807,19 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
-    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+    "notes": "SKU corrected from AYSB601 to AYSB6001 after re-reading the source page at high resolution (the catalog consistently uses 4-digit numeric suffixes; the earlier 3-digit code was a misread). Series, size and finish verified by high-resolution visual review.",
+    "display_image": "public/bathroom-product-assets/allye/AYSB6001.jpg"
   },
   {
-    "id": "CN-UNBRANDED-POLISHED:AYSB602",
+    "id": "CN-UNBRANDED-POLISHED:AYSB6002",
     "supplier_group": "Chinese supplier group",
     "brand": "Allye",
     "source_catalog_id": "CN-UNBRANDED-POLISHED",
     "source_catalog": "Polished Porcelain Tile",
     "collection_series": "Super White / Super Black Series",
-    "sku_model_code": "AYSB602",
+    "sku_model_code": "AYSB6002",
     "product_name": null,
     "product_type_category": "Polished porcelain tile",
     "sizes_mm": [
@@ -2820,8 +2836,1370 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU corrected from AYSB602 to AYSB6002 after re-reading the source page at high resolution (the catalog consistently uses 4-digit numeric suffixes; the earlier 3-digit code was a misread). Series, size and finish verified by high-resolution visual review.",
+    "display_image": "public/bathroom-product-assets/allye/AYSB6002.jpg"
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6301",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6301",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "rust orange marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6301.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
     "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6725",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6725",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "dark brown marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6725.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6309",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6309",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "dark gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6309.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6305",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6305",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "green marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6305.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6310",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6310",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "medium gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6310.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6306",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6306",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "sage green marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6306.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6311",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6311",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "light cream marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6311.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYD6711",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Double Loading Series",
+    "sku_model_code": "AYD6711",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "light beige marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYD6711.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYP6001",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Pulati Series",
+    "sku_model_code": "AYP6001",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "white speckled granite-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYP6001.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYP6002",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Pulati Series",
+    "sku_model_code": "AYP6002",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "cream speckled granite-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYP6002.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYP6003",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Pulati Series",
+    "sku_model_code": "AYP6003",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "yellow speckled granite-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYP6003.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYP6004",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Pulati Series",
+    "sku_model_code": "AYP6004",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "red/brown speckled granite-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYP6004.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYP6005",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Pulati Series",
+    "sku_model_code": "AYP6005",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "brown speckled granite-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYP6005.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYN6001",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Navona Series",
+    "sku_model_code": "AYN6001",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "light gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYN6001.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-POLISHED:AYN6002",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "source_catalog": "Polished Porcelain Tile",
+    "collection_series": "Navona Series",
+    "sku_model_code": "AYN6002",
+    "product_name": null,
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "finish": "polished",
+    "color_design": "cream/beige marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYN6002.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4501",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4501",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "gray-green natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4501.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4502",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4502",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "white/cream natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4502.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4503",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4503",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "gray-green natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4503.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4504",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4504",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "beige/tan natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4504.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4505",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4505",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "cream natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4505.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4506",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4506",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "white marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4506.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4507",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4507",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "light gray natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4507.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4508",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4508",
+    "product_name": null,
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "600 x 1200",
+      "450 x 900",
+      "800 x 800",
+      "600 x 600",
+      "300 x 600"
+    ],
+    "finish": "matte, natural stone-look",
+    "color_design": "white/gray natural stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4508.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4509",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4509",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "gray wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4509.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4510",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4510",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "light gray wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4510.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4511",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4511",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "sage gray-green wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4511.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4512",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4512",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "warm gray wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4512.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4513",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4513",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "medium brown wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4513.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4514",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4514",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "medium brown wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4514.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4515",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4515",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "medium brown wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4515.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4516",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4516",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "dark reddish-brown wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4516.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4517",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4517",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "orange-brown wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4517.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-RUSTIC:AYMJ4518",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-RUSTIC",
+    "source_catalog": "Rustic Tiles",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYMJ4518",
+    "product_name": null,
+    "product_type_category": "Porcelain wood-look floor/wall tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900",
+      "150 x 900"
+    ],
+    "finish": "matte, wood-look",
+    "color_design": "dark brown/charcoal wood-look plank",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-RUSTIC",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYMJ4518.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM601",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM601",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "medium gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM601.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM602",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM602",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "light gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM602.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM603",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM603",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "light gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM603.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM604",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM604",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM604.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM605",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM605",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "light gray subtle-wave stone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM605.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM606",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM606",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "warm gray/greige concrete-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM606.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM607",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM607",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "light gray/white marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM607.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM608",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM608",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "gray concrete-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM608.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM609",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM609",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "warm beige/tan travertine-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM609.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM610",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM610",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "beige/tan travertine-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM610.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM611",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM611",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "beige/cream marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM611.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-MILANO:AYM612",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-MILANO",
+    "source_catalog": "Rustic Tile - Milano Series",
+    "collection_series": "Milano Series",
+    "sku_model_code": "AYM612",
+    "product_name": null,
+    "product_type_category": "Glazed ceramic floor tile",
+    "sizes_mm": [
+      "600 x 600",
+      "300 x 600",
+      "450 x 900"
+    ],
+    "finish": "glazed, stone/marble-look",
+    "color_design": "beige/cream travertine-look",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-MILANO",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYM612.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, series, size and finish verified by high-resolution visual review. This is a separate Milano Series code family (AYM6xx, Glazed Ceramic Floor Tile) from the AYMJ45xx Milano Series codes in the companion Rustic Tiles catalog; not a duplicate. Confirm SKU-specific size and commercial terms before sale."
   }
 ]

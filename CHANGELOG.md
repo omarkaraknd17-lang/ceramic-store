@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.8.0] - 2026-09-19
+
+### Added
+
+- Completed full SKU extraction for the Allye Polished Porcelain Tile catalog: added the 3 remaining series (Double Loading, Pulati, Navona — 15 SKUs) and backfilled real, verified display images for all 17 previously-extracted SKUs, whose image path had never actually pointed to a real file in this repository. Also corrected two SKU codes (AYSB601/602 → AYSB6001/6002) after re-reading the source at high resolution showed the catalog's consistent 4-digit code pattern.
+- Extracted the Allye Rustic Tiles catalog's Milano Series in full: 18 SKUs (8 stone-look AYMJ4501-4508, 10 wood-look AYMJ4509-4518), each with a real verified display crop.
+- Extracted the separate, standalone "Rustic Tile - Milano Series" catalog in full: 12 SKUs (AYM601-AYM612, a different code family from the same-named series in the Rustic Tiles catalog above; confirmed not a duplicate).
+- `data/master-products.json` grew from 104 to 149 records this pass, all Allye Ceramic Tile brand, all with real verified images.
+
 ## [0.7.0] - 2026-09-19
 
 ### Added

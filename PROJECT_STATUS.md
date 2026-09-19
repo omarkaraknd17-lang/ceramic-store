@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.7.0` (all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed and its 14 new SKUs added; site prepared for free hosting)
+`0.8.0` (Allye Polished/Rustic/Milano catalogs fully SKU-extracted with real images, 45 new records; all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed; site prepared for free hosting)
 
 ## Completed
 
@@ -141,12 +141,13 @@
 - All 13 collection-level placeholder tile catalogs (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) now have individually-verified SKU records (35 total) with real codes, colors, sizes and finishes read directly from the source pages; no brand mark was found in any of them across all pages reviewed, so brand is intentionally left unconfirmed rather than assumed
 - Resolved the four unnamed K8FJ693/696/700/701TE Micro Cement product names (Yardang Gray, Yasur Volcanic Ash, Ripple Rock Gray, Navajo Gray) and fixed a finish-field data error found while doing so
 - Reviewed the TAU "Promoción Novedades" roundup PDF; it contained 14 genuinely new SKUs (including an entirely new NOVASTONE WALL collection), now added with individual verified images
+- Allye Polished Porcelain Tile catalog fully extracted (32 SKUs, all with real images); Allye Rustic Tiles' Milano Series fully extracted (18 SKUs); the separate standalone Milano Series catalog fully extracted (12 SKUs)
 
 ## In Progress
 
-- Full variant extraction for the four verified Allye polished-porcelain collections, then high-resolution OCR or supplier data-sheet verification for the remaining scan-only pages
+- Individual SKU extraction for the Allye Wall Tiles (20 pages) and Floor Tiles (19 pages) catalogs — large, not yet started
 - Verify price, sale unit and availability for every product before storefront publication
-- Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets
+- Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets — blocked: the source PDF and the previously-extracted 769-image manifest for these are not present anywhere in this environment; needs the user to re-supply them
 - Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset
 
 ## Next Steps
