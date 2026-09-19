@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>location.replace("home.html");</script>
+    <meta name="description" content="קרמיקה מילניום – קטלוג אריחים, פורצלן ולוחות גדולים." />
+    <title>קרמיקה מילניום | קטלוג מוצרים</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="contact-bar"><span>החושן 1, אזור תעשייה דרומי · קריית שמונה</span><a href="tel:0546601762">לבירור מלאי ומחיר: 054-660-1762</a></div>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="קרמיקה מילניום - דף הבית">
+        <span class="brand-logo"><img src="assets/millennium-ceramics-logo.png" alt="" /></span>
+        <span>קרמיקה מילניום</span>
+      </a>
+      <nav aria-label="ניווט ראשי">
+        <a href="#top">ראשי</a>
+        <a href="#catalog">קטלוג</a>
+        <a href="#how-it-works">איך מזמינים</a>
+        <a href="#contact">יצירת קשר</a>
+      </nav>
+      <button class="request-shortcut" id="requestShortcut" type="button">רשימת הצעה <b id="requestCount">0</b></button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">קרמיקה מילניום · משנת 1994</p>
+          <h1>הבית שלכם מתחיל בחומר הנכון.</h1>
+          <p class="hero-copy">קולקציה מדויקת של אריחים, פורצלן ולוחות גדולים. בחרו את הדגם, שמרו אותו ברשימת הצעה וקבלו מענה אישי.</p>
+          <a class="button button-primary" href="#catalog">לצפייה בקטלוג</a>
+        </div>
+        <div class="hero-image" aria-hidden="true"></div>
+      </section>
+
+      <section class="trust-strip" aria-label="יתרונות הקטלוג">
+        <div><strong>משנת 1994</strong><span>ניסיון של יותר משלושה עשורים</span></div>
+        <div><strong id="productCount">—</strong><span>דגמים מאומתים בקטלוג</span></div>
+        <div><strong>לפי קוד</strong><span>בחירה מדויקת לכל דגם</span></div>
+        <div><strong>מענה אישי</strong><span>מחיר לאחר אימות כמות ומלאי</span></div>
+      </section>
+
+      <section class="category-showcase" aria-labelledby="category-showcase-title">
+        <div class="section-heading"><div><p class="eyebrow">מה מחפשים?</p><h2 id="category-showcase-title">מתחילים מהחלל שלכם</h2></div><p>בחרו קטגוריה כדי לראות רק את הדגמים המתאימים.</p></div>
+        <div class="category-cards">
+          <button class="category-card category-stone" type="button" data-category="Sintered stone slab"><span>01</span><strong>לוחות גדולים</strong><small>משטחים וקירות מעוצבים</small></button>
+          <button class="category-card category-floor" type="button" data-category="Porcelain tile"><span>02</span><strong>אריחי פורצלן</strong><small>רצפה וקירות לכל הבית</small></button>
+          <button class="category-card category-wood" type="button" data-category="Wood-look porcelain tile"><span>03</span><strong>מראה עץ</strong><small>חום של עץ, עמידות של פורצלן</small></button>
+          <button class="category-card category-polished" type="button" data-category="Polished porcelain tile"><span>04</span><strong>פורצלן מלוטש</strong><small>מראה נקי ומבריק</small></button>
+        </div>
+      </section>
+
+      <section class="catalog-section" id="catalog" aria-labelledby="catalog-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">קטלוג</p>
+            <h2 id="catalog-title">מצאו את המוצר המתאים</h2>
+          </div>
+          <p id="resultSummary" aria-live="polite"></p>
+        </div>
+
+        <div class="catalog-layout">
+          <aside class="filters" aria-label="סינון מוצרים">
+            <label>חיפוש
+              <input id="searchInput" type="search" placeholder="קוד, סדרה או גוון" />
+            </label>
+            <label>קטגוריה
+              <select id="categoryFilter"><option value="">כל הקטגוריות</option></select>
+            </label>
+            <label>מותג
+              <select id="brandFilter"><option value="">כל המותגים</option></select>
+            </label>
+            <label>מידה
+              <select id="sizeFilter"><option value="">כל המידות</option></select>
+            </label>
+            <button class="text-button" id="resetFilters" type="button">איפוס סינון</button>
+          </aside>
+
+          <div class="catalog-content">
+            <div class="catalog-toolbar">
+              <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="false">סינון</button>
+              <select id="sortSelect" aria-label="מיון מוצרים">
+                <option value="featured">מיון ברירת מחדל</option>
+                <option value="sku">לפי קוד</option>
+                <option value="brand">לפי מותג</option>
+              </select>
+            </div>
+            <div class="product-grid" id="productGrid" aria-live="polite"></div>
+            <p class="empty-state" id="emptyState" hidden>לא נמצאו תוצאות מתאימות. נסו לשנות את הסינון.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="how-it-works" id="how-it-works">
+        <p class="eyebrow">איך מזמינים</p>
+        <h2>שלושה צעדים פשוטים</h2>
+        <ol>
+          <li><span>01</span>בחרו מוצרים ושמרו את הקודים שלהם.</li>
+          <li><span>02</span>שלחו קוד, מידה וכמות לקבלת מחיר.</li>
+          <li><span>03</span>נאשר מלאי, מחיר ומשלוח לפני הזמנה.</li>
+        </ol>
+      </section>
+      <section class="contact-section" id="contact">
+        <div><p class="eyebrow">יצירת קשר</p><h2>נשמח לעזור בבחירת החומר.</h2><p>בחרו דגמים מהקטלוג, הוסיפו אותם לרשימה ושלחו בקשה מסודרת עם המידה והכמות. המחיר והמלאי מאושרים לפני הזמנה.</p><p class="store-address"><strong>החנות שלנו</strong><br />קריית שמונה, אזור תעשייה דרומי<br />החושן 1</p></div>
+        <a class="button button-primary" href="#catalog">לבחירת מוצרים</a>
+      </section>
+    </main>
+
+    <dialog id="productDialog" class="product-dialog">
+      <button class="dialog-close" id="dialogClose" type="button" aria-label="סגירה">×</button>
+      <div id="dialogContent"></div>
+    </dialog>
+
+    <dialog id="imageZoomDialog" class="image-zoom-dialog">
+      <button class="dialog-close" id="imageZoomClose" type="button" aria-label="סגירה">×</button>
+      <img id="imageZoomImage" alt="" />
+    </dialog>
+    <dialog id="requestDialog" class="request-dialog">
+      <button class="dialog-close" id="requestClose" type="button" aria-label="סגירה">×</button>
+      <div class="request-content"><p class="eyebrow">בקשת הצעת מחיר</p><h2>המוצרים שבחרתם</h2><p class="request-intro">הוסיפו כמות והערה לכל דגם. המידע נשמר רק בדפדפן שלכם עד שתשלחו את הבקשה.</p><div id="requestItems" class="request-items"></div><p class="request-empty" id="requestEmpty">עדיין לא נבחרו מוצרים. חזרו לקטלוג והוסיפו דגמים לרשימה.</p><form id="requestForm" class="request-form"><label>שם מלא<input id="customerName" autocomplete="name" required placeholder="השם שלכם" /></label><label>טלפון<input id="customerPhone" autocomplete="tel" inputmode="tel" required placeholder="מספר טלפון" /></label><label>הערה כללית<textarea id="customerNote" rows="3" placeholder="לדוגמה: אזור אספקה או תאריך רצוי"></textarea></label><div class="request-actions"><button type="submit" class="button button-primary">שליחה ב-WhatsApp</button><button type="button" class="text-button" id="copyRequest">העתקת הבקשה</button><button type="button" class="text-button" id="clearRequest">ניקוי הרשימה</button></div><p id="requestFeedback" class="request-feedback" aria-live="polite"></p></form></div>
+    </dialog>
+
+    <template id="productTemplate">
+      <article class="product-card">
+        <button class="product-visual" type="button" aria-label="הצגת פרטי המוצר"><img class="product-image" loading="lazy" /><span>מתוך הקטלוג</span></button>
+        <div class="product-card-body">
+          <p class="product-brand"></p>
+          <h3 class="product-title"></h3>
+          <p class="product-meta"></p>
+          <div class="product-footer"><code></code><div><button class="add-button" type="button">להצעה</button><button class="details-button" type="button">לפרטים</button></div></div>
+        </div>
+      </article>
+    </template>
+    <script src="app.js" defer></script>
+  </body>
+</html>

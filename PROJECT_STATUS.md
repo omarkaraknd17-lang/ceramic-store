@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.1.0` (initial setup — no application code yet)
+`0.3.5` (SPOT and SEBACH shower-enclosure catalog gap-reconciliation pass)
 
 ## Completed
 
@@ -13,14 +13,138 @@
 - `.gitignore` added
 - Base folder structure created (`/docs`, `/data`, `/public`, `/public/products`)
 - `CHANGELOG.md` added
+- Master catalog schema created in `data/catalog-schema.json`
+- Source inventory created in `data/source-catalogs.json`
+- First Chinese supplier batch ingested: 10 PDF catalogs, source provenance retained
+- 104 source-verifiable product records created in `data/master-products.json`
+- Product display-image policy and Chinese text-removal workflow documented
+- Visual review completed for all six scan-only Chinese catalogs; Allye and Polisa brands verified
+- 79 page-level extraction work items added without inventing SKU or size data
+- Four Allye polished-porcelain collections and visible sample codes verified at high resolution and added to `data/collection-index.json`
+- 17 individual Allye polished-porcelain SKUs added from high-resolution source-page review
+- Hebrew RTL storefront prototype added in `public/`, including search, filters, product details and request-price guidance
+- Source-page images rendered for every currently verified product card; the catalog and page reference remain preserved
+- 50 Eagle Sintered Stone SKUs now have individual tile-only image crops; each crop retains source-page metadata
+- Sintered Stone product crops regenerated from 4800px-wide source-page renders for clearer catalogue imagery
+- 23 Eagle Whale MAX SKUs now have individual high-resolution tile-only crops; Chinese catalogue captions are excluded from display images while provenance remains in metadata
+- 5 Eagle Forest Song SKUs now have individual high-resolution wood-look tile crops
+- 9 Eagle Star Marks SKUs now have individual high-resolution representative tile crops; two source-page references were corrected after visual verification
+- 17 verified Allye Polished Porcelain SKUs now have individual high-resolution tile-only crops
+- Product detail view now supports full-size image zoom for closer material inspection
+- Quote-request list added: visitors can select models, enter quantities and copy a formatted request locally for sales follow-up
+- Quote requests can be sent directly to the configured store WhatsApp number; no customer data is stored by the site
+- Millennium Ceramics identity added with the supplied MP logo, Hebrew store name, address and 1994 establishment year
+- Home page is being redesigned around a luxury bathroom hero and category-first catalogue navigation, guided by the supplied prior-design reference
+- User-provided Millennium Ceramics design source and its 1,010 accompanying catalogue images are now preserved in the project as the active storefront source
+- Multi-model catalogue page scans are retained in the imported source but excluded from customer-facing product cards until individual clean product images are prepared
+- Customer catalogue controls refined: categories wrap cleanly, size filters are optional, the catalogue no longer overlays content, and the logo asset is corrected
+- Home hero redesigned with a dedicated luxury bathroom image and non-sticky header for a clearer visual hierarchy
+- Claude-inspired Hebrew RTL home page implemented as the public landing page, with category-first navigation, verified store contact details and a separate retained catalogue route
+- Home page navigation and category presentation refined with a wide product mega-menu and image-led category cards, inspired by the user-supplied tile-store reference without reusing its brand or content
+- Brand logo and store name now return customers to the home page from the catalogue
+- Bathroom category landing page added with supplier-sourced SEBACH and Mitrani catalogue previews; individual model extraction remains in progress
+- Complete 555-page intake index generated for the four new bathroom catalogs, with source-page text-layer status retained for every page
+- 442 source-text model-code candidates generated for visual verification; candidates are intentionally not published until model, dimensions and image are confirmed
+- All 555 bathroom catalog pages rendered as source-reference images and linked back to their inventory records for clean product-image extraction
+- Extracted and source-indexed 769 embedded supplier images from the four bathroom catalogs; all remain unreviewed until mapped to verified product records
+- First seven Mitrani MEITAL shower-enclosure records visually verified with clean embedded product images and retained page provenance
+- Five additional Mitrani MEITAL shower-enclosure models (ME03PK, ME27, ME07F, ME24 and G47F) visually verified from clean individual supplier images and retained page provenance
+- Five more Mitrani MEITAL shower-enclosure models (ME07, ME907F, ME907D, G47 and G47D) visually verified from clean individual supplier images and retained page provenance
+- All currently published Mitrani shower model names are now presented in Hebrew while their original supplier codes and source provenance remain unchanged
+- Five further Mitrani shower-enclosure models (KME, MCS, ME06, G46 and ME206) were visually verified from clean individual source images and retained page provenance
+- Mitrani models MEN, H01 and H20 were visually verified from clean individual source images and retained page provenance
+- Mitrani models H401, H491, H441, H48 and H01PK were visually verified from clean individual source images and retained page provenance
+- Mitrani models H45, H941, H02PK, H03PK and H27 were visually verified from clean individual source images and retained page provenance
+- Mitrani models H07F, H24, H447F, H07 and H907F were visually verified from clean individual source images and retained page provenance
+- Mitrani models H907D, H447, H447D, KH and H06 were visually verified from clean individual source images and retained page provenance
+- Mitrani models H406, H410, H206, H408 and H406D were visually verified from clean individual source images and retained page provenance
+- Mitrani models HN, L and PL were added from clean individual source images; the latter two intentionally retain an unconfirmed collection label instead of inferring a source series
+- Mitrani models 7001, 791, HA41, HA748 and 7002PC were added from clean individual source images with explicit unconfirmed collection labels; the page-level 7002PC/KP2 ambiguity is retained in the record note
+- Mitrani models HA741, 7002PK, 7002 and P2 were added from clean individual source images, retaining source-page code relationships in notes where the page contains more than one code
+- Customer-facing cards now omit an internal `not_confirmed` collection marker while retaining that flag in the source-preserving record for supplier follow-up
+- Verified SPOT MAXIMAL tileable floor drain added with a dedicated Hebrew `ניקוזים` catalog filter and source-preserving product record
+- Verified SPOT CAPSULE 80 cm integral bathroom basin added with a dedicated Hebrew `כיורי רחצה` filter and source-preserving product record
+- Mitrani models HA47F and P were visually verified from clean individual supplier images and added with retained page provenance
+- Mitrani models HA47, HA47D, MS, RV, 7006, HA46, RV2 and 7008 were visually verified from clean individual supplier images and added with retained page provenance
+- Mitrani models 7006D and MSN were visually verified from clean individual supplier images and added with retained page provenance
+- SEBACH Bath Design models ORIENT, ALBA, ARENA, LORD, LOREN PLUS, NIRVANA and RAYBAN were visually verified from individual supplier images and added with retained page provenance
+- SEBACH Bath Design models DENNIS, HERMES, BABY THOMAS, THOMAS, WILLIAM and SIAM were visually verified from individual supplier images and added with retained page provenance
+- SEBACH Bath Design models FABIOLA, ANDREA, DIVA, PHILIP, ANDREW, AUSTIN, LEON, ARTHUR, PATRICK and KORIN were visually verified from individual supplier images and added with retained page provenance
+- SEBACH Bath Design models DRORI, LAGOON, LUNA, SKY, CASTLE, CLAUDIA, KAREN and SIMON were visually verified from individual supplier images and added with retained page provenance
+- SEBACH Bath Design models CHRISTINA, MONA LISA, BEATRICE, VICTORIA and SINGLE were visually verified from individual supplier images and added with retained page provenance
+- SPOT SAVANNAH shower system 225500 was visually verified and published with a clean individual supplier image and retained source provenance
+- Six individual MAXIMAL linear-drain SKUs were added from the SPOT source page with collection-matched imagery, explicit size codes and retained provenance
+- Three individual CAPSULE integral-basin sizes were added from the SPOT source page with collection-matched imagery, source-stated dimensions and retained provenance
+- SPOT kitchen sinks PHOENIX and BIG 595, plus three clearly mapped toilet models, were added with clean supplier images and retained source provenance
+- Six further SPOT toilet models were visually verified with dedicated supplier images and added to the customer-facing toilet category
+- SPOT SAAR bath screen and five individually coded LINE acrylic-bathtub sizes were visually verified from clean supplier imagery and added with retained source provenance
+- Twelve SPOT DECORATIVE DRAIN and MASTER DRAIN floor-drain SKUs were visually verified from clear source images and added without guessing the individual finish-to-code mapping
+- Seven SPOT shower-system SKUs (JAGUAR and SAVANNAH) were verified from direct supplier images, retaining each individual code and explicit collection-image/finish guidance
+- Two SPOT basin faucets (STICK and RAIN) were visually verified from clean supplier images and released through a dedicated Hebrew faucet filter
+- Nine additional individually coded STICK and RAIN faucet options were added with explicit collection-image and finish-confirmation guidance
+- Three source-verified SPOT wall-basin faucet SKUs were added with a direct collection image and retained page provenance
+- SPOT MAGIC ACTIVE T1 and T3 toilets were visually verified from their dedicated source pages and added with direct supplier imagery
+- Three SPOT countertop-basin variants (ADVA and HOFIT) were visually verified with dimensions, clean supplier images and retained source provenance
+- SPOT HEN, GOLAN and LOOP shower models were visually verified from direct source imagery and added with source-stated hardware/size information
+- SEBACH Bath Design DA VINCI and VISTA vanity models were visually verified from clean source images and added with source-stated size information
+- SEBACH Bath Design VISTA imagery was corrected against the source page and the distinct VIDA model was added with its verified image and dimensions
+- Verified bathroom cards now support a source-page crop presentation only when a single supplier product can be displayed without altering its underlying image or provenance; no generated imagery is published through this workflow
+- Five SPOT LED bathroom mirrors were visually verified from their exact individual supplier-page photographs and published with a dedicated Hebrew mirror filter; each display is an unaltered source-page crop with retained page provenance
+- Five further SPOT LED bathroom mirrors (LUX and capsule forms) were visually verified from exact supplier-page photographs and added to the same mirror category with source-preserving individual display crops
+- Ten SPOT round mirrors with brushed metal frames were added as individually coded 60 cm and 80 cm finish variants; code-to-finish mappings and source-page collection photographs are retained
+- Five Mitrani by SEBACH DIAMOND integral countertop-basin widths were source-verified and added with code-level dimensions and a clean original supplier-product photo crop
+- Six individually coded Rocco by SEBACH ceramic countertop-basin plugs were source-verified by finish, published with a dedicated Hebrew basin-accessories filter, and retained with their original product-photo crop
+- First customer-facing shower-model grid published locally for the seven verified Mitrani MEITAL products, with model-specific WhatsApp enquiry links and no unverified source pricing
+- First nine SEBACH Bath Design vanity models visually verified with clean embedded product images, dimensions and retained page provenance
+- SEBACH Bath Design model KODKOD was visually verified from its individual source image and added with its available width range
+- SEBACH Bath Design model ROYAL was visually verified from its individual source image and added with its available width range
+- SEBACH Bath Design model SAMUEL was visually verified from its individual source image and added with its available width range
+- SEBACH Bath Design models JESSICA and NATALIE were visually verified from individual source images and added with their available width ranges
+- SEBACH Bath Design model ZOHAR DOUBLE was visually verified from its individual source image and added with the source-stated 120–200 cm width range
+- Customer-facing vanity-model grid published locally; bathroom-category linking is being finalized
+- Unified verified bathroom catalogue added; it reads only visually verified supplier records and updates as more models are verified
+- Twelve SEBACH shower-enclosure models visually verified from catalogue pages and added with clean embedded supplier images, source pages and dimension ranges
+- SEBACH shower-enclosure catalogue reviewed through its final product page; model SHIR was added from the closing product spread
+- SPOT catalogue review started with visually verified Rocco by SEBACH kitchen-sink models, retaining catalogue pages and clean supplier imagery
+- The unified bathroom catalogue now has a dedicated kitchen-sink filter, so verified Rocco by SEBACH sinks are discoverable without mixing them into bathroom cabinets or shower enclosures
+- The unified catalogue always refreshes its verified product dataset instead of reusing a stale browser-cached list during catalogue updates
+- Main-page bathroom links now route into the unified verified bathroom catalogue
+- Master-catalog manifest added as the canonical entry point for separate supplier datasets, source-preserving record schema, direct-asset count and inventory count
+- Read-only catalogue-integrity checker added for duplicate IDs, missing customer images and missing supplier/source provenance
+- Four additional bathroom-supplier PDF sources inventoried separately: SEBACH Bath Design, Mitrani showers, SEBACH/Mitrani SPOT accessories, and SEBACH shower enclosures
+- Rocco by SEBACH NAIA countertop basin 134401 visually verified with source-stated 80 × 38 × 13 cm dimensions and a clean original supplier-photo crop
+- Six Rocco by SEBACH TOP tall cold-water basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH EXCELLENT cold-water basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Five Rocco by SEBACH STICK tall single-lever basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Five MAX short gooseneck basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Five Rocco by SEBACH RAIN tall basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Eight MAX XO concealed-shower trim variants visually verified with individual codes, source-stated finishes and unaltered source-photo crops
+- Five Rocco by SEBACH RAIN medium basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH STICK slim tall basin-faucet finish variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH MINIMAL three-way concealed-shower trim variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH MINIMAL four-way concealed-shower trim variants visually verified with individual codes and unaltered source-photo crop
+- Six MAX five-piece shower-package finish variants visually verified with individual codes and unaltered source-photo crop
+- Eight MINIMAL multi-part shower-package variants visually verified with individual codes, source-stated finishes and unaltered source-photo crops
+- Four additional MINIMAL three-way shower-package finish variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH JET toilet-spray finish variants visually verified with individual codes and unaltered source-photo crop
+- Six Rocco by SEBACH SELECT water-outlet and shut-off-handle finish variants visually verified with individual codes and unaltered source-photo crop
+- Four SEBACH toilet-seat variants visually verified with individual codes and unaltered source-photo crop
+- Two Rocco by SEBACH T1 Tornado wall-hung toilets visually verified with individual codes and unaltered source-photo crop
+- Full existing project codebase (storefront pages, catalog data, docs) brought into the `ceramic-store` git repository for the first time; `main` now reflects the real project instead of an empty scaffold
+- SPOT July 2026 catalog cross-checked in full against the existing 356-record catalog; 20 previously-missing SKUs added across 9 products (new MAXIMAL square drain sizes, a missing MAX Stick Short bronze finish, a new XO wall-system body and 16 cm spout finish set, a missing Rocco wall-system bronze body, two new Rocco spout-length finish sets, a missing matte-black Rocco oval basin, and the new LAPINO compact vanity)
+- SEBACH Shower Enclosures 2025 catalog visually reviewed page-by-page against the existing 13 catalogued models; 9 previously-missing shower/bathtub-screen models added (ROTEM, KD, KDD, HLP, DLP, YANIV, LIRAZ, DAN, NOAM)
 
 ## In Progress
 
-- Nothing yet — awaiting next instructions before building any pages or adding frameworks.
+- Full variant extraction for the four verified Allye polished-porcelain collections, then high-resolution OCR or supplier data-sheet verification for the remaining scan-only pages
+- Reattach TAU and other outstanding supplier PDFs before their separate inventories can be extracted
+- Verify price, sale unit and availability for every product before storefront publication
+- Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets
 
 ## Next Steps
 
-- Decide on tech stack / framework (if any) for the catalog website
-- Define initial product data structure in `/data`
-- Plan site pages and catalog layout
-- Begin implementation once direction is confirmed
+- Complete the remaining source catalog extraction and quality review
+- Confirm public pricing, availability and ordering rules
+- Crop each source-page image into a SKU-specific tile-only display image, starting with the verified Allye polished range
+- Confirm public pricing, availability and ordering rules before enabling purchases
+- Locate and re-supply the original 1,010 supplier catalogue images so existing verified records can be backed by their real image assets in this repository (most existing records currently reference `public/bathroom-product-assets/...` paths whose image files are not yet present here)

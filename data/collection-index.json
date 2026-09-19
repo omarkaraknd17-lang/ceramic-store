@@ -1,0 +1,107 @@
+[
+  {
+    "collection_id": "CN-ALLYE-POLISHED:soluble-salt-series",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "collection_series": "Soluble Salt Series",
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "water_absorption": "<0.5%",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "sample_sku_codes_visually_verified": [
+      "AYS6000",
+      "AYS6001",
+      "AYS6014",
+      "AYS6020",
+      "AYS6028",
+      "AYS6079"
+    ],
+    "publication_eligible": false,
+    "notes": "Collection-level facts and visible sample codes are verified from a high-resolution visual review. Complete variant extraction and commercial verification remain required."
+  },
+  {
+    "collection_id": "CN-ALLYE-POLISHED:micro-crystal-series",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "collection_series": "Micro Crystal Series",
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "water_absorption": "<0.5%",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "sample_sku_codes_visually_verified": [
+      "AYC6001",
+      "AYC6002",
+      "AYC6003"
+    ],
+    "publication_eligible": false,
+    "notes": "Collection-level facts and visible sample codes are verified from a high-resolution visual review. Complete variant extraction and commercial verification remain required."
+  },
+  {
+    "collection_id": "CN-ALLYE-POLISHED:stone-line-series",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "collection_series": "Stone Line Series",
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "water_absorption": "<0.5%",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "sample_sku_codes_visually_verified": [
+      "AYL6001",
+      "AYL6002",
+      "AYL6003",
+      "AYL6004"
+    ],
+    "publication_eligible": false,
+    "notes": "Collection-level facts and visible sample codes are verified from a high-resolution visual review. Complete variant extraction and commercial verification remain required."
+  },
+  {
+    "collection_id": "CN-ALLYE-POLISHED:super-white-super-black-series",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-POLISHED",
+    "collection_series": "Super White / Super Black Series",
+    "product_type_category": "Polished porcelain tile",
+    "sizes_mm": [
+      "600 x 600",
+      "800 x 800"
+    ],
+    "water_absorption": "<0.5%",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-POLISHED",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "sample_sku_codes_visually_verified": [
+      "AYSW601F",
+      "AYSW601D",
+      "AYSB601",
+      "AYSB602"
+    ],
+    "publication_eligible": false,
+    "notes": "Collection-level facts and visible sample codes are verified from a high-resolution visual review. Complete variant extraction and commercial verification remain required."
+  }
+]

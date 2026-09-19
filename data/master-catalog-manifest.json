@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "title": "Millennium Ceramics master catalog manifest",
+  "purpose": "Canonical inventory entry point. Product records remain in source-specific datasets so original supplier provenance is never overwritten.",
+  "record_schema": [
+    "id",
+    "supplier_group",
+    "brand",
+    "source_catalog_id",
+    "source_catalog",
+    "collection_series",
+    "sku_model_code",
+    "product_name",
+    "product_type_category",
+    "sizes_mm",
+    "finish",
+    "color_design",
+    "image_page_reference",
+    "display_image",
+    "display_crop",
+    "price",
+    "currency",
+    "availability",
+    "display_asset_status",
+    "data_confidence",
+    "notes"
+  ],
+  "datasets": [
+    {
+      "path": "data/master-products.json",
+      "scope": "Chinese supplier group only",
+      "supplier_groups": ["Chinese supplier group"],
+      "record_count": 104,
+      "publication_rule": "Only records with individual verified display assets are customer-facing."
+    },
+    {
+      "path": "data/bathroom-verified-products.json",
+      "scope": "Verified Israeli bathroom suppliers",
+      "supplier_groups": ["SEBACH supplier group", "Mitrani supplier group", "SEBACH and Mitrani supplier group", "Sebach and Mitrani supplier group"],
+      "record_count": 384,
+      "publication_rule": "Every record must preserve a source catalogue/page reference and a verified supplier display image."
+    },
+    {
+      "path": "data/bathroom-product-candidates.json",
+      "scope": "Unpublished source-text candidates from new bathroom catalogues",
+      "record_count": 442,
+      "publication_rule": "Not customer-facing until visually verified against source page and image."
+    }
+  ],
+  "aggregate_counts": {
+    "catalog_inventory_records": 488,
+    "verified_customer_facing_records_with_direct_display_asset": 384,
+    "source_page_catalog_records": 104,
+    "unpublished_review_candidates": 442,
+    "total_supplier_catalog_sources": 14
+  },
+  "source_separation": "Supplier groups must not be merged, renamed or inferred from display artwork. Chinese sources remain separate from TAU, SEBACH, Mitrani and all other supplier groups."
+}

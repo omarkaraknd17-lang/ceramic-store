@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Assistant:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="./catalog-photos.js"></script>
+<script src="./catalog-thumbs.js"></script>
+<style>
+html,body{margin:0;padding:0}
+body{background:#F4F1E9;-webkit-font-smoothing:antialiased}
+a{color:#122A44}
+a:hover{color:#BF6A38}
+::selection{background:#BF6A38;color:#fff}
+.hero-section{background:#10345f!important}
+.hero-visual{background:linear-gradient(90deg,#10345f12,#10345f66),url('./assets/hero-luxury-bathroom.png') center/cover!important;min-height:540px}
+.hero-visual img{display:none!important}
+@media(max-width:760px){.hero-visual{min-height:300px}}
+</style>
+</helmet>
+<div ref="{{ rootRef }}" dir="{{ dir }}" style="font-family:Assistant,'Segoe UI',sans-serif;color:#122A44;background:#F4F1E9;line-height:1.55;font-size:16px;min-height:100vh">
+
+  <div style="background:#122A44;color:#A9BED0;font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.04em;padding:9px clamp(20px,5vw,72px);display:flex;flex-wrap:wrap;gap:8px 22px;justify-content:space-between;align-items:center">
+    <span>{{ t.strip }}</span>
+    <span style="display:flex;gap:14px;align-items:center">
+      <span style="white-space:nowrap">{{ t.stripCall }} <a href="tel:0546601762" dir="ltr" style="color:#FDFCF7;text-decoration:none;border-bottom:1px solid #C9A468;unicode-bidi:isolate;display:inline-block">054-660-1762</a></span>
+      <span style="display:flex;gap:4px">
+        <sc-for list="{{ langs }}" as="l" hint-placeholder-count="3">
+          <button onClick="{{ l.onClick }}" aria-pressed="{{ l.pressed }}" style="border:1px solid #ffffff33;background:none;color:#A9BED0;font:inherit;font-size:10.5px;letter-spacing:.08em;padding:3px 7px;cursor:pointer;border-radius:2px" style-hover="color:#FDFCF7;border-color:#C9A468">{{ l.label }}</button>
+        </sc-for>
+      </span>
+    </span>
+  </div>
+
+  <header style="position:relative;z-index:40;background:#FDFCF7;border-bottom:1px solid #DFD9C9;height:76px;padding:0 clamp(20px,5vw,72px);display:flex;align-items:center;gap:clamp(14px,3vw,36px)">
+    <a href="./home.html" aria-label="קרמיקה מילניום - דף הבית" style="display:flex;align-items:center;gap:11px;text-decoration:none">
+      <img src="./logo.png" alt="" style="width:44px;height:44px;display:block;border-radius:10px">
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.16em;color:#5A6470;display:block">CERAMICS
+        <strong style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:21px;font-weight:700;letter-spacing:0;color:#122A44">{{ t.brand }}</strong>
+      </span>
+    </a>
+    <nav style="display:flex;align-items:center;gap:4px;margin-inline-start:auto">
+      <button onClick="{{ toggleMega }}" style="border:0;background:none;font:inherit;font-size:15px;font-weight:600;color:#122A44;padding:9px 14px;cursor:pointer;border-radius:2px" style-hover="background:#E9E5DA">{{ t.collections }}</button>
+      <a href="#catalog" style="text-decoration:none;font-size:15px;font-weight:500;color:#5A6470;padding:9px 14px;border-radius:2px" style-hover="background:#E9E5DA;color:#122A44">{{ t.catalog }}</a>
+      <a href="#trade" style="text-decoration:none;font-size:15px;font-weight:500;color:#5A6470;padding:9px 14px;border-radius:2px" style-hover="background:#E9E5DA;color:#122A44">{{ t.trade }}</a>
+    </nav>
+    <a href="tel:0546601762" dir="ltr" style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;unicode-bidi:isolate;border:1px solid #122A44;color:#122A44;font-weight:600;font-size:14.5px;padding:9px 16px;border-radius:2px;white-space:nowrap" style-hover="background:#122A44;color:#F4F1E9">054-660-1762</a>
+    <button onClick="{{ openBasket }}" style="border:0;background:#C9A468;color:#122A44;font:inherit;font-weight:700;font-size:14.5px;padding:11px 18px;border-radius:2px;cursor:pointer;display:inline-flex;align-items:center;gap:9px;white-space:nowrap" style-hover="background:#B08D50">{{ t.basket }}
+      <b style="background:#122a4426;min-width:22px;height:22px;border-radius:2px;display:grid;place-items:center;font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:500">{{ basketCount }}</b>
+    </button>
+  </header>
+
+  <sc-if value="{{ megaOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed;inset-block-start:76px;inset-inline:0;z-index:39;background:#FDFCF7;border-bottom:1px solid #DFD9C9;box-shadow:0 30px 60px #122a4426;padding:30px clamp(20px,5vw,72px) 38px;max-height:calc(100vh - 76px);overflow:auto">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:26px 34px;max-width:1340px">
+        <sc-for list="{{ megaGroups }}" as="g" hint-placeholder-count="6">
+          <section>
+            <h3 style="margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid #DFD9C9;font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:500;letter-spacing:.14em;color:#C9A468">{{ g.title }}</h3>
+            <sc-for list="{{ g.items }}" as="it" hint-placeholder-count="4">
+              <button onClick="{{ it.onClick }}" style="display:flex;width:100%;justify-content:space-between;gap:12px;text-align:start;border:0;background:none;font:inherit;font-size:14.5px;color:#5A6470;padding:5px 0;cursor:pointer" style-hover="color:#122A44;font-weight:700">{{ it.label }}
+                <i style="font-style:normal;font-family:'IBM Plex Mono',monospace;font-size:11px;opacity:.6">{{ it.count }}</i>
+              </button>
+            </sc-for>
+          </section>
+        </sc-for>
+      </div>
+    </div>
+  </sc-if>
+
+  <section class="hero-section" style="display:grid;grid-template-columns:minmax(0,1.02fr) minmax(0,.98fr);background:#122A44;color:#B4C4D4">
+    <div style="padding:clamp(40px,6vw,82px) clamp(20px,5vw,72px);display:flex;flex-direction:column;justify-content:center;gap:22px">
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;color:#C9A468">{{ t.kicker }}</span>
+      <h1 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:clamp(32px,4.5vw,60px);line-height:1.06;letter-spacing:-.01em;color:#FDFCF7;max-width:16ch;text-wrap:pretty">{{ t.h1 }}</h1>
+      <p style="margin:0;font-size:clamp(15.5px,1.4vw,18px);max-width:48ch;color:#9AAEC2;text-wrap:pretty">{{ t.lede }}</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:4px">
+        <a href="#catalog" style="background:#BF6A38;color:#fff;text-decoration:none;font-weight:700;font-size:15px;padding:14px 26px;border-radius:2px" style-hover="background:#9E5127">{{ t.ctaCatalog }}</a>
+        <a href="tel:0546601762" style="border:1px solid #ffffff59;color:#FDFCF7;text-decoration:none;font-weight:600;font-size:15px;padding:14px 26px;border-radius:2px" style-hover="border-color:#FDFCF7;background:#ffffff14">{{ t.ctaTalk }}</a>
+      </div>
+      <div style="display:flex;gap:34px;flex-wrap:wrap;margin-top:14px;padding-top:22px;border-top:1px solid #ffffff26">
+        <div style="max-width:19ch;font-size:13.5px;color:#8B9FB4"><b style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:26px;font-weight:700;color:#FDFCF7">{{ totalLabel }}</b> {{ t.statPhotos }}</div>
+        <div style="max-width:19ch;font-size:13.5px;color:#8B9FB4"><b style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:26px;font-weight:700;color:#FDFCF7">{{ collectionCount }}</b> {{ t.statCollections }}</div>
+        <div style="max-width:19ch;font-size:13.5px;color:#8B9FB4"><b style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:26px;font-weight:700;color:#FDFCF7">{{ t.statNorthValue }}</b> {{ t.statNorth }}</div>
+      </div>
+    </div>
+    <div class="hero-visual" aria-hidden="true" style="background:#0C1E31;display:grid;grid-template-columns:repeat(3,1fr);gap:5px;padding:5px;align-content:center">
+      <sc-for list="{{ wall }}" as="w" hint-placeholder-count="12">
+        <img src="{{ w.img }}" alt="" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;height:auto;object-fit:cover;display:block;background:#1D3D5C">
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="background:#FDFCF7;border-bottom:1px solid #DFD9C9;padding:26px clamp(20px,5vw,72px);display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px 34px">
+    <div style="display:flex;flex-direction:column;gap:4px">
+      <b style="font-family:'Frank Ruhl Libre',serif;font-size:18px;font-weight:700;color:#122A44">{{ t.proof1 }}</b>
+      <span style="font-size:13.5px;color:#5A6470">{{ t.proof1b }}</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:4px">
+      <b style="font-family:'Frank Ruhl Libre',serif;font-size:18px;font-weight:700;color:#122A44">{{ t.proof2 }}</b>
+      <span style="font-size:13.5px;color:#5A6470">{{ t.proof2b }}</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:4px">
+      <b style="font-family:'Frank Ruhl Libre',serif;font-size:18px;font-weight:700;color:#122A44">{{ t.proof3 }}</b>
+      <span style="font-size:13.5px;color:#5A6470">{{ t.proof3b }}</span>
+    </div>
+  </section>
+
+  <section style="background:#F4F1E9;padding:clamp(34px,4.5vw,58px) clamp(20px,5vw,72px);border-bottom:1px solid #DFD9C9">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:20px">
+      <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:clamp(22px,2.6vw,30px);font-weight:700">{{ t.pathsTitle }}</h2>
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.1em;color:#5A6470">{{ t.pathsNote }}</span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px">
+      <sc-for list="{{ paths }}" as="p" hint-placeholder-count="6">
+        <button onClick="{{ p.onClick }}" style="border:1px solid #DFD9C9;background:#FDFCF7;text-align:start;cursor:pointer;font:inherit;padding:0;display:flex;flex-direction:column;overflow:hidden;border-radius:2px" style-hover="border-color:#122A44;box-shadow:0 10px 22px #122a4412">
+          <img src="{{ p.img }}" alt="" loading="lazy" decoding="async" style="width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#E7E1D3">
+          <span style="padding:13px 15px 15px;display:flex;align-items:baseline;justify-content:space-between;gap:10px;width:100%;box-sizing:border-box">
+            <b style="font-size:15px;font-weight:700;color:#122A44">{{ p.label }}</b>
+            <i style="font-style:normal;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:#C9A468">{{ p.count }}</i>
+          </span>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="background:#F4F1E9;padding:clamp(44px,6vw,78px) clamp(20px,5vw,72px);border-bottom:1px solid #DFD9C9">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:26px">
+      <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:clamp(24px,3vw,34px);font-weight:700">{{ t.pickedCollections }}</h2>
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.12em;color:#5A6470">{{ collectionsNote }}</span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;background:#F4F1E9">
+      <sc-for list="{{ collections }}" as="c" hint-placeholder-count="8">
+        <button onClick="{{ c.onClick }}" style="border:1px solid #DFD9C9;padding:0;background:#FDFCF7;text-align:start;cursor:pointer;font:inherit;display:flex;flex-direction:column;border-radius:2px;overflow:hidden" style-hover="border-color:#122A44;box-shadow:0 10px 22px #122a4412">
+          <div style="position:relative;aspect-ratio:5/4;overflow:hidden;background:#E9E5DA">
+            <img src="{{ c.img }}" alt="" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;display:block">
+            <span style="position:absolute;inset-block-start:10px;inset-inline-start:10px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:#fff;background:#122A44cc;padding:3px 7px">{{ c.index }}</span>
+          </div>
+          <div style="padding:15px 16px 18px;display:flex;flex-direction:column;gap:5px">
+            <span style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.12em;color:#C9A468">{{ c.cat }}</span>
+            <span style="display:flex;align-items:baseline;justify-content:space-between;gap:10px">
+              <b style="font-family:'Frank Ruhl Libre',serif;font-size:19px;font-weight:700;color:#122A44">{{ c.name }}</b>
+              <i style="font-style:normal;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:#5A6470">{{ c.count }}</i>
+            </span>
+          </div>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+
+  <sc-if value="{{ showTrade }}" hint-placeholder-val="{{ true }}">
+    <section id="trade" style="background:#FDFCF7;border-bottom:1px solid #DFD9C9;padding:26px clamp(20px,5vw,72px);display:flex;align-items:center;gap:20px 36px;flex-wrap:wrap">
+      <p style="margin:0;font-size:15.5px;color:#5A6470;max-width:64ch;text-wrap:pretty"><strong style="color:#122A44">{{ t.tradeLead }}</strong> {{ t.tradeBody }}</p>
+      <a href="tel:0546601762" style="margin-inline-start:auto;text-decoration:none;color:#122A44;font-weight:700;font-size:15px;border-bottom:2px solid #BF6A38;padding-bottom:3px;white-space:nowrap">{{ t.tradeCta }}</a>
+    </section>
+  </sc-if>
+
+  <sc-if value="{{ hasCollectionHead }}" hint-placeholder-val="{{ false }}">
+    <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));background:#0C1E31;color:#B4C4D4">
+      <img src="{{ head.img }}" alt="" loading="lazy" style="width:100%;height:100%;min-height:260px;object-fit:cover;display:block;background:#1D3D5C">
+      <div style="padding:clamp(28px,4vw,54px) clamp(20px,5vw,60px);display:flex;flex-direction:column;justify-content:center;gap:14px">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.18em;color:#C9A468">{{ head.cat }}</span>
+        <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:clamp(26px,3.4vw,42px);font-weight:700;color:#FDFCF7">{{ head.name }}</h2>
+        <p style="margin:0;font-size:15px;color:#9AAEC2;max-width:46ch;text-wrap:pretty">{{ head.note }}</p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:6px">
+          <sc-for list="{{ head.sizes }}" as="s" hint-placeholder-count="4">
+            <span style="border:1px solid #ffffff33;font-family:'IBM Plex Mono',monospace;font-size:11.5px;padding:5px 10px;color:#D6E1EC">{{ s.label }}</span>
+          </sc-for>
+        </div>
+        <button onClick="{{ clearFilters }}" style="align-self:flex-start;margin-top:10px;border:1px solid #ffffff59;background:none;color:#FDFCF7;font:inherit;font-size:14px;padding:11px 20px;border-radius:2px;cursor:pointer" style-hover="background:#ffffff14;border-color:#FDFCF7">{{ t.backAll }}</button>
+      </div>
+    </section>
+  </sc-if>
+
+  <section id="catalog" style="position:relative;background:#FDFCF7;border-bottom:1px solid #DFD9C9;padding:28px clamp(20px,5vw,72px) 22px;box-shadow:0 10px 28px #122a4408">
+    <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center">
+      <input value="{{ query }}" onChange="{{ onSearch }}" type="search" placeholder="{{ t.searchPh }}" style="flex:1;min-width:240px;max-width:520px;padding:13px 16px;border:1px solid #DFD9C9;border-radius:2px;background:#FDFCF7;font:inherit;font-size:15.5px;color:#122A44" style-focus="outline:none;border-color:#122A44">
+      <button onClick="{{ toggleGrip }}" aria-pressed="{{ gripPressed }}" style="border:1px solid {{ gripBd }};background:{{ gripBg }};color:{{ gripFg }};font:inherit;font-size:13.5px;font-weight:{{ gripFw }};padding:11px 15px;border-radius:2px;cursor:pointer" style-hover="border-color:#122A44">{{ t.gripOnly }}</button>
+      <button onClick="{{ toggleAmbience }}" aria-pressed="{{ ambiencePressed }}" style="border:1px solid {{ ambBd }};background:{{ ambBg }};color:{{ ambFg }};font:inherit;font-size:13.5px;font-weight:{{ ambFw }};padding:11px 15px;border-radius:2px;cursor:pointer" style-hover="border-color:#122A44">{{ t.hideAmbience }}</button>
+      <sc-if value="{{ filterActive }}" hint-placeholder-val="{{ false }}">
+        <button onClick="{{ clearFilters }}" style="border:1px solid #BF6A38;background:none;color:#BF6A38;font:inherit;font-size:13.5px;padding:11px 16px;border-radius:2px;cursor:pointer" style-hover="background:#BF6A38;color:#fff">{{ t.clear }}</button>
+      </sc-if>
+    </div>
+    <div style="display:flex;gap:7px;flex-wrap:wrap;padding:18px 0 4px">
+      <sc-for list="{{ chips }}" as="ch" hint-placeholder-count="10">
+        <button onClick="{{ ch.onClick }}" aria-pressed="{{ ch.pressed }}" style="flex:none;border:1px solid {{ ch.bd }};background:{{ ch.bg }};color:{{ ch.fg }};font-weight:{{ ch.fw }};padding:8px 14px;border-radius:2px;font:inherit;font-size:14px;cursor:pointer;white-space:nowrap;display:flex;gap:8px;align-items:center" style-hover="border-color:#122A44">{{ ch.name }}
+          <i style="font-style:normal;font-family:'IBM Plex Mono',monospace;font-size:11px;opacity:.6">{{ ch.count }}</i>
+        </button>
+      </sc-for>
+    </div>
+    <details style="margin-top:13px;border-top:1px solid #E7E1D3;padding-top:12px">
+      <summary style="cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.1em;color:#5A6470">{{ t.sizeLabel }}</summary>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;padding-top:12px">
+        <sc-for list="{{ sizeChips }}" as="s" hint-placeholder-count="8">
+          <button onClick="{{ s.onClick }}" aria-pressed="{{ s.pressed }}" style="flex:none;border:1px solid {{ s.bd }};background:{{ s.bg }};color:{{ s.fg }};padding:6px 11px;border-radius:2px;font:inherit;font-family:'IBM Plex Mono',monospace;font-size:12px;cursor:pointer;white-space:nowrap" style-hover="border-color:#122A44">{{ s.label }}</button>
+        </sc-for>
+      </div>
+    </details>
+  </section>
+
+  <main style="padding:30px clamp(20px,5vw,72px) 86px">
+    <div style="display:flex;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:20px">
+      <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:26px;font-weight:700">{{ heading }}</h2>
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:12px;color:#5A6470">{{ resultLabel }}</span>
+    </div>
+    <div style="display:grid;grid-template-columns:{{ gridCols }};gap:18px">
+      <sc-for list="{{ cards }}" as="p" hint-placeholder-count="12">
+        <article onClick="{{ p.onClick }}" tabindex="0" role="button" style="background:#FDFCF7;border:1px solid #E7E1D3;border-radius:2px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;transition:border-color .15s,box-shadow .15s,transform .15s" style-hover="border-color:#122A44;box-shadow:0 12px 26px #122a4414;transform:translateY(-2px)">
+          <div style="position:relative;aspect-ratio:4/3;background:#E7E1D3;overflow:hidden">
+            <img src="{{ p.img }}" alt="{{ p.name }}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;display:block">
+            <sc-if value="{{ p.showSize }}" hint-placeholder-val="{{ true }}">
+              <span style="position:absolute;inset-block-end:8px;inset-inline-end:8px;background:#FDFCF7ee;color:#122A44;font-family:'IBM Plex Mono',monospace;font-size:11px;padding:3px 7px">{{ p.size }}</span>
+            </sc-if>
+          </div>
+          <div style="padding:14px 15px 16px;display:flex;flex-direction:column;gap:7px;flex:1">
+            <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.1em;color:#C9A468">{{ p.collection }}</div>
+            <p style="margin:0;font-size:15px;font-weight:700;line-height:1.3;text-wrap:pretty">{{ p.name }}</p>
+            <p style="margin:0;font-size:13px;color:#5A6470;line-height:1.4">{{ p.desc }}</p>
+            <div style="margin-top:auto;padding-top:10px;border-top:1px solid #E7E1D3;display:flex;justify-content:space-between;gap:10px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:#5A6470">
+              <span>{{ t.sku }}</span><b style="font-weight:500;color:#122A44">{{ p.sku }}</b>
+            </div>
+          </div>
+        </article>
+      </sc-for>
+    </div>
+    <sc-if value="{{ isEmpty }}" hint-placeholder-val="{{ false }}">
+      <div style="padding:70px 0;text-align:center;color:#5A6470">
+        <b style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:22px;color:#122A44;margin-bottom:8px">{{ t.emptyTitle }}</b>
+        {{ t.emptyBody }}
+      </div>
+    </sc-if>
+    <sc-if value="{{ hasMore }}" hint-placeholder-val="{{ true }}">
+      <button onClick="{{ loadMore }}" style="display:block;margin:40px auto 0;padding:14px 36px;border:1px solid #122A44;background:none;color:#122A44;font:inherit;font-weight:700;font-size:15px;border-radius:2px;cursor:pointer" style-hover="background:#122A44;color:#F4F1E9">{{ t.more }}</button>
+    </sc-if>
+  </main>
+
+  <footer style="background:#122A44;color:#9AAEC2;padding:52px clamp(20px,5vw,72px) 44px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:32px 36px;padding-bottom:40px;margin-bottom:38px;border-bottom:1px solid #ffffff1f">
+      <sc-for list="{{ footerCols }}" as="col" hint-placeholder-count="4">
+        <nav style="display:flex;flex-direction:column;gap:9px">
+          <h3 style="margin:0 0 5px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;font-weight:500;color:#C9A468">{{ col.title }}</h3>
+          <sc-for list="{{ col.items }}" as="it" hint-placeholder-count="6">
+            <button onClick="{{ it.onClick }}" style="border:0;background:none;padding:0;font:inherit;font-size:14px;color:#B4C4D4;text-align:start;cursor:pointer;line-height:1.4" style-hover="color:#FDFCF7">{{ it.label }}</button>
+          </sc-for>
+        </nav>
+      </sc-for>
+      <nav style="display:flex;flex-direction:column;gap:9px">
+        <h3 style="margin:0 0 5px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;font-weight:500;color:#C9A468">{{ t.fCol4 }}</h3>
+        <a href="#trade" style="font-size:14px;color:#B4C4D4;text-decoration:none;line-height:1.4" style-hover="color:#FDFCF7">{{ t.trade }}</a>
+        <a href="https://maps.google.com/?q=HaHoshen+1+Kiryat+Shmona" target="_blank" rel="noopener" style="font-size:14px;color:#B4C4D4;text-decoration:none;line-height:1.4" style-hover="color:#FDFCF7">{{ t.fVisit }}</a>
+        <a href="https://wa.me/972546601762" target="_blank" rel="noopener" style="font-size:14px;color:#B4C4D4;text-decoration:none;line-height:1.4" style-hover="color:#FDFCF7">{{ t.fWhats }}</a>
+        <a href="https://instagram.com/melnium.ceramics" target="_blank" rel="noopener" style="font-size:14px;color:#B4C4D4;text-decoration:none;line-height:1.4" style-hover="color:#FDFCF7">{{ t.fInsta }}</a>
+        <a href="tel:0546601762" dir="ltr" style="font-size:14px;color:#B4C4D4;text-decoration:none;line-height:1.4;unicode-bidi:isolate" style-hover="color:#FDFCF7">054-660-1762</a>
+      </nav>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:34px;max-width:1240px">
+      <div>
+        <h3 style="margin:0 0 14px;font-family:'Frank Ruhl Libre',serif;font-size:19px;font-weight:700;color:#FDFCF7">{{ t.footBrand }}</h3>
+        <p style="margin:0 0 7px;font-size:14.5px">{{ t.address }}</p>
+        <p style="margin:0 0 7px;font-size:14.5px"><a href="tel:0546601762" dir="ltr" style="color:#FDFCF7;text-decoration:none;border-bottom:1px solid #ffffff40;unicode-bidi:isolate;display:inline-block">054-660-1762</a></p>
+        <p style="margin:0;font-size:14.5px"><a href="https://instagram.com/melnium.ceramics" target="_blank" rel="noopener" style="color:#FDFCF7;text-decoration:none;border-bottom:1px solid #ffffff40">melnium.ceramics@</a></p>
+      </div>
+      <div>
+        <h3 style="margin:0 0 14px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;font-weight:500;color:#C9A468">{{ t.hours }}</h3>
+        <p style="margin:0 0 7px;font-size:14.5px">{{ t.hours1 }}</p>
+        <p style="margin:0 0 7px;font-size:14.5px">{{ t.hours2 }}</p>
+        <p style="margin:0;font-size:14.5px">{{ t.hours3 }}</p>
+      </div>
+      <div>
+        <h3 style="margin:0 0 14px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;font-weight:500;color:#C9A468">{{ t.aboutCatalog }}</h3>
+        <p style="margin:0;font-size:14.5px;max-width:46ch;text-wrap:pretty">{{ t.aboutBody }}</p>
+      </div>
+    </div>
+    <div style="margin-top:38px;padding-top:22px;border-top:1px solid #ffffff1f;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:#8B9FB4">{{ t.footNote }}</div>
+  </footer>
+
+  <a href="https://wa.me/972546601762?text=%D7%A9%D7%9C%D7%95%D7%9D%2C%20%D7%94%D7%92%D7%A2%D7%AA%D7%99%20%D7%9E%D7%94%D7%A7%D7%98%D7%9C%D7%95%D7%92" target="_blank" rel="noopener" aria-label="WhatsApp" style="position:fixed;inset-block-end:22px;inset-inline-end:22px;z-index:35;width:54px;height:54px;border-radius:50%;background:#25D366;display:grid;place-items:center;box-shadow:0 10px 24px #0b3a2340">
+    <svg viewBox="0 0 24 24" style="width:28px;height:28px;fill:#fff"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2m0 2a8 8 0 1 1-4.1 14.9l-.4-.2-2.6.7.7-2.5-.2-.4A8 8 0 0 1 12 4m-3.4 4c-.2 0-.5.1-.7.4-.3.3-.9.9-.9 2s.9 2.3 1 2.5c.1.2 1.7 2.8 4.3 3.8 2.1.8 2.6.7 3 .6.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3l-2-1c-.3-.1-.5-.1-.7.1l-.8 1c-.1.2-.3.2-.6.1a6.5 6.5 0 0 1-3.2-2.8c-.2-.4 0-.5.2-.7l.4-.5.3-.5v-.5l-.8-2c-.2-.5-.4-.5-.6-.5z"/></svg>
+  </a>
+
+  <sc-if value="{{ overlayOn }}" hint-placeholder-val="{{ false }}">
+    <div onClick="{{ closeAll }}" style="position:fixed;inset:0;background:#0c1e31b3;z-index:50"></div>
+  </sc-if>
+
+  <sc-if value="{{ drawerOpen }}" hint-placeholder-val="{{ false }}">
+    <aside style="position:fixed;inset-block:0;inset-inline-end:0;width:min(430px,100%);background:#FDFCF7;z-index:60;display:flex;flex-direction:column;box-shadow:-20px 0 50px #0c1e3133">
+      <div style="padding:24px 26px 18px;border-bottom:1px solid #DFD9C9;display:flex;align-items:center;justify-content:space-between">
+        <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:21px;font-weight:700">{{ t.basket }}</h2>
+        <button onClick="{{ closeAll }}" aria-label="close" style="border:0;background:#E9E5DA;color:#122A44;width:34px;height:34px;border-radius:50%;font-size:20px;line-height:1;cursor:pointer">×</button>
+      </div>
+      <div style="flex:1;overflow:auto;padding:8px 26px">
+        <sc-for list="{{ basketLines }}" as="b" hint-placeholder-count="2">
+          <div style="display:flex;gap:13px;align-items:center;padding:14px 0;border-bottom:1px solid #E7E1D3">
+            <img src="{{ b.img }}" alt="" loading="lazy" style="width:56px;height:56px;object-fit:cover;flex:none;border-radius:2px;background:#E7E1D3">
+            <div style="display:flex;flex-direction:column;gap:5px;min-width:0">
+              <p style="margin:0;font-size:13.5px;font-weight:600;line-height:1.3">{{ b.name }}</p>
+              <small style="font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:#5A6470">{{ b.meta }}</small>
+              <label style="display:flex;align-items:center;gap:7px;font-size:12px;color:#5A6470">{{ t.qty }}
+                <input value="{{ b.qty }}" onChange="{{ b.onQty }}" type="number" min="0" step="0.5" style="width:72px;padding:5px 7px;border:1px solid #DFD9C9;background:#fff;font:inherit;font-family:'IBM Plex Mono',monospace;font-size:12.5px;border-radius:2px;color:#122A44">
+              </label>
+            </div>
+            <button onClick="{{ b.onRemove }}" style="margin-inline-start:auto;border:0;background:none;font:inherit;font-size:13px;color:#5A6470;text-decoration:underline;cursor:pointer;flex:none;align-self:flex-start" style-hover="color:#BF6A38">{{ t.remove }}</button>
+          </div>
+        </sc-for>
+        <sc-if value="{{ basketEmpty }}" hint-placeholder-val="{{ true }}">
+          <div style="padding:56px 0;text-align:center;color:#5A6470">
+            <b style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:20px;color:#122A44;margin-bottom:8px">{{ t.basketEmptyTitle }}</b>
+            {{ t.basketEmptyBody }}
+          </div>
+        </sc-if>
+      </div>
+      <div style="padding:18px 26px 24px;border-top:1px solid #DFD9C9;background:#F4F1E9">
+        <div style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.1em;color:#C9A468;margin-bottom:8px">{{ t.intentTitle }}</div>
+        <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px">
+          <sc-for list="{{ intents }}" as="i" hint-placeholder-count="3">
+            <button onClick="{{ i.onClick }}" aria-pressed="{{ i.pressed }}" style="border:1px solid {{ i.bd }};background:{{ i.bg }};color:{{ i.fg }};font:inherit;font-size:13px;font-weight:{{ i.fw }};padding:8px 12px;border-radius:2px;cursor:pointer" style-hover="border-color:#122A44">{{ i.label }}</button>
+          </sc-for>
+        </div>
+        <button onClick="{{ sendWhatsapp }}" style="width:100%;border:0;background:#BF6A38;color:#fff;font:inherit;font-weight:700;font-size:15.5px;padding:15px;border-radius:2px;cursor:pointer" style-hover="background:#9E5127">{{ t.send }}</button>
+        <small style="display:block;text-align:center;color:#5A6470;margin-top:10px;font-size:12.5px">{{ t.sendNote }}</small>
+        <small style="display:block;text-align:center;color:#122A44;margin-top:6px;font-size:12.5px;font-weight:600">{{ t.replyPromise }}</small>
+      </div>
+    </aside>
+  </sc-if>
+
+  <sc-if value="{{ modalOpen }}" hint-placeholder-val="{{ false }}">
+    <section role="dialog" aria-modal="true" style="position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:min(920px,94vw);max-height:90vh;overflow:auto;background:#FDFCF7;z-index:60;border-radius:2px;box-shadow:0 36px 80px #0c1e314d">
+      <button onClick="{{ closeAll }}" aria-label="close" style="position:absolute;top:14px;inset-inline-start:14px;z-index:2;border:0;background:#FDFCF7ee;color:#122A44;width:34px;height:34px;border-radius:50%;font-size:20px;line-height:1;cursor:pointer">×</button>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+        <img ref="{{ modalImgRef }}" alt="{{ modal.name }}" style="width:100%;height:100%;min-height:340px;object-fit:cover;display:block;background:#E7E1D3">
+        <div style="padding:30px 32px 32px;display:flex;flex-direction:column;gap:14px">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.12em;color:#C9A468">{{ modal.collection }}</div>
+          <h2 style="margin:0;font-family:'Frank Ruhl Libre',serif;font-size:25px;font-weight:700;line-height:1.25;text-wrap:pretty">{{ modal.name }}</h2>
+          <p style="margin:0;font-size:14.5px;color:#5A6470">{{ modal.desc }}</p>
+          <div style="border-top:1px solid #DFD9C9;margin-top:2px">
+            <sc-for list="{{ modal.specs }}" as="s" hint-placeholder-count="4">
+              <div style="display:flex;justify-content:space-between;gap:14px;padding:12px 0;border-bottom:1px solid #E7E1D3;font-size:14px">
+                <span style="color:#5A6470">{{ s.k }}</span>
+                <b style="font-weight:600;text-align:end">{{ s.v }}</b>
+              </div>
+            </sc-for>
+          </div>
+          <p style="margin:0;font-size:13.5px;color:#5A6470;text-wrap:pretty">{{ t.priceNote }}</p>
+          <button onClick="{{ addModal }}" style="border:0;background:#122A44;color:#FDFCF7;font:inherit;font-weight:700;font-size:15px;padding:15px;border-radius:2px;cursor:pointer" style-hover="background:#1D3D5C">{{ t.addToBasket }}</button>
+          <button onClick="{{ requestSample }}" style="border:1px solid #BF6A38;background:none;color:#BF6A38;font:inherit;font-weight:700;font-size:14.5px;padding:13px;border-radius:2px;cursor:pointer" style-hover="background:#BF6A38;color:#fff">{{ t.sample }}</button>
+        </div>
+      </div>
+    </section>
+  </sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;perPage&quot;:{&quot;editor&quot;:&quot;int&quot;,&quot;default&quot;:24,&quot;min&quot;:12,&quot;max&quot;:96,&quot;step&quot;:4,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;קטלוג&quot;},&quot;dense&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:false,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;קטלוג&quot;},&quot;collectionCards&quot;:{&quot;editor&quot;:&quot;int&quot;,&quot;default&quot;:8,&quot;min&quot;:4,&quot;max&quot;:16,&quot;step&quot;:2,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;קטלוג&quot;},&quot;showTrade&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;תוכן&quot;}}">
+const T = {
+  he: { brand:'מילניום', collections:'קולקציות', catalog:'קטלוג', trade:'לקבלנים', basket:'סל הצעת מחיר',
+    strip:'הַחוֹשֶׁן 1, קריית שמונה · א׳–ה׳ 8:00–18:00, ו׳ 8:00–13:00', stripCall:'לבירור מלאי ומחיר:',
+    kicker:'קרמיקה מילניום · קריית שמונה · 1994', h1:'כל הרצפה והחיפוי לבית או לפרויקט, במקום אחד',
+    lede:'קטלוג התמונות המלא מקולקציות היצרנים שאנחנו מייצגים: פורצלן, אריחי חוץ נוגדי החלקה, חיפויי קיר, בריקים, פסיפסים, אריחי בריכה וקרמיקה מיובאת. בוחרים דגמים כאן, שולחים רשימה בוואטסאפ ומקבלים הצעת מחיר.',
+    ctaCatalog:'לעיון בקטלוג', ctaTalk:'דברו איתנו', statPhotos:'תמונות דגמים', statCollections:'קולקציות', statNorthValue:'צפון', statNorth:'אספקה לאתרי בנייה',
+    pickedCollections:'קולקציות נבחרות', tradeLead:'עובדים על פרויקט?', tradeBody:'לקבלנים, שיפוצניקים ואדריכלים יש אצלנו תנאי מחיר לכמויות, שמירת מלאי לפי לוח זמנים ואספקה לאתר.', tradeCta:'לתיאום תנאי קבלן',
+    searchPh:'חיפוש לפי שם דגם, קולקציה, מידה או מק״ט', gripOnly:'נגד החלקה בלבד', hideAmbience:'הסתרת תצוגות אווירה', clear:'ניקוי סינון',
+    sizeLabel:'מידות', sku:'מק״ט', all:'הכל', allProducts:'כל הדגמים', showing:'מציג', of:'מתוך', photos:'תמונות',
+    emptyTitle:'אין דגם שתואם לחיפוש', emptyBody:'נסו שם קולקציה, מידה כמו 60/120, או בחרו קטגוריה.', more:'הצגת עוד דגמים',
+    backAll:'חזרה לכל הקטלוג', collectionNote:'כל התמונות והמידות שיש לנו לקולקציה הזו, כפי שהופיעו בקטלוג היצרן.',
+    qty:'מ״ר', remove:'הסרה', send:'שליחת הרשימה בוואטסאפ', sendNote:'הרשימה נפתחת בוואטסאפ שלכם — אפשר לעדכן כמויות לפני השליחה',
+    basketEmptyTitle:'הסל ריק', basketEmptyBody:'בחרו דגמים מהקטלוג כדי לבנות רשימה לבקשת מחיר.',
+    priceNote:'המחיר נקבע לפי כמות ולוח הזמנים של הפרויקט. הוסיפו לסל וקבלו הצעה.', addToBasket:'הוספה לסל הצעת מחיר',
+    specSku:'מק״ט', specCollection:'קולקציה', specSize:'מידה', specPrice:'מחיר', specPriceVal:'לפי הצעה', specSizeVar:'מספר מידות — לבירור בחנות', specOrigin:'מקור', 
+    footBrand:'קרמיקה מילניום', address:'הַחוֹשֶׁן 1, קריית שמונה', hours:'שעות פתיחה', hours1:'ראשון–חמישי · 8:00–18:00', hours2:'שישי · 8:00–13:00', hours3:'שבת · סגור',
+    aboutCatalog:'על הקטלוג', aboutBody:'התמונות והשמות מתוך קטלוגי היצרנים שאנחנו מייצגים. הגוון המדויק, המידות והמלאי מאושרים מול דוגמה בחנות.',
+    footNote:'מחיר ומלאי מאושרים מול החנות · קרמיקה מילניום, עסק משפחתי בקריית שמונה', waLead:'שלום קרמיקה מילניום, אשמח להצעת מחיר על הדגמים הבאים:',
+    pathsTitle:'מאיפה מתחילים?', pathsNote:'ארבעה מסלולים מקוצרים — במקום לעבור על כל הקטלוג',
+    proof1:'עסק משפחתי משנת 1994', proof1b:'אותה חנות, אותה משפחה, בקריית שמונה', proof2:'אספקה לאתרי בנייה', proof2b:'גליל, גולן ואצבע הגליל', proof3:'ייעוץ ותכנון בחנות', proof3b:'בוחרים מול דוגמה אמיתית, ללא עלות',
+    intentTitle:'מי שולח את הרשימה?', intent1:'קבלן / שיפוצניק', intent2:'בונה בית', intent3:'משפץ אמבטיה או מטבח', replyPromise:'מקבלים תשובה עם מחיר ומלאי תוך שעת עבודה', sample:'הזמנת דוגמה לבית', sampleWa:'שלום, אשמח לקבל דוגמה של הדגם הבא:', pathBath:'לאמבטיה', pathYard:'לחצר · נגד החלקה', pathBig:'מידה גדולה 120', pathWood:'דמוי פרקט', pathPool:'לבריכה', pathBrick:'בריקים', fCol1:'קטלוג המוצרים', fCol2:'קולקציות', fCol3:'מסלולים מקוצרים', fCol4:'החנות והשירות', fVisit:'ביקור בחנות', fWhats:'וואטסאפ', fInsta:'אינסטגרם', fPhone:'טלפון' },
+  en: { brand:'Millennium', collections:'Collections', catalog:'Catalogue', trade:'Trade', basket:'Quote list',
+    strip:'HaHoshen 1, Kiryat Shmona · Sun–Thu 8:00–18:00, Fri 8:00–13:00', stripCall:'Stock & pricing:',
+    kicker:'Millennium Ceramics · Kiryat Shmona · since 1994', h1:'Every floor and wall surface for a home or a project, in one place',
+    lede:'The full photo catalogue from the collections we carry: porcelain, anti-slip outdoor tiles, wall tiles, bricks, mosaics, pool tiles and imported ceramics. Pick models here, send the list on WhatsApp and get a quote.',
+    ctaCatalog:'Browse the catalogue', ctaTalk:'Talk to us', statPhotos:'model photos', statCollections:'collections', statNorthValue:'North', statNorth:'delivery to building sites',
+    pickedCollections:'Selected collections', tradeLead:'Working on a project?', tradeBody:'Contractors, renovators and architects get volume pricing, stock held to your schedule and delivery to site.', tradeCta:'Arrange trade terms',
+    searchPh:'Search by model, collection, size or code', gripOnly:'Anti-slip only', hideAmbience:'Hide ambience shots', clear:'Clear filters',
+    sizeLabel:'Sizes', sku:'Code', all:'All', allProducts:'All models', showing:'Showing', of:'of', photos:'photos',
+    emptyTitle:'No model matches this search', emptyBody:'Try a collection name, a size such as 60/120, or pick a category.', more:'Show more models',
+    backAll:'Back to full catalogue', collectionNote:'Every photo and size we hold for this collection, as published in the manufacturer catalogue.',
+    qty:'m²', remove:'Remove', send:'Send the list on WhatsApp', sendNote:'The list opens in your WhatsApp — you can adjust quantities before sending',
+    basketEmptyTitle:'Your list is empty', basketEmptyBody:'Pick models from the catalogue to build a quote request.',
+    priceNote:'Pricing follows quantity and project schedule. Add to the list and get a quote.', addToBasket:'Add to quote list',
+    specSku:'Code', specCollection:'Collection', specSize:'Size', specPrice:'Price', specPriceVal:'On request', specSizeVar:'Several sizes — ask in store', specOrigin:'Origin',
+    footBrand:'Millennium Ceramics', address:'HaHoshen 1, Kiryat Shmona', hours:'Opening hours', hours1:'Sunday–Thursday · 8:00–18:00', hours2:'Friday · 8:00–13:00', hours3:'Saturday · closed',
+    aboutCatalog:'About the catalogue', aboutBody:'Photos and names come from the manufacturer catalogues we carry. Exact shade, sizes and stock are confirmed against a sample in store.',
+    footNote:'Price and stock confirmed with the store · Millennium Ceramics, a family business in Kiryat Shmona', waLead:'Hello Millennium Ceramics, I would like a quote for the following models:',
+    pathsTitle:'Where do you start?', pathsNote:'Four short routes — instead of scrolling the whole catalogue',
+    proof1:'A family business since 1994', proof1b:'Same shop, same family, in Kiryat Shmona', proof2:'Delivery to building sites', proof2b:'Galilee, Golan and the Upper Galilee', proof3:'Advice and planning in store', proof3b:'Choose against a real sample, at no cost',
+    intentTitle:'Who is sending the list?', intent1:'Contractor / renovator', intent2:'Building a home', intent3:'Renovating a bathroom or kitchen', replyPromise:'You get price and stock back within one working hour', sample:'Request a sample', sampleWa:'Hello, I would like a sample of this model:', pathBath:'Bathroom', pathYard:'Yard · anti-slip', pathBig:'Large format 120', pathWood:'Wood look', pathPool:'Pool', pathBrick:'Bricks', fCol1:'Product catalogue', fCol2:'Collections', fCol3:'Quick routes', fCol4:'Store & service', fVisit:'Visit the store', fWhats:'WhatsApp', fInsta:'Instagram', fPhone:'Phone' },
+  ar: { brand:'ميلينيوم', collections:'التشكيلات', catalog:'الكتالوج', trade:'للمقاولين', basket:'سلة طلب السعر',
+    strip:'هَحوشِن 1، كريات شمونه · الأحد–الخميس 8:00–18:00، الجمعة 8:00–13:00', stripCall:'للمخزون والسعر:',
+    kicker:'سيراميك ميلينيوم · كريات شمونه · منذ 1994', h1:'كل أرضيات وتكسيات البيت أو المشروع في مكان واحد',
+    lede:'كتالوج الصور الكامل من التشكيلات التي نمثّلها: بورسلان، أريح خارجية مضادة للانزلاق، تكسيات حوائط، بريك، موزاييك، أريح مسابح وسيراميك مستورد. اختر الموديلات هنا، أرسل القائمة على واتساب واحصل على عرض سعر.',
+    ctaCatalog:'تصفّح الكتالوج', ctaTalk:'تواصل معنا', statPhotos:'صورة موديل', statCollections:'تشكيلة', statNorthValue:'الشمال', statNorth:'توصيل لمواقع البناء',
+    pickedCollections:'تشكيلات مختارة', tradeLead:'تعمل على مشروع؟', tradeBody:'للمقاولين والمرمّمين والمهندسين أسعار للكميات، وحجز مخزون حسب جدولك، وتوصيل للموقع.', tradeCta:'لتنسيق أسعار المقاولين',
+    searchPh:'بحث بالموديل أو التشكيلة أو المقاس أو الكود', gripOnly:'مضاد للانزلاق فقط', hideAmbience:'إخفاء صور الأجواء', clear:'مسح الفلاتر',
+    sizeLabel:'المقاسات', sku:'كود', all:'الكل', allProducts:'كل الموديلات', showing:'يعرض', of:'من', photos:'صورة',
+    emptyTitle:'لا يوجد موديل مطابق', emptyBody:'جرّب اسم تشكيلة، أو مقاسًا مثل 60/120، أو اختر فئة.', more:'عرض موديلات أكثر',
+    backAll:'رجوع لكل الكتالوج', collectionNote:'كل الصور والمقاسات المتوفرة لهذه التشكيلة كما وردت في كتالوج المصنع.',
+    qty:'م²', remove:'إزالة', send:'إرسال القائمة على واتساب', sendNote:'تُفتح القائمة في واتساب لديك — يمكنك تعديل الكميات قبل الإرسال',
+    basketEmptyTitle:'السلة فارغة', basketEmptyBody:'اختر موديلات من الكتالوج لبناء طلب سعر.',
+    priceNote:'السعر يُحدَّد حسب الكمية وجدول المشروع. أضف للسلة واحصل على عرض.', addToBasket:'إضافة لسلة طلب السعر',
+    specSku:'كود', specCollection:'التشكيلة', specSize:'المقاس', specPrice:'السعر', specPriceVal:'حسب العرض', specSizeVar:'عدة مقاسات — يُراجع في المعرض', specOrigin:'المنشأ',
+    footBrand:'سيراميك ميلينيوم', address:'هَحوشِن 1، كريات شمونه', hours:'ساعات العمل', hours1:'الأحد–الخميس · 8:00–18:00', hours2:'الجمعة · 8:00–13:00', hours3:'السبت · مغلق',
+    aboutCatalog:'عن الكتالوج', aboutBody:'الصور والأسماء من كتالوجات المصانع التي نمثّلها. اللون الدقيق والمقاسات والمخزون تُعتمد أمام نموذج في المعرض.',
+    footNote:'السعر والمخزون يُعتمدان مع المعرض · سيراميك ميلينيوم، عمل عائلي في كريات شمونه', waLead:'مرحبًا سيراميك ميلينيوم، أرغب بعرض سعر للموديلات التالية:',
+    pathsTitle:'من أين تبدأ؟', pathsNote:'أربعة مسارات قصيرة — بدل تصفّح الكتالوج كله',
+    proof1:'عمل عائلي منذ 1994', proof1b:'نفس المعرض ونفس العائلة في كريات شمونه', proof2:'توصيل لمواقع البناء', proof2b:'الجليل والجولان وأصبع الجليل', proof3:'استشارة وتخطيط في المعرض', proof3b:'تختار أمام نموذج حقيقي، بدون مقابل',
+    intentTitle:'من يرسل القائمة؟', intent1:'مقاول / مرمّم', intent2:'أبني بيتًا', intent3:'أرمّم حمّامًا أو مطبخًا', replyPromise:'يوصلك السعر والمخزون خلال ساعة عمل', sample:'اطلب نموذجًا للبيت', sampleWa:'مرحبًا، أرغب بنموذج من هذا الموديل:', pathBath:'للحمّام', pathYard:'للحوش · مضاد للانزلاق', pathBig:'مقاس كبير 120', pathWood:'شكل الباركيه', pathPool:'للمسبح', pathBrick:'بريك', fCol1:'كتالوج المنتجات', fCol2:'التشكيلات', fCol3:'مسارات سريعة', fCol4:'المعرض والخدمة', fVisit:'زيارة المعرض', fWhats:'واتساب', fInsta:'إنستغرام', fPhone:'هاتف' }
+};
+const CATT = {
+  'פורצלן דמוי חמר':['Clay-look porcelain','بورسلان بمظهر الطين'],
+  'פורצלן דמוי מטאל':['Metal-look porcelain','بورسلان بمظهر المعدن'],
+  'חיפויי קיר':['Wall tiles','تكسيات حوائط'],
+  'אריחים מוארכים':['Elongated tiles','أريح مستطيلة'],
+  'פורצלן מידות קטנות':['Small-format porcelain','بورسلان مقاسات صغيرة'],
+  'חיפוי מידות קטנות':['Small-format wall tiles','تكسية مقاسات صغيرة'],
+  'פסיפסים':['Mosaics','موزاييك'],
+  'חדש ומבצעים':['New & offers','جديد وعروض'],
+  'בריקים':['Bricks','بريك'],
+  'בריכות ומרינה':['Pool & marina','مسابح ومارينا'],
+  'בריכות וספא':['Wellness & pool','مسابح وسبا'],
+  'משטחים שקופים':['Translucent slabs','ألواح شفافة'],
+  'חדש 2026':['New 2026','جديد 2026'],
+  'קולקציית 2026':['2026 collection','تشكيلة 2026'],
+  'קרמיקה סינית — ריצוף':['Imported — floor','مستورد — أرضيات'],
+  'קרמיקה סינית — חיפוי':['Imported — wall','مستورد — تكسية'],
+  'קרמיקה סינית — מלוטש':['Imported — polished','مستورد — مصقول'],
+  'קרמיקה סינית — מבחר יבוא':['Imported — selection','مستورد — تشكيلة']
+};
+const DESCT = {
+  'אריח ריצוף פורצלן':['Porcelain floor tile','أريحة أرضيات بورسلان'],
+  'אריח חיפוי לקיר':['Wall tile','أريحة تكسية حوائط'],
+  'פסיפס':['Mosaic','موزاييك'],
+  'בריק קרמי':['Ceramic brick','بريك سيراميك'],
+  'אריח לבריכה ולספא':['Pool & spa tile','أريحة مسابح وسبا'],
+  'משטח פורצלן גדול':['Large porcelain slab','ألواح بورسلان كبيرة'],
+  'תצוגת אווירה מהקטלוג':['Catalogue ambience shot','صورة أجواء من الكتالوج'],
+  'עמוד קטלוג יבוא':['Import catalogue page — several models','صفحة كتالوج مستورد — عدة موديلات'],
+  'אריח ריצוף':['Floor tile','أريحة أرضيات'],
+  'אריח ריצוף רסטיק':['Rustic floor tile','أريحة أرضيات ريفية'],
+  'אריח מלוטש':['Polished tile','أريحة مصقولة'],
+  'אריח פורצלן':['Porcelain tile','أريحة بورسلان'],
+  'נגד החלקה':['Anti-slip','مضاد للانزلاق'],
+  'מט':['Matt','مط'],
+  'מבריק':['Gloss','لامع'],
+  'מלוטש':['Polished','مصقول'],
+  'חצי מלוטש':['Semi-polished','نصف مصقول'],
+  'סין':['China','الصين']
+};
+
+class Component extends DCLogic {
+  state = { ready:false, lang:'he', query:'', cat:'הכל', collection:null, size:null, grip:false, hideAmb:false,
+            intent:null, shown:0, basket:[], modalId:null, drawerOpen:false, megaOpen:false };
+  rootRef = React.createRef();
+  modalImgRef = React.createRef();
+
+  get per(){ return this.props.perPage || 24 }
+
+  componentDidMount(){
+    try {
+      const ui = JSON.parse(localStorage.getItem('mill.ui')||'null');
+      const bk = JSON.parse(localStorage.getItem('mill.basket')||'null');
+      if (ui) Object.assign(this.state, {lang:ui.lang||'he', cat:ui.cat||'הכל', collection:ui.collection||null, size:ui.size||null, grip:!!ui.grip, hideAmb:!!ui.hideAmb});
+      if (Array.isArray(bk)) this.state.basket = bk;
+    } catch(e){}
+    const tick = () => { window.MILL_PHOTOS ? this.setState({ready:true, shown:this.per}) : setTimeout(tick,60) };
+    tick();
+    this._key = e => { if (e.key === 'Escape') this.setState({modalId:null, drawerOpen:false, megaOpen:false}) };
+    document.addEventListener('keydown', this._key);
+  }
+  componentWillUnmount(){ document.removeEventListener('keydown', this._key) }
+
+  componentDidUpdate(){
+    const el = this.modalImgRef.current;
+    if (el){
+      const m = this.state.modalId ? this.byId(this.state.modalId) : null;
+      if (m && el.getAttribute('src') !== m.img) el.setAttribute('src', m.img);
+    }
+    try {
+      const S = this.state;
+      localStorage.setItem('mill.ui', JSON.stringify({lang:S.lang, cat:S.cat, collection:S.collection, size:S.size, grip:S.grip, hideAmb:S.hideAmb}));
+      localStorage.setItem('mill.basket', JSON.stringify(S.basket));
+    } catch(e){}
+  }
+
+  // Catalogue-page scans can contain supplier captions or several models in one image.
+  // Keep them in the source data, but do not show them as individual customer products.
+  all(){ return (window.MILL_PHOTOS || []).filter(p => !p.page) }
+  thumb(src){ const m=window.MILL_THUMBS||{}; return m[src]||src }
+  byId(id){ const a=this.all(); for(let i=0;i<a.length;i++) if(a[i].id===id) return a[i]; return null }
+  t(){ return T[this.state.lang] || T.he }
+  tr(map, v){ const L=this.state.lang; if(L==='he'||!map[v]) return v; return map[v][L==='en'?0:1] }
+  catLabel(c){ return c==='הכל' ? this.t().all : this.tr(CATT,c) }
+  descOf(p){
+    const parts=[this.tr(DESCT,p.heb)];
+    if(p.finish) p.finish.split(' · ').forEach(f=>parts.push(this.tr(DESCT,f)));
+    return parts.filter(Boolean).join(' · ');
+  }
+  title(p){ return p.name.startsWith(p.collection+' ') ? p.name.slice(p.collection.length+1) : p.name }
+  st(on){ return on ? {bg:'#122A44', fg:'#FDFCF7', bd:'#122A44', fw:'700'} : {bg:'#FDFCF7', fg:'#5A6470', bd:'#DFD9C9', fw:'400'} }
+
+  isAmb(p){ return p.heb === 'תצוגת אווירה מהקטלוג' || !!p.page }
+  isGrip(p){ return /נגד החלקה/.test(p.finish||'') || /R1[01]/.test(p.name) }
+
+  pathDefs(){
+    const t=this.t(), big=(this.all().find(p=>/^12[05]\//.test(p.size))||{}).size;
+    return [
+      {label:t.pathBath, test:p=>p.category==='חיפויי קיר', set:{cat:'חיפויי קיר'}},
+      {label:t.pathYard, test:p=>this.isGrip(p), set:{grip:true}},
+      {label:t.pathBig, test:p=>p.size===big, set:{size:big}},
+      {label:t.pathPool, test:p=>p.category==='בריכות וספא'||p.category==='בריכות ומרינה', set:{cat:'בריכות וספא'}},
+      {label:t.pathBrick, test:p=>p.category==='בריקים', set:{cat:'בריקים'}}
+    ];
+  }
+  applyPath(set){
+    this.setState(Object.assign({cat:'הכל', collection:null, size:null, grip:false, query:'', shown:this.per, megaOpen:false}, set));
+    this.jump();
+  }
+
+  matches(){
+    const S=this.state, q=S.query.trim().toLowerCase();
+    return this.all().filter(p =>
+      (S.cat==='הכל'||p.category===S.cat) &&
+      (!S.collection||p.collection===S.collection) &&
+      (!S.size||p.size===S.size) &&
+      (!S.grip||this.isGrip(p)) &&
+      (!S.hideAmb||!this.isAmb(p)) &&
+      (!q || (p.name+' '+p.sku+' '+p.size+' '+p.collection+' '+p.heb).toLowerCase().indexOf(q)>-1));
+  }
+
+  jump(){ setTimeout(()=>{ const el=document.getElementById('catalog'); if(el) window.scrollTo({top:el.offsetTop-76, behavior:'smooth'}) },30) }
+
+  renderVals(){
+    const S=this.state, t=this.t(), n=x=>(x||0).toLocaleString(S.lang==='he'?'he-IL':S.lang==='ar'?'ar-EG':'en-US');
+    const dir = S.lang==='en' ? 'ltr' : 'rtl';
+    if (!S.ready) return {
+      rootRef:this.rootRef, modalImgRef:this.modalImgRef, dir, t, langs:[],
+      totalLabel:'—', collectionCount:'—', basketCount:0, heading:t.allProducts, resultLabel:'…',
+      chips:[], sizeChips:[], cards:[], wall:[], collections:[], megaGroups:[], basketLines:[],
+      gridCols:'repeat(auto-fill,minmax(250px,1fr))', isEmpty:false, hasMore:false, overlayOn:false,
+      drawerOpen:false, modalOpen:false, megaOpen:false, filterActive:false, hasCollectionHead:false,
+      basketEmpty:true, showTrade:this.props.showTrade!==false, collectionsNote:'', query:'',
+      gripPressed:'false', ambiencePressed:'false',
+      gripBg:'#FDFCF7', gripFg:'#5A6470', gripBd:'#DFD9C9', gripFw:'400',
+      ambBg:'#FDFCF7', ambFg:'#5A6470', ambBd:'#DFD9C9', ambFw:'400',
+      onSearch:()=>{}, closeAll:()=>{}, toggleMega:()=>{}, openBasket:()=>{}, loadMore:()=>{}, sendWhatsapp:()=>{},
+      addModal:()=>{}, clearFilters:()=>{}, toggleGrip:()=>{}, toggleAmbience:()=>{},
+      paths:[], intents:[], footerCols:[], requestSample:()=>{},
+      head:{img:'',name:'',cat:'',note:'',sizes:[]}, modal:{name:'',collection:'',desc:'',specs:[]}
+    };
+
+    const all=this.all(), counts={}, colCounts={}, colInfo={}, sizeCounts={};
+    all.forEach(p => {
+      counts[p.category]=(counts[p.category]||0)+1;
+      colCounts[p.collection]=(colCounts[p.collection]||0)+1;
+      if(!colInfo[p.collection] || (colInfo[p.collection].page && !p.page)) colInfo[p.collection]={img:p.img, cat:p.category, page:!!p.page};
+      if(p.size!=='—') sizeCounts[p.size]=(sizeCounts[p.size]||0)+1;
+    });
+    const catNames=Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+    const colNames=Object.keys(colCounts).sort((a,b)=>colCounts[b]-colCounts[a]);
+    const sizeNames=Object.keys(sizeCounts).sort((a,b)=>sizeCounts[b]-sizeCounts[a]).slice(0,14);
+    const list=this.matches(), slice=list.slice(0,S.shown);
+
+    if(!this._wall){
+      const picks=[];
+      colNames.forEach(c=>{ const arr=all.filter(p=>p.collection===c && !this.isAmb(p) && !p.page); if(arr.length>3) picks.push(arr[Math.floor(arr.length*0.45)]) });
+      this._wall=picks.slice(0,12).map(p=>({img:this.thumb(p.img)}));
+    }
+
+    const m = S.modalId ? this.byId(S.modalId) : null;
+    const headCol = S.collection;
+    const headSizes = headCol ? Object.keys(all.filter(p=>p.collection===headCol).reduce((a,p)=>{ if(p.size!=='—') a[p.size]=1; return a },{})).slice(0,6) : [];
+
+    return {
+      rootRef:this.rootRef, modalImgRef:this.modalImgRef, dir, t, query:S.query,
+      langs:[{code:'he',label:'עב'},{code:'en',label:'EN'},{code:'ar',label:'ع'}].map(l=>({
+        label:l.label, pressed:String(S.lang===l.code), onClick:()=>this.setState({lang:l.code})
+      })),
+      totalLabel:n(all.length), collectionCount:n(colNames.length), basketCount:S.basket.length,
+      heading: S.collection || (S.cat==='הכל' ? t.allProducts : this.catLabel(S.cat)),
+      resultLabel: list.length ? t.showing+' '+n(slice.length)+' '+t.of+' '+n(list.length)+' '+t.photos : '',
+      collectionsNote: n(colNames.length)+' · '+n(all.length)+' '+t.photos,
+      gridCols: this.props.dense ? 'repeat(auto-fill,minmax(196px,1fr))' : 'repeat(auto-fill,minmax(250px,1fr))',
+      showTrade: this.props.showTrade!==false,
+      wall:this._wall,
+      filterActive: !!(S.collection||S.cat!=='הכל'||S.query||S.size||S.grip||S.hideAmb),
+      gripPressed:String(S.grip), ambiencePressed:String(S.hideAmb),
+      gripBg:this.st(S.grip).bg, gripFg:this.st(S.grip).fg, gripBd:this.st(S.grip).bd, gripFw:this.st(S.grip).fw,
+      ambBg:this.st(S.hideAmb).bg, ambFg:this.st(S.hideAmb).fg, ambBd:this.st(S.hideAmb).bd, ambFw:this.st(S.hideAmb).fw,
+      toggleGrip:()=>this.setState({grip:!S.grip, shown:this.per}),
+      toggleAmbience:()=>this.setState({hideAmb:!S.hideAmb, shown:this.per}),
+      clearFilters:()=>this.setState({collection:null, cat:'הכל', size:null, grip:false, hideAmb:false, query:'', shown:this.per}),
+
+      paths: this.pathDefs().map(d=>{
+        const arr=all.filter(d.test);
+        return { label:d.label, count:n(arr.length), img:this.thumb((arr.find(p=>!this.isAmb(p))||arr[0]||{}).img||''), onClick:()=>this.applyPath(d.set) };
+      }).filter(p=>p.img),
+
+      intents: [t.intent1,t.intent2,t.intent3].map(l=>({
+        label:l, pressed:String(S.intent===l),
+        bg:S.intent===l?'#C9A468':'#FDFCF7', fg:S.intent===l?'#122A44':'#5A6470',
+        bd:S.intent===l?'#C9A468':'#DFD9C9', fw:S.intent===l?'700':'400',
+        onClick:()=>this.setState({intent:S.intent===l?null:l})
+      })),
+
+      footerCols: [
+        { title:t.fCol1, items: catNames.slice(0,8).map(c=>({ label:this.catLabel(c), onClick:()=>{ this.setState({cat:c, collection:null, size:null, grip:false, query:'', shown:this.per}); this.jump() } })) },
+        { title:t.fCol2, items: colNames.slice(0,8).map(c=>({ label:c, onClick:()=>{ this.setState({collection:c, cat:'הכל', size:null, query:'', shown:this.per}); this.jump() } })) },
+        { title:t.fCol3, items: this.pathDefs().map(d=>({ label:d.label, onClick:()=>this.applyPath(d.set) })) }
+      ],
+
+      requestSample: ()=>{
+        if(!m) return;
+        const body=this.title(m)+' ('+m.collection+')\n'+t.specSku+' '+m.sku+(m.size!=='—'?' · '+m.size.replace(' ס״מ',''):'');
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.sampleWa+'\n\n'+body),'_blank');
+      },
+
+      hasCollectionHead: !!headCol,
+      head: headCol ? {
+        img: this.thumb(colInfo[headCol].img), name: headCol, cat: this.catLabel(colInfo[headCol].cat),
+        note: t.collectionNote, sizes: headSizes.map(s=>({label:s}))
+      } : {img:'',name:'',cat:'',note:'',sizes:[]},
+
+      collections: colNames.filter(c=>!colInfo[c].page).slice(0, this.props.collectionCards || 8).map((c,i)=>({
+        name:c, cat:this.catLabel(colInfo[c].cat), img:this.thumb(colInfo[c].img),
+        count:n(colCounts[c]), index:String(i+1).padStart(2,'0'),
+        onClick:()=>{ this.setState({collection:c, cat:'הכל', size:null, query:'', shown:this.per, megaOpen:false}); this.jump() }
+      })),
+
+      chips: ['הכל'].concat(catNames).map(c=>({
+        name:this.catLabel(c), count:n(c==='הכל'?all.length:counts[c]),
+        pressed:String(S.cat===c && !S.collection),
+        bg:this.st(S.cat===c && !S.collection).bg, fg:this.st(S.cat===c && !S.collection).fg,
+        bd:this.st(S.cat===c && !S.collection).bd, fw:this.st(S.cat===c && !S.collection).fw,
+        onClick:()=>this.setState({cat:c, collection:null, size:null, query:'', shown:this.per})
+      })),
+
+      sizeChips: sizeNames.map(s=>({
+        label:s.replace(' ס״מ',''), pressed:String(S.size===s),
+        bg:S.size===s?'#122A44':'transparent', fg:S.size===s?'#FDFCF7':'#5A6470', bd:S.size===s?'#122A44':'#E7E1D3',
+        onClick:()=>this.setState({size:S.size===s?null:s, shown:this.per})
+      })),
+
+      megaGroups: catNames.map(cn=>({
+        title:this.catLabel(cn),
+        items: colNames.filter(c=>colInfo[c].cat===cn).map(c=>({
+          label:c, count:n(colCounts[c]),
+          onClick:()=>{ this.setState({collection:c, cat:'הכל', size:null, query:'', shown:this.per, megaOpen:false}); this.jump() }
+        }))
+      })),
+
+      cards: slice.map(p=>({
+        id:p.id, name:this.title(p), sku:p.sku, size:p.size.replace(' ס״מ',''), img:p.img,
+        collection:p.collection, desc:this.descOf(p), showSize:p.size!=='—',
+        onClick:()=>this.setState({modalId:p.id, drawerOpen:false})
+      })),
+
+      isEmpty:!list.length, hasMore:S.shown<list.length,
+      loadMore:()=>this.setState({shown:S.shown+this.per}),
+      onSearch:e=>this.setState({query:e.target.value, shown:this.per}),
+      toggleMega:()=>this.setState({megaOpen:!S.megaOpen}),
+      closeAll:()=>this.setState({modalId:null, drawerOpen:false, megaOpen:false}),
+      overlayOn:!!(S.drawerOpen||S.modalId), drawerOpen:S.drawerOpen, megaOpen:S.megaOpen,
+      openBasket:()=>this.setState({drawerOpen:true, modalId:null, megaOpen:false}),
+
+      basketEmpty:!S.basket.length,
+      basketLines: S.basket.map(b=>({
+        id:b.id, img:b.img, qty:b.qty||'',
+        name: this.title(b).length>46 ? this.title(b).slice(0,46)+'…' : this.title(b),
+        meta: b.sku + (b.size!=='—' ? ' · '+b.size.replace(' ס״מ','') : ''),
+        onQty:e=>{ const v=e.target.value; this.setState({basket:S.basket.map(x=>x.id===b.id?Object.assign({},x,{qty:v}):x)}) },
+        onRemove:()=>this.setState({basket:S.basket.filter(x=>x.id!==b.id)})
+      })),
+
+      modalOpen:!!m,
+      modal: m ? {
+        name:this.title(m), collection:m.collection, desc:this.descOf(m),
+        specs:[
+          {k:t.specSku, v:m.sku},
+          {k:t.specCollection, v:m.collection},
+          {k:t.specSize, v: m.size==='—' ? t.specSizeVar : m.size.replace(' ס״מ','')}
+        ].concat(m.origin?[{k:t.specOrigin, v:this.tr(DESCT,m.origin)}]:[]).concat([{k:t.specPrice, v:t.specPriceVal}])
+      } : {name:'',collection:'',desc:'',specs:[]},
+
+      addModal:()=>{
+        if(!m) return;
+        const has=S.basket.some(x=>x.id===m.id);
+        this.setState({ basket: has?S.basket:S.basket.concat([Object.assign({},m,{qty:''})]), modalId:null, drawerOpen:true });
+      },
+
+      sendWhatsapp:()=>{
+        if(!S.basket.length) return this.setState({drawerOpen:false});
+        const body = S.basket.map((p,i)=>(i+1)+'. '+this.title(p)+' ('+p.collection+')\n'+t.specSku+' '+p.sku+(p.size!=='—'?' · '+p.size.replace(' ס״מ',''):'')+'\n'+t.qty+': '+(p.qty||'')).join('\n\n');
+        const who = S.intent ? '\n\n'+t.intentTitle+' '+S.intent : '';
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.waLead+'\n\n'+body+who), '_blank');
+      }
+    };
+  }
+}
+</script>
+</body>
+</html>

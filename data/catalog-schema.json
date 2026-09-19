@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "purpose": "Internal source-of-truth for the ceramic store catalog. Not a price list or a claim of stock.",
+  "required_product_fields": [
+    "supplier_group",
+    "brand",
+    "source_catalog_id",
+    "collection_series",
+    "sku_model_code",
+    "product_type_category",
+    "sizes_mm",
+    "finish",
+    "color_design",
+    "image_page_reference"
+  ],
+  "rules": [
+    "Never remove or rewrite source provenance when creating display assets.",
+    "A null price means price has not been confirmed.",
+    "Do not publish a product until price and availability are verified."
+  ]
+}
