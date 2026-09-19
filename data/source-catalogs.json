@@ -228,7 +228,7 @@
     "original_filename": "137a62c9-HOBART.pdf",
     "page_count": 16,
     "source_sha256": "c6751a2faa3ff95fc46e94667d943e1e6190b4cd8f149dc348e87f8d357238ae",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection (light stone-look, multiple color variants HOBART-01 etc.)",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format seen elsewhere in this project, but this is not confirmed and must not be asserted as fact."
@@ -241,7 +241,7 @@
     "original_filename": "8b725df4-NERO_MARGIUA.pdf",
     "page_count": 7,
     "source_sha256": "9f7248ea421ba0bf8b964b284a9f4de9487042a3e4b9de3a2d25abfa8e876071",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, black marble-look, 600x1200mm and 600x600mm, matt/polished, 6 different faces",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -254,7 +254,7 @@
     "original_filename": "f42bf629-DUSTIN.pdf",
     "page_count": 20,
     "source_sha256": "66260adf004ceccb362c276ec3636536a01dee625aaccfb69ddafbf1e578d283",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light stone-look, code 66D501 seen, 600x1200mm/600x600mm, matt/grain surface, 16 different faces",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -267,7 +267,7 @@
     "original_filename": "2cea6024-ARIK.pdf",
     "page_count": 16,
     "source_sha256": "3163a676b5019cd2edbe0db7ad6a1f15d7a87a28cb3b43941602b23597ffe079",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -280,7 +280,7 @@
     "original_filename": "41af7e06-TREVI.pdf",
     "page_count": 11,
     "source_sha256": "9a73dfc4177d2f1bc946ae46389fb4d5c1804cc01399107acdb73b61a6c41eb2",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light travertine-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -293,7 +293,7 @@
     "original_filename": "1667ab3d-TERRAZZO.pdf",
     "page_count": 8,
     "source_sha256": "9e047246df44328a043a9367a645529c0e6cbdfdbac13d12d49586e28cef0ac6",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, gray terrazzo-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -306,7 +306,7 @@
     "original_filename": "182d8836-PIETRA.pdf",
     "page_count": 12,
     "source_sha256": "5058108b20878154d5128edb7d309de840cecafdde5a01ef1dad57a2b5228ecd",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light gray stone-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -319,7 +319,7 @@
     "original_filename": "4d88b0da-MOON.pdf",
     "page_count": 15,
     "source_sha256": "f017137ea17da1e70d6efc46aac473c415c8fb4f42c95773a645b990087f1cc7",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light gray-white stone-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -332,7 +332,7 @@
     "original_filename": "ede53799-BARSOOM_1.pdf",
     "page_count": 19,
     "source_sha256": "19d5b49f04d34ad78561dd5f2a3d89675ed622bb67bc6dc821c2009aa32e3ceb",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light warm stone-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -345,7 +345,7 @@
     "original_filename": "121060b3-WINS.pdf",
     "page_count": 14,
     "source_sha256": "f6706e3cf17e015206997029b5d4bf562c878107c47396bb2966988930bc6d66",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, dark charcoal stone-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -358,7 +358,7 @@
     "original_filename": "d7f05c64-PORTLAND.pdf",
     "page_count": 15,
     "source_sha256": "2a7f00e1bdabab8592be1b8218597226e9bd4865d743b064e2183e6385aae4e1",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light beige-gray stone-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -371,7 +371,7 @@
     "original_filename": "4e4ff58c-LARA.pdf",
     "page_count": 11,
     "source_sha256": "b15c9271fcd64decdc6e4a83a25f8c48fe94ec665cf1d28a0b495eb4233de389",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, light gray marble-look",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Brand not explicitly shown on reviewed pages; visual template matches Eagle Ceramics collection spec-sheet format."
@@ -384,7 +384,7 @@
     "original_filename": "1028ff83-CREST.pdf",
     "page_count": 12,
     "source_sha256": "8f933ceba3f99575d7b3c7d070a17a0ca7e933e226fe90e6993e6e11d62e6e7f",
-    "ingestion_status": "collection_identified_placeholder_pending_individual_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain tile collection, Monet Grain Light Mould, 3 colors",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Chinese text visible: 3个颜色/莫奈干粒/通体浅模具. Brand not explicitly confirmed on reviewed pages."

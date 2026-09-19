@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.6.0] - 2026-09-19
+
+### Added
+
+- Extracted individual SKU codes, colors, sizes and finishes for all 13 previously placeholder-only tile catalogs (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST), replacing their single collection-level placeholder entries with 35 individually-verified SKU records in `data/eagle-tile-products.json`. None of these source PDFs have a text layer (scanned/flattened pages), so every code, color and size was read directly off rendered catalog pages.
+- Confirmed, after reviewing every page of all 13 catalogs, that none shows any brand mark or logo anywhere; `brand` is left `null` on all 35 records rather than assumed, per this project's no-fabrication rule.
+- Each new record uses the collection's existing cover-page image (already present in `public/bathroom-product-assets/tile-collections-unverified/`) as a shared, brand-free display asset, consistent with the "shared row crop" tier used elsewhere in this dataset.
+- Updated `data/source-catalogs.json` ingestion status for all 13 catalogs from "collection identified, pending individual SKU extraction" to fully extracted, and updated `data/master-catalog-manifest.json` aggregate counts accordingly (1164 total catalog records, 722 verified customer-facing, 0 remaining collection-level placeholders).
+
 ## [0.5.0] - 2026-09-19
 
 ### Added

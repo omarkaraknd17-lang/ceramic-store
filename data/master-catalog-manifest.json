@@ -48,9 +48,9 @@
     },
     {
       "path": "data/eagle-tile-products.json",
-      "scope": "Eagle Ceramics / ECOEAGLE (Guangdong Eagle Brand Group) porcelain tile, SPC flooring and wallboard collections, plus 13 unbranded-on-page single-collection tile sheets pending brand confirmation",
+      "scope": "Eagle Ceramics / ECOEAGLE (Guangdong Eagle Brand Group) porcelain tile, SPC flooring and wallboard collections, plus 13 unbranded-on-page single-collection tile sheets (brand not shown anywhere in their source pages, so left unconfirmed)",
       "supplier_groups": ["Chinese supplier group"],
-      "record_count": 160,
+      "record_count": 182,
       "publication_rule": "Records with display_asset_status 'source_lifestyle_image_only' or data_confidence 'collection_identified_pending_individual_sku_extraction' are not customer-facing until individually SKU-verified."
     },
     {
@@ -62,11 +62,11 @@
     }
   ],
   "aggregate_counts": {
-    "catalog_inventory_records": 1142,
-    "verified_customer_facing_records_with_direct_display_asset": 687,
+    "catalog_inventory_records": 1164,
+    "verified_customer_facing_records_with_direct_display_asset": 722,
     "source_page_catalog_records": 104,
     "unpublished_review_candidates": 442,
-    "collection_level_placeholder_records": 13,
+    "collection_level_placeholder_records": 0,
     "total_supplier_catalog_sources": 43
   },
   "source_separation": "Supplier groups must not be merged, renamed or inferred from display artwork. Chinese sources remain separate from TAU, SEBACH, Mitrani and all other supplier groups."
