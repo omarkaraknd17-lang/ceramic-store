@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.5.0] - 2026-09-19
+
+### Added
+
+- Added a root-level `index.html` that redirects to `public/home.html` using a relative path, so the site works correctly when hosted at a domain root or under a GitHub Pages project subpath.
+- Wired `data/eagle-tile-products.json` (147 customer-facing SKUs) and `data/tau-products.json` (52 SKUs) into the previously data-only `public/index.html` / `public/app.js` tile catalog, alongside the existing 104 `data/master-products.json` records (303 products total); records marked `source_lifestyle_image_only` are excluded per the manifest's publication rule.
+- Linked two previously-orphaned, fully-built catalog pages into the site navigation so they are actually reachable by visitors: `public/bathroom-catalog.html` (384 verified SEBACH/Mitrani records) from `public/bathroom.html`, and `public/index.html` (the tile catalog above) from the home page's product mega-menu.
+
+### Fixed
+
+- Removed a leftover `location.replace("home.html")` redirect in `public/index.html` that immediately bounced visitors away before the page could render, making the tile catalog unreachable even when linked.
+- Added graceful broken-image handling (a labeled placeholder instead of a broken-image icon) across every storefront page, since most of the pre-existing legacy product records (e.g. 356 of 384 bathroom records, all 851 embedded `millennium-design.html` catalog photos, and site logo/hero images) reference image files that are not present in this repository — a known, previously-documented gap. This does not restore the missing images; it prevents them from looking broken until the original supplier image archive is re-supplied.
+- Fixed a bug introduced while adding the fallback above: the placeholder image's data URI contained unescaped single quotes, which broke out of an inline `onerror="...src='...'"` HTML attribute in `public/bathroom-catalog.js` and threw a `SyntaxError` on every one of the 356 missing-image product cards. Fixed by percent-encoding the quotes.
+- Verified with a headless-browser pass across all 8 storefront pages (root redirect, home, bathroom, bathroom catalog, tile catalog, millennium design, cabinets, showers) that every page loads, renders its real product/record count, and throws no JavaScript errors beyond the expected (and now gracefully handled) missing-image 404s.
+
+### Known risk (not fixed, flagged for follow-up)
+
+- `public/millennium-design.html` (the primary "קטלוג" nav destination, 851 embedded records) loads React/ReactDOM at runtime from `unpkg.com` with no bundled fallback; if that CDN is ever unreachable for a visitor, this page will fail to render. Not reproducible as a code bug from this sandbox (its own network policy blocks `unpkg.com`), but worth a real-world check once the site is live.
+
 ## [0.4.1] - 2026-09-19
 
 ### Added

@@ -41,7 +41,7 @@ a:hover{color:#BF6A38}
 
   <header style="position:relative;z-index:40;background:#FDFCF7;border-bottom:1px solid #DFD9C9;height:76px;padding:0 clamp(20px,5vw,72px);display:flex;align-items:center;gap:clamp(14px,3vw,36px)">
     <a href="./home.html" aria-label="קרמיקה מילניום - דף הבית" style="display:flex;align-items:center;gap:11px;text-decoration:none">
-      <img src="./logo.png" alt="" style="width:44px;height:44px;display:block;border-radius:10px">
+      <img src="./logo.png" onerror="this.style.display='none'" alt="" style="width:44px;height:44px;display:block;border-radius:10px">
       <span style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.16em;color:#5A6470;display:block">CERAMICS
         <strong style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:21px;font-weight:700;letter-spacing:0;color:#122A44">{{ t.brand }}</strong>
       </span>
@@ -707,6 +707,18 @@ class Component extends DCLogic {
     };
   }
 }
+</script>
+<script>
+(function () {
+  var PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Crect width='400' height='400' fill='%23e7e1d3'/%3E%3Ctext x='50%25' y='50%25' font-family='sans-serif' font-size='18' fill='%238a7f66' text-anchor='middle' dominant-baseline='middle'%3E%D7%AA%D7%9E%D7%95%D7%A0%D7%94 %D7%91%D7%90%D7%99%D7%9E%D7%95%D7%AA%3C/text%3E%3C/svg%3E";
+  document.addEventListener('error', function (e) {
+    var t = e.target;
+    if (t && t.tagName === 'IMG' && t.src !== PLACEHOLDER && !t.dataset.fallbackApplied) {
+      t.dataset.fallbackApplied = '1';
+      t.src = PLACEHOLDER;
+    }
+  }, true);
+})();
 </script>
 </body>
 </html>

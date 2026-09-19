@@ -8,6 +8,7 @@ const label = (value, fallback = "לא צוין") => value || fallback;
 const text = (product) => [product.sku_model_code, product.product_name, product.collection_series, product.brand, product.product_type_category, product.color_design, product.finish, ...(product.sizes_mm || [])].filter(Boolean).join(" ").toLowerCase();
 const assetSlug = (value) => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const productImage = (product) => {
+  if (product.display_image) return product.display_image.replace(/^public\//, "./");
   if (product.source_catalog_id === "CN-EAGLE-SINTERED-2026") return `assets/products/sintered/${product.sku_model_code}.jpg`;
   if (product.source_catalog_id === "CN-EAGLE-WHALE-MAX-2024") return `assets/products/whale-max/${product.sku_model_code}.jpg`;
   if (product.source_catalog_id === "CN-EAGLE-FOREST-SONG") return `assets/products/forest-song/${product.sku_model_code}.jpg`;
@@ -15,6 +16,10 @@ const productImage = (product) => {
   if (product.source_catalog_id === "CN-UNBRANDED-POLISHED") return `assets/products/polished/${product.sku_model_code}.jpg`;
   return `assets/catalog-pages/${assetSlug(product.source_catalog_id)}-p${product.image_page_reference.page}.jpg`;
 };
+const PLACEHOLDER_IMAGE = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Crect width='400' height='400' fill='%23eee'/%3E%3Ctext x='50%25' y='50%25' font-family='sans-serif' font-size='18' fill='%23999' text-anchor='middle' dominant-baseline='middle'%3E%D7%AA%D7%9E%D7%95%D7%A0%D7%94 %D7%91%D7%90%D7%99%D7%9E%D7%95%D7%AA%3C/text%3E%3C/svg%3E";
+const withImageFallback = (imgEl) => { imgEl.addEventListener("error", () => { imgEl.onerror = null; imgEl.src = PLACEHOLDER_IMAGE; }, { once: true }); };
+const CUSTOMER_FACING_STATUSES_TO_EXCLUDE = new Set(["source_lifestyle_image_only"]);
+const isCustomerFacing = (product) => !CUSTOMER_FACING_STATUSES_TO_EXCLUDE.has(product.display_asset_status);
 function saveRequest() { localStorage.setItem("ceramic-request", JSON.stringify(state.request)); $("#requestCount").textContent = state.request.length; }
 function addToRequest(product) {
   if (!state.request.some(item => item.sku === product.sku_model_code)) state.request.push({ sku: product.sku_model_code, quantity: "", product });
@@ -50,6 +55,7 @@ function render() {
     const image = node.querySelector(".product-image");
     image.src = productImage(product);
     image.alt = `תמונת קטלוג של ${product.sku_model_code}`;
+    withImageFallback(image);
     node.querySelector(".product-brand").textContent = label(product.brand);
     node.querySelector(".product-title").textContent = label(product.product_name, product.collection_series);
     node.querySelector(".product-meta").textContent = `${label(product.product_type_category)} · ${(product.sizes_mm || []).join(", ") || "מידה באימות"}`;
@@ -62,7 +68,8 @@ function render() {
   $("#emptyState").hidden = state.filtered.length !== 0;
 }
 function openProduct(product) {
-  $("#dialogContent").innerHTML = `<div class="dialog-layout"><button class="dialog-tile image-zoom-button" type="button" aria-label="הגדלת תמונת המוצר"><img src="${productImage(product)}" alt="תמונת קטלוג של ${product.sku_model_code}" /><span>לחצו להגדלה</span></button><div class="dialog-info"><p class="eyebrow">${label(product.brand)}</p><h2>${label(product.product_name, product.collection_series)}</h2><dl><dt>קוד</dt><dd><code>${product.sku_model_code}</code></dd><dt>קטגוריה</dt><dd>${label(product.product_type_category)}</dd><dt>מידה</dt><dd>${(product.sizes_mm || []).join(", ") || "באימות"}</dd><dt>גימור</dt><dd>${label(product.finish)}</dd><dt>עיצוב / גוון</dt><dd>${label(product.color_design)}</dd></dl><button class="button button-primary add-dialog-product" type="button">הוספה לבקשת הצעת מחיר</button><p class="quote-note">התמונה היא חיתוך מהמוצר המקורי בקטלוג. המחיר והמלאי מאושרים לפני הזמנה.</p></div></div>`;
+  $("#dialogContent").innerHTML = `<div class="dialog-layout"><button class="dialog-tile image-zoom-button" type="button" aria-label="הגדלת תמונת המוצר"><img class="dialog-image" src="${productImage(product)}" alt="תמונת קטלוג של ${product.sku_model_code}" /><span>לחצו להגדלה</span></button><div class="dialog-info"><p class="eyebrow">${label(product.brand)}</p><h2>${label(product.product_name, product.collection_series)}</h2><dl><dt>קוד</dt><dd><code>${product.sku_model_code}</code></dd><dt>קטגוריה</dt><dd>${label(product.product_type_category)}</dd><dt>מידה</dt><dd>${(product.sizes_mm || []).join(", ") || "באימות"}</dd><dt>גימור</dt><dd>${label(product.finish)}</dd><dt>עיצוב / גוון</dt><dd>${label(product.color_design)}</dd></dl><button class="button button-primary add-dialog-product" type="button">הוספה לבקשת הצעת מחיר</button><p class="quote-note">התמונה היא חיתוך מהמוצר המקורי בקטלוג. המחיר והמלאי מאושרים לפני הזמנה.</p></div></div>`;
+  withImageFallback($(".dialog-image"));
   $(".image-zoom-button").addEventListener("click", () => openZoom(product));
   $(".add-dialog-product").addEventListener("click", () => { dialog.close(); addToRequest(product); });
   dialog.showModal();
@@ -71,6 +78,7 @@ function openZoom(product) {
   const image = $("#imageZoomImage");
   image.src = productImage(product);
   image.alt = `תמונה מוגדלת של ${product.sku_model_code}`;
+  withImageFallback(image);
   zoomDialog.showModal();
 }
 function renderRequest() {
@@ -115,4 +123,18 @@ function bindEvents() {
     $("#catalog").scrollIntoView({ behavior: "smooth", block: "start" });
   }));
 }
-fetch("../data/master-products.json").then(response => { if (!response.ok) throw new Error("Catalog data could not load"); return response.json(); }).then(products => { state.products = products.filter(p => p.sku_model_code); state.filtered = [...state.products]; $("#productCount").textContent = state.products.length; populateFilters(state.products); bindEvents(); saveRequest(); render(); }).catch(() => { grid.innerHTML = "<p class='empty-state'>לא ניתן לטעון את הקטלוג. יש להפעיל את האתר דרך שרת מקומי.</p>"; });
+const loadJson = (path) => fetch(path).then(response => { if (!response.ok) throw new Error(`Catalog data could not load: ${path}`); return response.json(); });
+Promise.all([
+  loadJson("../data/master-products.json"),
+  loadJson("../data/eagle-tile-products.json"),
+  loadJson("../data/tau-products.json"),
+]).then(([masterProducts, eagleProducts, tauProducts]) => {
+  const combined = [...masterProducts, ...eagleProducts, ...tauProducts];
+  state.products = combined.filter(p => p.sku_model_code && isCustomerFacing(p));
+  state.filtered = [...state.products];
+  $("#productCount").textContent = state.products.length;
+  populateFilters(state.products);
+  bindEvents();
+  saveRequest();
+  render();
+}).catch(() => { grid.innerHTML = "<p class='empty-state'>לא ניתן לטעון את הקטלוג. יש להפעיל את האתר דרך שרת מקומי.</p>"; });

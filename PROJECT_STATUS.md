@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.4.1` (Eagle Ceramics Travertine Collection added; earlier Eagle/ECOEAGLE and TAU Cerámica bulk catalog ingestion)
+`0.5.0` (site prepared for free hosting: root entry point, orphaned catalog pages linked into navigation, new datasets wired in, missing-image fallback added site-wide)
 
 ## Completed
 
@@ -134,6 +134,10 @@
 - SPOT July 2026 catalog cross-checked in full against the existing 356-record catalog; 20 previously-missing SKUs added across 9 products (new MAXIMAL square drain sizes, a missing MAX Stick Short bronze finish, a new XO wall-system body and 16 cm spout finish set, a missing Rocco wall-system bronze body, two new Rocco spout-length finish sets, a missing matte-black Rocco oval basin, and the new LAPINO compact vanity)
 - SEBACH Shower Enclosures 2025 catalog visually reviewed page-by-page against the existing 13 catalogued models; 9 previously-missing shower/bathtub-screen models added (ROTEM, KD, KDD, HLP, DLP, YANIV, LIRAZ, DAN, NOAM)
 - Eagle Ceramics Travertine Collection ingested and fully SKU-extracted: 8 individually-verified white/yellow travertine-look porcelain slab SKUs added to `data/eagle-tile-products.json`, each with a high-resolution (400dpi) source-page crop checked for supplier brand marks
+- Site prepared for free static hosting (e.g. GitHub Pages): added a root `index.html` redirect, fixed a stale redirect that made `public/index.html` unreachable, and confirmed (via a headless-browser pass across all 8 storefront pages) that every page loads and renders with no JavaScript errors
+- The 147 customer-facing Eagle/ECOEAGLE tile records and 52 TAU Cerámica records are now actually displayed on the storefront (`public/index.html`), not just present as data; combined with the existing 104-record dataset this page now shows 303 verified tile products
+- `public/bathroom-catalog.html` (384 verified SEBACH/Mitrani records) is now linked from `public/bathroom.html` navigation; it was previously fully built but unreachable from any page
+- Added a graceful placeholder fallback for every product/logo/hero image across the site that references a file not present in this repository, so the known missing-image gap (see Next Steps) no longer shows as broken-image icons
 
 ## In Progress
 
@@ -152,3 +156,6 @@
 - Locate and re-supply the original 1,010 supplier catalogue images so existing verified records can be backed by their real image assets in this repository (most existing records currently reference `public/bathroom-product-assets/...` paths whose image files are not yet present here)
 - Identify the brand behind the 13 collection-level placeholder tile catalogs (visual template matches Eagle Ceramics but is not confirmed)
 - Follow up on the TAU "Promoción Novedades" roundup PDF to confirm whether it references any collection not already covered by EVIAN WALL, BALISTONE, LUXOR or EVOLVE 2026
+- Re-supply the original supplier image archive so the ~1,200+ legacy records that currently fall back to a placeholder (356 of 384 bathroom records, all 851 `millennium-design.html` catalog photos, and the site logo/hero images) can show their real photos
+- Verify from a real (non-sandboxed) network that `public/millennium-design.html`'s runtime dependency on `unpkg.com` for React loads reliably once the site is live
+- Merge the site-prep branch into `main` and enable free static hosting (e.g. GitHub Pages) once approved
