@@ -4367,5 +4367,237 @@
     "display_asset_status": "source_embedded_image_verified_shared_row_crop",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "Available size/code variants: C8PPF09L 158x2800mm; C3PPF09L 158x3000mm."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JF-01",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JF-01",
+    "product_name": "Travertine Collection JF-01",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Polished",
+    "color_design": "Travertine-look, White, with holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JF-01.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JFD-01",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JFD-01",
+    "product_name": "Travertine Collection JFD-01",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Polished, Double Loading",
+    "color_design": "Travertine-look, White, with holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JFD-01.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JF-02",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JF-02",
+    "product_name": "Travertine Collection JF-02",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Polished",
+    "color_design": "Travertine-look, Yellow, with holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JF-02.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JFD-02",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JFD-02",
+    "product_name": "Travertine Collection JFD-02",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Polished, Double Loading",
+    "color_design": "Travertine-look, Yellow, with holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JFD-02.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JG-101",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JG-101",
+    "product_name": "Travertine Collection JG-101",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Soft Light",
+    "color_design": "Travertine-look, White, without holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JG-101.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JGD-101",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JGD-101",
+    "product_name": "Travertine Collection JGD-101",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Soft Light, Double Loading",
+    "color_design": "Travertine-look, White, without holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JGD-101.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JG-102",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JG-102",
+    "product_name": "Travertine Collection JG-102",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Soft Light",
+    "color_design": "Travertine-look, Yellow, without holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JG-102.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
+  },
+  {
+    "id": "CN-EAGLE-TRAVERTINE:JGD-102",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog_id": "CN-EAGLE-TRAVERTINE",
+    "source_catalog": "Travertine Collection",
+    "collection_series": "Travertine Collection",
+    "sku_model_code": "JGD-102",
+    "product_name": "Travertine Collection JGD-102",
+    "product_type_category": "Porcelain slab tile, travertine-look",
+    "sizes_mm": [
+      600,
+      600
+    ],
+    "finish": "Soft Light, Double Loading",
+    "color_design": "Travertine-look, Yellow, without holes",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-TRAVERTINE",
+      "page": 16,
+      "kind": "product_matrix_summary_page"
+    },
+    "display_image": "public/bathroom-product-assets/eagle-tiles/travertine-JGD-102.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Available in 600x600mm(24\"x24\"), 800x800mm(32\"x32\"), 600x1200mm(24\"x48\") per catalog size legend."
   }
 ]

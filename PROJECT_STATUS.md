@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.4.0` (Eagle Ceramics/ECOEAGLE and TAU Cerámica bulk catalog ingestion)
+`0.4.1` (Eagle Ceramics Travertine Collection added; earlier Eagle/ECOEAGLE and TAU Cerámica bulk catalog ingestion)
 
 ## Completed
 
@@ -133,6 +133,7 @@
 - Full existing project codebase (storefront pages, catalog data, docs) brought into the `ceramic-store` git repository for the first time; `main` now reflects the real project instead of an empty scaffold
 - SPOT July 2026 catalog cross-checked in full against the existing 356-record catalog; 20 previously-missing SKUs added across 9 products (new MAXIMAL square drain sizes, a missing MAX Stick Short bronze finish, a new XO wall-system body and 16 cm spout finish set, a missing Rocco wall-system bronze body, two new Rocco spout-length finish sets, a missing matte-black Rocco oval basin, and the new LAPINO compact vanity)
 - SEBACH Shower Enclosures 2025 catalog visually reviewed page-by-page against the existing 13 catalogued models; 9 previously-missing shower/bathtub-screen models added (ROTEM, KD, KDD, HLP, DLP, YANIV, LIRAZ, DAN, NOAM)
+- Eagle Ceramics Travertine Collection ingested and fully SKU-extracted: 8 individually-verified white/yellow travertine-look porcelain slab SKUs added to `data/eagle-tile-products.json`, each with a high-resolution (400dpi) source-page crop checked for supplier brand marks
 
 ## In Progress
 

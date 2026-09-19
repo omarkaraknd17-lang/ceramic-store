@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.4.1] - 2026-09-19
+
+### Added
+
+- Ingested the Eagle Ceramics Travertine Collection (`CN-EAGLE-TRAVERTINE`, deduplicated by SHA-256 against all previously-tracked catalogs) into `data/eagle-tile-products.json`: 8 individually-verified SKUs (JF-01, JFD-01, JF-02, JFD-02, JG-101, JGD-101, JG-102, JGD-102) covering white and yellow travertine-look porcelain slabs, with and without holes, in Polished and Soft Light finishes, each with a source-page display crop and provenance to the product-matrix summary page.
+- Re-cropped all 8 Travertine display images at doubled source resolution (400dpi, up from 200dpi) for sharper catalogue imagery; each crop was visually checked and is free of any supplier brand mark.
+- Updated `data/master-catalog-manifest.json` aggregate counts to reflect the addition (1142 total catalog inventory records, 687 verified customer-facing records, 43 tracked supplier catalog sources).
+
 ## [0.4.0] - 2026-09-19
 
 ### Added

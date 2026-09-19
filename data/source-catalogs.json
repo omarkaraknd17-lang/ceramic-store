@@ -544,5 +544,18 @@
     "catalog_category": "Porcelain slab, gloss-degree variants (50/55/60/70) plus Tiangong Jade variant",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": null
+  },
+  {
+    "catalog_id": "CN-EAGLE-TRAVERTINE",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Eagle Ceramics",
+    "source_catalog": "Travertine Collection",
+    "original_filename": "20250227141310_s.pdf",
+    "page_count": 18,
+    "source_sha256": "f48b7b384ad6e98c71b9b67bb097b56f882776a9ff4af69b888aa9f771d46f24",
+    "ingestion_status": "product_records_extracted_2026-09-19",
+    "catalog_category": "Porcelain slab, travertine-look, 4 colors (with/without holes) x 2 finishes",
+    "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
+    "notes": "Same 2025-02-27 shoot batch as CN-EAGLE-TANGGULA-STONE-II (sibling timestamped file)."
   }
 ]
