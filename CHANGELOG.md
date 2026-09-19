@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.9.0] - 2026-09-19
+
+### Added
+
+- Fully extracted the Allye Wall Tiles catalog (20 pages): 13 main relief/pattern series (each printed as one code with 5 uncoded color options) plus 72 individually-coded small decor accent tiles from the catalog's last 4 pages, all with real verified display crops. 85 new records.
+- `data/master-products.json` grew from 149 to 234 records.
+
 ## [0.8.0] - 2026-09-19
 
 ### Added

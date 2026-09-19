@@ -46,10 +46,10 @@
     "original_filename": "wall-tiles.pdf",
     "page_count": 20,
     "source_sha256": "6de1cc2e7d4254ee13a5079875e22600f2f68471023dd5eec2677064ef7b45ab",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Wall tiles and decor",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: 13 main relief/pattern series (AJ39xxxxx etc, each with 5 uncoded color options) plus 72 individually-coded small decor accent tiles (pages 17-20), each with a real verified display crop. A few codes are printed identically on more than one page/colorway in the source; preserved as-is with disambiguated internal ids."
   },
   {
     "catalog_id": "CN-UNBRANDED-RUSTIC",
