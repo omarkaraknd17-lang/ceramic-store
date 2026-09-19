@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.3.5` (SPOT and SEBACH shower-enclosure catalog gap-reconciliation pass)
+`0.4.0` (Eagle Ceramics/ECOEAGLE and TAU Cerámica bulk catalog ingestion)
 
 ## Completed
 
@@ -137,9 +137,10 @@
 ## In Progress
 
 - Full variant extraction for the four verified Allye polished-porcelain collections, then high-resolution OCR or supplier data-sheet verification for the remaining scan-only pages
-- Reattach TAU and other outstanding supplier PDFs before their separate inventories can be extracted
 - Verify price, sale unit and availability for every product before storefront publication
 - Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets
+- Individual SKU extraction for the 13 collection-level placeholder tile catalogs (HOBART, NERO MARGIUA, DUSTIN, ARIK, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) and brand confirmation for them
+- Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset, and for the unnamed K8FJ693/696/700/701TE micro-cement variants
 
 ## Next Steps
 
@@ -148,3 +149,5 @@
 - Crop each source-page image into a SKU-specific tile-only display image, starting with the verified Allye polished range
 - Confirm public pricing, availability and ordering rules before enabling purchases
 - Locate and re-supply the original 1,010 supplier catalogue images so existing verified records can be backed by their real image assets in this repository (most existing records currently reference `public/bathroom-product-assets/...` paths whose image files are not yet present here)
+- Identify the brand behind the 13 collection-level placeholder tile catalogs (visual template matches Eagle Ceramics but is not confirmed)
+- Follow up on the TAU "Promoción Novedades" roundup PDF to confirm whether it references any collection not already covered by EVIAN WALL, BALISTONE, LUXOR or EVOLVE 2026

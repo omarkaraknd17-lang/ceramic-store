@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-GRAY",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-GRAY",
+    "product_name": "Evian Wall Gray",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte",
+    "color_design": "gray, NCS S 2002-G, Colonial",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-gray.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte wall tile. Thickness 9.5mm, 15 designs per box (M06 format)."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-LINEN",
+    "product_name": "Evian Wall Linen",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte",
+    "color_design": "linen, NCS S 1002-G, Mediterranean",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte wall tile. Thickness 9.5mm."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-PEARL",
+    "product_name": "Evian Wall Pearl",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte",
+    "color_design": "pearl, NCS S 2002-Y, Metallic",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte wall tile. Thickness 9.5mm, 15 designs."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-SAND",
+    "product_name": "Evian Wall Sand",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte",
+    "color_design": "sand, NCS S 1005-Y20R, Desert",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte wall tile. Thickness 9.5mm, 15 designs (13 for RLV relief)."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-WHITE",
+    "product_name": "Evian Wall White",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte",
+    "color_design": "white, NCS S 1002-G, Neutral",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-white.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte wall tile. Thickness 9.5mm."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-RLV-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-RLV-PEARL",
+    "product_name": "Evian Wall Relieve Pearl",
+    "product_type_category": "Wall tile (relief/textured)",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "pearl, NCS S 2002-Y, Metallic",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-rlv-pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte textured-relief wall tile variant. Format code M07."
+  },
+  {
+    "id": "ES-TAU-EVIAN-WALL:EVIAN-WALL-RLV-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVIAN-WALL",
+    "source_catalog": "TAU Catalog - EVIAN WALL",
+    "collection_series": "EVIAN WALL",
+    "sku_model_code": "EVIAN-WALL-RLV-SAND",
+    "product_name": "Evian Wall Relieve Sand",
+    "product_type_category": "Wall tile (relief/textured)",
+    "sizes_mm": [
+      200,
+      600
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "sand, NCS S 1005-Y20R, Desert",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVIAN-WALL",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/evianwall-rlv-sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "20x60cm matte textured-relief wall tile variant. Format code M07."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-COAL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-COAL",
+    "product_name": "Balistone Coal",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "matte (M21)",
+    "color_design": "Coal, NCS 7500N, BASICS",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-coal.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick. 6 pattern designs (matte)."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-EMERALD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-EMERALD",
+    "product_name": "Balistone Emerald",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "not specified",
+    "color_design": "Emerald, NCS S 5010-B70G, COLONIAL",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-emerald.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-ROYALBLUE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-ROYALBLUE",
+    "product_name": "Balistone Royalblue",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "not specified",
+    "color_design": "Royalblue, NCS 7005-R80B, TEMPERATE",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-royalblue.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-SAND",
+    "product_name": "Balistone Sand",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "not specified",
+    "color_design": "Sand, NCS 3005-Y50R, DESERT",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-SEAGREEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-SEAGREEN",
+    "product_name": "Balistone Seagreen",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "matte (M21)",
+    "color_design": "Seagreen, NCS 6010-B70G, COLONIAL",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-seagreen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick. 12 pattern designs (matte)."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-SILVER",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-SILVER",
+    "product_name": "Balistone Silver",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "not specified",
+    "color_design": "Silver, NCS 4005-Y50R, METALLIC",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-silver.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick."
+  },
+  {
+    "id": "ES-TAU-BALISTONE:BALISTONE-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-BALISTONE",
+    "source_catalog": "TAU Catalog - BALISTONE",
+    "collection_series": "BALISTONE",
+    "sku_model_code": "BALISTONE-WHITE",
+    "product_name": "Balistone White",
+    "product_type_category": "Small-format floor/wall tile (mosaic brick)",
+    "sizes_mm": [
+      70,
+      280
+    ],
+    "finish": "gloss (M23)",
+    "color_design": "White, NCS 2000-N, NEUTRAL",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BALISTONE",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/balistone-white.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "7x28cm cross-cut format, 8.5mm thick. 24 pattern designs (gloss)."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-TRIANGLE-ARGENT",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Triangle",
+    "sku_model_code": "LUXOR-TRIANGLE-ARGENT",
+    "product_name": "Mosaico Metal Triangle Argent 30.2x30.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      302,
+      304
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Argent",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-triangle-argent.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-TRIANGLE-GOLD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Triangle",
+    "sku_model_code": "LUXOR-TRIANGLE-GOLD",
+    "product_name": "Mosaico Metal Triangle Gold 30.2x30.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      302,
+      304
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Gold",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-triangle-gold.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-TRIANGLE-COOPER",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Triangle",
+    "sku_model_code": "LUXOR-TRIANGLE-COOPER",
+    "product_name": "Mosaico Metal Triangle Cooper 30.2x30.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      302,
+      304
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Cooper",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-triangle-cooper.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-SQUARE-ARGENT",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Square",
+    "sku_model_code": "LUXOR-SQUARE-ARGENT",
+    "product_name": "Mosaico Metal Square Argent 30.5x30.5cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      305,
+      305
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Argent",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-square-argent.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-SQUARE-GOLD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Square",
+    "sku_model_code": "LUXOR-SQUARE-GOLD",
+    "product_name": "Mosaico Metal Square Gold 30.5x30.5cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      305,
+      305
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Gold",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-square-gold.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-SQUARE-COOPER",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Square",
+    "sku_model_code": "LUXOR-SQUARE-COOPER",
+    "product_name": "Mosaico Metal Square Cooper 30.5x30.5cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      305,
+      305
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Cooper",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-square-cooper.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-FLOWERS-ARGENT",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Flowers",
+    "sku_model_code": "LUXOR-FLOWERS-ARGENT",
+    "product_name": "Mosaico Metal Flowers Argent 29.5x28.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      295,
+      284
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Argent",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-flowers-argent.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-FLOWERS-GOLD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Flowers",
+    "sku_model_code": "LUXOR-FLOWERS-GOLD",
+    "product_name": "Mosaico Metal Flowers Gold 29.5x28.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      295,
+      284
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Gold",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-flowers-gold.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-LUXOR-MOSAICS:LUXOR-FLOWERS-COOPER",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-LUXOR-MOSAICS",
+    "source_catalog": "TAU Catalog - LUXOR Mosaics",
+    "collection_series": "LUXOR Flowers",
+    "sku_model_code": "LUXOR-FLOWERS-COOPER",
+    "product_name": "Mosaico Metal Flowers Cooper 29.5x28.4cm",
+    "product_type_category": "Metal mosaic decorative accent tile",
+    "sizes_mm": [
+      295,
+      284
+    ],
+    "finish": "brushed metal mosaic",
+    "color_design": "Cooper",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-LUXOR-MOSAICS",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/luxor-flowers-cooper.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Aluminum mosaic; hand-crafted, natural variations in caliber/texture/shade are expected per manufacturer notice."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "CAMPASPERO-WHITE",
+    "product_name": "CAMPASPERO White",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, textured",
+    "color_design": "White",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campaspero-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x120, 60x120 (also 2mm), 100x100, 60x60, 61x91 (ADZ 20mm)cm. Porcelain, textured."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "CAMPASPERO-LINEN",
+    "product_name": "CAMPASPERO Linen",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, textured",
+    "color_design": "Linen",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campaspero-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x120, 60x120 (also 2mm), 100x100, 60x60, 61x91 (ADZ 20mm)cm. Porcelain, textured."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "CAMPASPERO-SAND",
+    "product_name": "CAMPASPERO Sand",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, textured",
+    "color_design": "Sand",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campaspero-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x120, 60x120 (also 2mm), 100x100, 60x60, 61x91 (ADZ 20mm)cm. Porcelain, textured."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "CAMPASPERO-PEARL",
+    "product_name": "CAMPASPERO Pearl",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, textured",
+    "color_design": "Pearl",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campaspero-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x120, 60x120 (also 2mm), 100x100, 60x60, 61x91 (ADZ 20mm)cm. Porcelain, textured."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-WHITE",
+    "product_name": "CAMPASPERO WALL White",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "White",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-LINEN",
+    "product_name": "CAMPASPERO WALL Linen",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Linen",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-SAND",
+    "product_name": "CAMPASPERO WALL Sand",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Sand",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-PEARL",
+    "product_name": "CAMPASPERO WALL Pearl",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Pearl",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-RLV-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-RLV-WHITE",
+    "product_name": "CAMPASPERO WALL White (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "White (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-RLV-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-RLV-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-RLV-LINEN",
+    "product_name": "CAMPASPERO WALL Linen (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Linen (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-RLV-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-RLV-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-RLV-SAND",
+    "product_name": "CAMPASPERO WALL Sand (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Sand (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-RLV-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CAMPASPERO-WALL-RLV-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CAMPASPERO WALL",
+    "sku_model_code": "CAMPASPERO-WALL-RLV-PEARL",
+    "product_name": "CAMPASPERO WALL Pearl (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Pearl (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/campasperowall-RLV-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-WHITE",
+    "product_name": "LITHOS White",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, multiple finishes available",
+    "color_design": "White",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-SAND",
+    "product_name": "LITHOS Sand",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, multiple finishes available",
+    "color_design": "Sand",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-PEARL",
+    "product_name": "LITHOS Pearl",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, multiple finishes available",
+    "color_design": "Pearl",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-LINEN",
+    "product_name": "LITHOS Linen",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "porcelain, multiple finishes available",
+    "color_design": "Linen",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-RLV-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-RLV-WHITE",
+    "product_name": "LITHOS White (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "relief (RLV)",
+    "color_design": "White (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-RLV-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-RLV-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-RLV-SAND",
+    "product_name": "LITHOS Sand (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "relief (RLV)",
+    "color_design": "Sand (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-RLV-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-RLV-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-RLV-PEARL",
+    "product_name": "LITHOS Pearl (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "relief (RLV)",
+    "color_design": "Pearl (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-RLV-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-RLV-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS",
+    "sku_model_code": "LITHOS-RLV-LINEN",
+    "product_name": "LITHOS Linen (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      1200,
+      1200
+    ],
+    "finish": "relief (RLV)",
+    "color_design": "Linen (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithos-RLV-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Formats: 120x280, 120x120, 60x120, 60x120(n), 60x60, 61x91(ADZ 20mm), 100x100, 90x90cm. Matte/Polished/Polisoft(SM)/Textured per format."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-WHITE",
+    "product_name": "LITHOS WALL White",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "White",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-SAND",
+    "product_name": "LITHOS WALL Sand",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Sand",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-PEARL",
+    "product_name": "LITHOS WALL Pearl",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Pearl",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-LINEN",
+    "product_name": "LITHOS WALL Linen",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte",
+    "color_design": "Linen",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-RLV-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-RLV-WHITE",
+    "product_name": "LITHOS WALL White (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "White (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-RLV-White.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-RLV-SAND",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-RLV-SAND",
+    "product_name": "LITHOS WALL Sand (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Sand (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-RLV-Sand.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-RLV-PEARL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-RLV-PEARL",
+    "product_name": "LITHOS WALL Pearl (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Pearl (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-RLV-Pearl.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:LITHOS-WALL-RLV-LINEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "LITHOS WALL",
+    "sku_model_code": "LITHOS-WALL-RLV-LINEN",
+    "product_name": "LITHOS WALL Linen (relief/RLV)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      300,
+      900
+    ],
+    "finish": "matte, relief (RLV)",
+    "color_design": "Linen (relief/RLV)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/lithoswall-RLV-Linen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Format: 30x90cm. Matte."
+  },
+  {
+    "id": "ES-TAU-EVOLVE-2026:CASTELLO-WHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-EVOLVE-2026",
+    "source_catalog": "TAU EVOLVE New Collection 2026",
+    "collection_series": "CASTELLO",
+    "sku_model_code": "CASTELLO-WHITE",
+    "product_name": "CASTELLO White",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      105,
+      300
+    ],
+    "finish": "glossy stick mosaic",
+    "color_design": "White",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-EVOLVE-2026",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/castello-basics-strip.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "10.5x30cm stick-mosaic wall tile. A broader 'Basics' color range (10+ additional colors including tan, gold, bronze, olive, navy speckled, teal, turquoise) is shown in the source page as an unlabeled color strip; only White is individually named/confirmed here. Display image is the shared color-strip reference, not an isolated White swatch."
+  }
+]

@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.4.0] - 2026-09-19
+
+### Added
+
+- Registered 28 newly-supplied supplier PDF catalogs in the source ledger (`data/source-catalogs.json`) after SHA-256 deduplication against all previously-tracked catalogs; 7 of the uploaded files were confirmed byte-identical re-uploads of already-tracked sources and were skipped.
+- Ingested and fully SKU-extracted 10 Eagle Ceramics / ECOEAGLE catalogs into a new `data/eagle-tile-products.json` dataset (139 individually verified SKUs): Solar Stone, Pure Colors, Refined Crystal II, Tanggula Stone II, Snow White, the 2023 Chao Xian Shi (超现石) and Plain Luxury Micro Cement (素奢·微水泥) new-product decks, the 花样年华 decorative pattern series, and the ECOEAGLE SPC flooring and wallboard catalogs (non-ceramic decor lines from the same Eagle Brand Group).
+- Registered 13 further single-collection tile spec sheets (HOBART, NERO MARGIUA, DUSTIN, ARIK, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) as collection-level placeholder entries pending individual SKU extraction; their brand could not be confirmed from the reviewed pages so it is left unset rather than assumed.
+- Ingested and fully SKU-extracted TAU Cerámica (Spain) into a new `data/tau-products.json` dataset (52 SKUs): the EVIAN WALL and BALISTONE collections, the LUXOR metal-mosaic range, and the EVOLVE 2026 new collection (CAMPASPERO, CAMPASPERO WALL, LITHOS, LITHOS WALL and CASTELLO series). This resolves the project's earlier "TAU PDFs not available" gap.
+- Added `data/eagle-tile-products.json` and `data/tau-products.json` as new supplier-separated datasets in `data/master-catalog-manifest.json`, keeping Chinese and Spanish supplier groups distinct per the project's source-separation rule.
+
 ## [0.3.5] - 2026-09-19
 
 ### Added
