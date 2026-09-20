@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.9] - 2026-09-20
+
+### Fixed
+
+- Site-wide audit: crawled every internal link and anchor across all 7 pages (429 total) with a headless browser — zero broken links, zero missing anchors. Ran full functional tests of the actual user flows: search, all 18 category filters, sort, add-to-quote-request, and WhatsApp message generation on `index.html` (verified the generated message text and URL are correctly formed); all filter buttons on `bathroom-catalog.html`.
+- Found and fixed a real, customer-facing gap this way: `bathroom-catalog.js`'s hardcoded `categoryName` translation table and `bathroom-catalog.html`'s filter buttons only covered 11 of the 21 `product_type_category` values actually present in `bathroom-verified-products.json`. The other 10 categories (81 of 373 products — 22% of the whole bathroom catalog, including "Concealed shower faucet trim" and "Shower system" at 20 and 18 products each) had no filter button at all, and their product cards fell back to showing the raw **English** category name on an otherwise all-Hebrew RTL page. Added Hebrew translations for all 11 missing categories and filter buttons for the 8 with 4+ products; the remaining 3 single-product categories get correct Hebrew text on their cards but no dedicated button, matching how thin the underlying group is. Bumped the script's cache-busting version. Verified via headless browser: all 19 filter buttons now show correct non-zero, non-overlapping counts (370 + 3 unbuttoned singletons = the full 373), and a sample card from a previously-broken category now renders in Hebrew.
+
 ## [1.1.8] - 2026-09-20
 
 ### Fixed

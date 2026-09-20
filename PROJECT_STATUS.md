@@ -4,6 +4,8 @@
 
 ## Current Version
 
+`1.1.9` (site-wide audit: crawled all 429 internal links/anchors across all 7 pages, zero broken; ran full functional tests of search/filter/quote-request/WhatsApp flows. Found and fixed a real gap: bathroom-catalog's hardcoded category list only covered 11 of 21 real categories, leaving 81 of 373 products (22%) unfilterable and showing raw English text on the Hebrew page. Added the missing translations and filter buttons.
+
 `1.1.8` (re-verified the remaining "blocked" bathroom catalogs by SHA-256; 2 stay genuinely blocked, 2 had their PDFs present. Audited all 442 unpublished candidates by page overlap and found 35 were noise (font-glyph artifacts, cover-page text, or products already verified under a different code token) and removed them; visually verified and promoted 2 genuinely new products (KD2 shower enclosure, MUST02 vanity shelf). Caught and corrected a scoping mistake in the cleanup script itself (an unrelated same-named candidate in a different, still-blocked catalog) before it caused data loss. candidates: 442 -> 404, verified: 369 -> 372.
 
 `1.1.7` (found and closed a real gap the earlier "extraction complete" status missed: 4 Eagle catalogs (87 records) were still text-only, not individually image-verified. Checked by SHA-256 whether their source PDFs are still present rather than assuming the whole group was blocked like SEBACH/Mitrani: 3 of 4 were (78 records), only Star Marks' PDF is genuinely gone (9 records, stays blocked). Individually cropped and verified all 78 against their source pages; live catalog count now correctly 633. Also normalized a supplier_group capitalization inconsistency (Sebach vs SEBACH) found via audit, confirmed against the brand field's consistent casing.

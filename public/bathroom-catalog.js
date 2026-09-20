@@ -12,7 +12,18 @@ const categoryName = {
   'Bathroom shower system': 'מערכת רחצה',
   'Bathroom faucet': 'ברז כיור',
   'Bathtub': 'אמבטיה',
-  'Toilet': 'אסלה'
+  'Toilet': 'אסלה',
+  'Concealed shower faucet trim': 'פנל למערכת מקלחת מוסתרת',
+  'Shower system': 'מערכת מקלחת',
+  'Bathroom accessory': 'אביזר לאמבטיה',
+  'Basin wall faucet': 'ברז קיר לכיור',
+  'Wall-hung toilet': 'אסלה תלויה',
+  'Concealed shower/basin wall system': 'מערכת קיר מוסתרת למקלחת/כיור',
+  'Toilet seat': 'מושב אסלה',
+  'Bathtub screen': 'מחיצת אמבטיה',
+  'Basin faucet': 'ברז לכיור',
+  'Countertop basin': 'כיור מונח',
+  'Vanity with integrated basin': 'ארון עם כיור משולב'
 };
 
 const PLACEHOLDER_IMAGE = "data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Crect width=%27400%27 height=%27400%27 fill=%27%23eee%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27sans-serif%27 font-size=%2718%27 fill=%27%23999%27 text-anchor=%27middle%27 dominant-baseline=%27middle%27%3E%D7%AA%D7%9E%D7%95%D7%A0%D7%94 %D7%91%D7%90%D7%99%D7%9E%D7%95%D7%AA%3C/text%3E%3C/svg%3E";
