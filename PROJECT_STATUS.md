@@ -4,6 +4,8 @@
 
 ## Current Version
 
+`1.1.10` (found a severe gap testing millennium-design.html: its React runtime loads from unpkg.com at request time with zero fallback, so a blocked/failed CDN request means visitors see a completely blank page with no error message. Reproduced the failure in this sandbox and added a timeout-based fallback message with a working WhatsApp link and home-page link, without touching the React/dc-runtime system itself.
+
 `1.1.9` (site-wide audit: crawled all 429 internal links/anchors across all 7 pages, zero broken; ran full functional tests of search/filter/quote-request/WhatsApp flows. Found and fixed a real gap: bathroom-catalog's hardcoded category list only covered 11 of 21 real categories, leaving 81 of 373 products (22%) unfilterable and showing raw English text on the Hebrew page. Added the missing translations and filter buttons.
 
 `1.1.8` (re-verified the remaining "blocked" bathroom catalogs by SHA-256; 2 stay genuinely blocked, 2 had their PDFs present. Audited all 442 unpublished candidates by page overlap and found 35 were noise (font-glyph artifacts, cover-page text, or products already verified under a different code token) and removed them; visually verified and promoted 2 genuinely new products (KD2 shower enclosure, MUST02 vanity shelf). Caught and corrected a scoping mistake in the cleanup script itself (an unrelated same-named candidate in a different, still-blocked catalog) before it caused data loss. candidates: 442 -> 404, verified: 369 -> 372.

@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.10] - 2026-09-20
+
+### Fixed
+
+- Found a severe production robustness gap while functionally testing `millennium-design.html` (the site's main visual catalog, 851+ photos): the whole page's React runtime loads at request time from `unpkg.com` with zero local fallback, and if that CDN request is ever blocked or fails (corporate/school firewalls, ad-blockers, a CDN outage, restrictive networks), the visitor sees a **completely blank white page** — no loading indicator, no error message, nothing to click. Reproduced exactly this failure mode in this sandbox (its network policy blocks unpkg.com) and confirmed `document.body.innerText` stays empty indefinitely with no fallback content anywhere in the page. Added a small, self-contained timeout-based fallback (plain JS, touches nothing in the React/dc-runtime template system): if no visible text has rendered after 8 seconds, show a clear Hebrew message plus a working WhatsApp link and a link back to `home.html`, so a visitor in this situation always has a way forward instead of a dead end. Verified via headless browser that the fallback renders correctly with a working WhatsApp link when the CDN load fails, and that its guard condition (only fires when the page is still empty) won't interfere with normal loads.
+
 ## [1.1.9] - 2026-09-20
 
 ### Fixed

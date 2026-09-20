@@ -720,5 +720,20 @@ class Component extends DCLogic {
   }, true);
 })();
 </script>
+<script>
+(function () {
+  setTimeout(function () {
+    if (document.body.innerText.trim() !== '') return;
+    var box = document.createElement('div');
+    box.setAttribute('dir', 'rtl');
+    box.style.cssText = 'font-family:Assistant,Arial,sans-serif;max-width:420px;margin:18vh auto;padding:28px;text-align:center;color:#122A44';
+    box.innerHTML = '<p style="font-size:18px;font-weight:700;margin:0 0 10px">טוען לאט מהרגיל</p>' +
+      '<p style="color:#5A6470;margin:0 0 20px">ייתכן שהדפדפן או הרשת חוסמים רכיב חיצוני הדרוש לעמוד זה. אפשר לנסות לרענן, או לפנות אלינו ישירות.</p>' +
+      '<a href="https://wa.me/972546601762" style="display:inline-block;background:#C9A468;color:#122A44;font-weight:700;padding:12px 22px;border-radius:2px;text-decoration:none;margin-inline-end:8px">שליחת הודעה בוואטסאפ</a>' +
+      '<a href="./home.html" style="display:inline-block;border:1px solid #122A44;color:#122A44;font-weight:600;padding:12px 22px;border-radius:2px;text-decoration:none">חזרה לדף הבית</a>';
+    document.body.appendChild(box);
+  }, 8000);
+})();
+</script>
 </body>
 </html>
