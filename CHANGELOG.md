@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.5] - 2026-09-20
+
+### Fixed
+
+- Finished the whole-project code audit by covering the remaining files: `cabinets.html`, `showers.html`, `styles.css`, and the rest of `millennium-design.html` (the declarative template portion, not just its script logic already audited). Found one more real bug: `styles.css`'s `.eyebrow{margin:0 0:.65rem;...}` had a stray colon instead of a space in the margin shorthand, which is invalid CSS and made the entire `margin` declaration get silently dropped by the browser — every `.eyebrow` label on `index.html` (category showcase, catalog section, contact section) rendered with no bottom spacing. Fixed and verified with a headless-browser computed-style check (`0px` → `10.4px`).
+- Verified `cabinets.html` and `showers.html` build their product cards from hardcoded static data (not user or catalog-file input), so they're not exposed to the same HTML-injection class of bug fixed in 1.1.4; both already carry the same image-fallback script as the other pages. Verified no missing local script/stylesheet references and no duplicate element ids across any page, and syntax-checked every page's inline `<script>` block.
+
 ## [1.1.4] - 2026-09-20
 
 ### Fixed
