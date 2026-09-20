@@ -10931,5 +10931,94 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "Source-listed price 645 ILS (67cm); installation 300 ILS extra. Fixed bathtub glass screen, 6mm tempered glass. Dimensions transcribed from source page; final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KD2-NICKEL",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "KD2",
+    "sku_model_code": "KD2-NICKEL",
+    "product_name": "מקלחון KD2 - ניקל",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      1400,
+      1700,
+      2400
+    ],
+    "finish": "nickel hardware, 6mm tempered clear glass",
+    "color_design": "clear glass shower enclosure, front with 2 fixed panels + 2 doors",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 36,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/KD2-nickel.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source lists 2 width ranges (140-170cm at 2,385 ILS, 170-240cm at 2,485 ILS) under this nickel finish; sizes_mm records the overall min/max range. Was previously mis-extracted as a bogus font-artifact candidate; individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KD2-BLACK",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "KD2",
+    "sku_model_code": "KD2-BLACK",
+    "product_name": "מקלחון KD2 - שחור שקוף / פרזול שחור",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      1400,
+      1700,
+      2400
+    ],
+    "finish": "matte black hardware, 6mm tempered glass",
+    "color_design": "shower enclosure with black hardware, front with 2 fixed panels + 2 doors",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 37,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/KD2-black.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source lists 2 width ranges (140-170cm at 2,745 ILS, 170-240cm at 2,945 ILS) under this black-hardware finish; sizes_mm records the overall min/max range. Was previously mis-extracted as a bogus font-artifact candidate; individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:MUST02",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "Rocco by SEBACH",
+    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
+    "source_catalog": "SPOT July 2026",
+    "collection_series": "Rocco",
+    "sku_model_code": "MUST02",
+    "product_name": "משטח עץ מעוצב \"מאסט\" כולל כיור, ברז ומתלה מגבת",
+    "product_type_category": "Bathroom vanity",
+    "sizes_mm": [
+      300,
+      500
+    ],
+    "finish": "chrome faucet, wood-finish shelf",
+    "color_design": "wood-look designed wall shelf with integrated round countertop basin, faucet and towel holder cutout",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
+      "page": 44,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-cabinets/MUST02.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source-listed price 1,495 ILS, size 50/30cm, marked as a new size option. Was previously mis-extracted as a bogus font-artifact candidate (BY43); individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
   }
 ]

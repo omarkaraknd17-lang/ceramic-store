@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.8] - 2026-09-20
+
+### Fixed
+
+- Re-verified the remaining "blocked" bathroom catalogs by SHA-256 (not by trusting the old status), the same way the Eagle gap was found: `IL-SEBACH-BATH-CABINETS-2023` and `IL-MITRANI-SHOWERS-2024` are genuinely absent from this environment and stay correctly blocked; `IL-SEBACH-MITRANI-SPOT-2026-07` and `IL-SEBACH-SHOWER-ENCLOSURES-2025` have their source PDFs present.
+- Audited all 442 `bathroom-product-candidates.json` entries against the now-372 verified records by page overlap (not just exact-code match) and found the "unpublished candidates" list was heavily contaminated with extraction noise: 20 entries were literal PDF font-glyph-name leakage (`UNI05DB`, `U0041`, etc. — the Adobe glyph-naming convention for un-mapped Hebrew codepoints, confirmed by one such "code" spanning 48 unrelated pages), 4 were catalog cover-page/contact-footer text fragments (`SPOT2026`, `SALE2025`, `IL08` ×2), and 11 were genuine products already covered by verified records under their correct SKU but extracted a second time under the wrong token (e.g. `MITO373`/`NEW26` on page 27/30 duplicate already-verified toilets `8840`/`890700`; `RAIN150`/`RAIN226` duplicate the already-verified RAIN faucet family). Removed all 35 as resolved noise/duplicates.
+- Of the true unknowns, visually verified 3 as genuine, previously-uncaptured products against their source pages and promoted them to `bathroom-verified-products.json`: **KD2** shower enclosure (nickel and black-hardware finishes, SEBACH Shower Enclosures 2025 pages 36–37) and **MUST02** (Rocco by SEBACH wood shelf with integrated basin, faucet and towel holder, SPOT July 2026 page 44). Cropped and verified their product photos, added proper records with correct provenance, and corrected the manifest's counts accordingly (verified: 369 → 372; candidates: 442 → 404; verified customer-facing: 1002 → 1005). One remaining ambiguous candidate pair (`N6`, `N67`, partial page overlap with existing GOLAN/LH records) was left in the candidates file pending a dedicated visual pass rather than guessed at.
+- Caught and fixed a mistake in the cleanup script itself: a bare-code removal for the now-promoted `KD2` incorrectly matched an unrelated, still-pending `KD2` candidate under the blocked `IL-MITRANI-SHOWERS-2024` catalog (coincidentally the same code, different product, different catalog). Caught immediately by re-checking for cross-catalog code collisions before finishing, recovered the record from git history, and restored it unchanged.
+- Verified via headless browser: `bathroom-catalog.html`'s product count is exactly 372, both new KD2 cards render, MUST02's card renders correctly including its embedded-quote product name (exercising the HTML-escaping fix from 1.1.4), zero script errors.
+
 ## [1.1.7] - 2026-09-20
 
 ### Added

@@ -37,13 +37,13 @@
       "path": "data/bathroom-verified-products.json",
       "scope": "Verified Israeli bathroom suppliers",
       "supplier_groups": ["SEBACH supplier group", "Mitrani supplier group", "SEBACH and Mitrani supplier group"],
-      "record_count": 369,
+      "record_count": 372,
       "publication_rule": "Every record must preserve a source catalogue/page reference and a verified supplier display image."
     },
     {
       "path": "data/bathroom-product-candidates.json",
       "scope": "Unpublished source-text candidates from new bathroom catalogues",
-      "record_count": 442,
+      "record_count": 404,
       "publication_rule": "Not customer-facing until visually verified against source page and image."
     },
     {
@@ -62,10 +62,10 @@
     }
   ],
   "aggregate_counts": {
-    "catalog_inventory_records": 1453,
-    "verified_customer_facing_records_with_direct_display_asset": 1002,
+    "catalog_inventory_records": 1418,
+    "verified_customer_facing_records_with_direct_display_asset": 1005,
     "source_page_catalog_records": 9,
-    "unpublished_review_candidates": 442,
+    "unpublished_review_candidates": 404,
     "collection_level_placeholder_records": 0,
     "total_supplier_catalog_sources": 43
   },
