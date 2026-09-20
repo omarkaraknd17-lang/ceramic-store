@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.1] - 2026-09-19
+
+### Added
+
+- Separated the 17 Chao Xian Shi (超现石) 2023 "old products" SKUs that previously shared one multi-product row-crop image into individually-cropped display images, detected programmatically from the row's whitespace gaps and verified. This was the last remaining item on the extraction backlog from the start of this session.
+
 ## [1.0.0] - 2026-09-19
 
 ### Added

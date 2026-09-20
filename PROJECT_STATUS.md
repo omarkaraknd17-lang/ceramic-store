@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`1.0.0` (all five pending Allye catalogs now fully SKU-extracted — Polished, Rustic/Milano, standalone Milano, Wall, Floor — 228 new records with real images; all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed; site prepared for free hosting)
+`1.0.1` (all originally-pending extraction items now complete: five Allye catalogs, 13 placeholder tile catalogs, K8FJ names, TAU promo, and the Chao Xian Shi shared-crop separation; site prepared for free hosting)
 
 ## Completed
 
@@ -145,11 +145,11 @@
 - Allye Wall Tiles catalog fully extracted (85 SKUs: 13 main pattern series + 72 decor accent tiles)
 - Allye Floor Tiles catalog fully extracted (98 SKUs: HD Inkjet Polished Glazed Tile + HD Inkjet Rustic Tile); its last 3 pages duplicated the already-extracted Polished Porcelain Tile catalog and were correctly skipped
 - All five Allye catalogs pending at the start of this session are now fully SKU-extracted with real verified images
+- The 17 Chao Xian Shi (超现石) 2023 "old products" SKUs that shared one multi-product row-crop image now have individually-cropped display images
 
 ## In Progress
 - Verify price, sale unit and availability for every product before storefront publication
 - Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets — blocked: the source PDF and the previously-extracted 769-image manifest for these are not present anywhere in this environment; needs the user to re-supply them
-- Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset
 
 ## Next Steps
 

@@ -218,7 +218,7 @@
     "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Porcelain slab, 600x1200mm",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": null
+    "notes": "All 21 SKUs now have individually-cropped display images; the 17 that previously shared one multi-product row crop have been separated into individual crops using the source page swatch-row layout."
   },
   {
     "catalog_id": "CN-UNKNOWN-HOBART",
