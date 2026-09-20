@@ -22,9 +22,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YLB389E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W2YLB395E",
@@ -49,9 +50,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YLB395E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W2YLB396E",
@@ -76,9 +78,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YLB396E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W2YYB409E",
@@ -103,9 +106,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YYB409E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W2YYB411E",
@@ -130,9 +134,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YYB411E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W2YLB403E",
@@ -157,9 +162,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W2YLB403E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YLB435G090E",
@@ -184,9 +190,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YLB435G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YLB440G090E",
@@ -211,9 +218,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YLB440G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YLB439G090E",
@@ -238,9 +246,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YLB439G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YLB441G090E",
@@ -265,9 +274,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YLB441G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YYB460G090E",
@@ -292,9 +302,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YYB460G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:T9YYB444G090E",
@@ -319,9 +330,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/T9YYB444G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB595E",
@@ -346,9 +358,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB595E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB594E",
@@ -373,9 +386,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB594E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB598E",
@@ -400,9 +414,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB598E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB608E",
@@ -427,9 +442,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB608E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB606E",
@@ -454,9 +470,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB606E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB610E",
@@ -481,9 +498,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB610E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YNB671E",
@@ -508,9 +526,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YNB671E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB618E",
@@ -535,9 +554,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB618E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YNB677E",
@@ -562,9 +582,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YNB677E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YAB663E",
@@ -589,9 +610,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YAB663E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB596E",
@@ -616,9 +638,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB596E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB597E",
@@ -643,9 +666,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB597E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB601E",
@@ -670,9 +694,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB601E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB593E",
@@ -697,9 +722,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB593E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB604E",
@@ -724,9 +750,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB604E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB612E",
@@ -751,9 +778,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB612E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB613E",
@@ -778,9 +806,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB613E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:Y8YLB639E",
@@ -805,9 +834,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/Y8YLB639E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YLB493E",
@@ -832,9 +862,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YLB493E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YLB487E",
@@ -859,9 +890,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YLB487E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YLB497E",
@@ -886,9 +918,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YLB497E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YRB519E",
@@ -913,9 +946,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YRB519E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YLB635E",
@@ -940,9 +974,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YLB635E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YRB530E",
@@ -967,9 +1002,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YRB530E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YYB508E",
@@ -994,9 +1030,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YYB508E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YRB531E",
@@ -1021,9 +1058,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YRB531E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YYB517E",
@@ -1048,9 +1086,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YYB517E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YYB502E",
@@ -1075,9 +1114,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YYB502E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YYB501E",
@@ -1102,9 +1142,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YYB501E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W1YYB514E",
@@ -1129,9 +1170,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W1YYB514E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YLB548G090E",
@@ -1156,9 +1198,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YLB548G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YLB547G090E",
@@ -1183,9 +1226,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YLB547G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YLB633G090E",
@@ -1210,9 +1254,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YLB633G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YYA582G090E",
@@ -1237,9 +1282,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YYA582G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YYA581G090E",
@@ -1264,9 +1310,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YYA581G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YYB558G090E",
@@ -1291,9 +1338,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YYB558G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YYB559G090E",
@@ -1318,9 +1366,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YYB559G090E.jpg"
   },
   {
     "id": "CN-EAGLE-SINTERED-2026:W7YYB565G090E",
@@ -1345,9 +1394,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": null
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/sintered-stone/W7YYB565G090E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:L9GFP71E",
@@ -1372,9 +1422,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/L9GFP71E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:L9GFP72E",
@@ -1399,9 +1450,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/L9GFP72E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:L9GFP73E",
@@ -1426,9 +1478,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/L9GFP73E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB105E",
@@ -1453,9 +1506,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB105E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB106E",
@@ -1480,9 +1534,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB106E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB107E",
@@ -1507,9 +1562,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB107E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB108E",
@@ -1534,9 +1590,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB108E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB109E",
@@ -1561,9 +1618,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB109E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB110E",
@@ -1588,9 +1646,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB110E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB111E",
@@ -1615,9 +1674,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB111E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W2YLB125E",
@@ -1642,9 +1702,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W2YLB125E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB91E",
@@ -1669,9 +1730,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB91E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB92E",
@@ -1696,9 +1758,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB92E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB93E",
@@ -1723,9 +1786,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB93E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB95E",
@@ -1750,9 +1814,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB95E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB96E",
@@ -1777,9 +1842,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB96E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB97E",
@@ -1804,9 +1870,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB97E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB98E",
@@ -1831,9 +1898,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB98E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB100E",
@@ -1858,9 +1926,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB100E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB101E",
@@ -1885,9 +1954,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB101E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB102E",
@@ -1912,9 +1982,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB102E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB103E",
@@ -1939,9 +2010,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB103E.jpg"
   },
   {
     "id": "CN-EAGLE-WHALE-MAX-2024:W1YLB126E",
@@ -1966,9 +2038,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Four to six patterns stated by source."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Four to six patterns stated by source. Individually cropped and visually verified from its source catalog page, matched by printed code.",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/whale-max/W1YLB126E.jpg"
   },
   {
     "id": "CN-EAGLE-FOREST-SONG:Y1FMM100E",
@@ -1993,9 +2066,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Six faces; mould body; digital wood-grain micro-carving."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Six faces; mould body; digital wood-grain micro-carving. Individually cropped and visually verified from the source catalog page (5 SKUs on one page, unambiguously matched by printed code and Chinese product name).",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/forest-song/Y1FMM100E.jpg"
   },
   {
     "id": "CN-EAGLE-FOREST-SONG:Y1FMM101E",
@@ -2020,9 +2094,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Six faces; mould body; digital wood-grain micro-carving."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Six faces; mould body; digital wood-grain micro-carving. Individually cropped and visually verified from the source catalog page (5 SKUs on one page, unambiguously matched by printed code and Chinese product name).",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/forest-song/Y1FMM101E.jpg"
   },
   {
     "id": "CN-EAGLE-FOREST-SONG:Y1FMM105E",
@@ -2047,9 +2122,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Six faces; mould body; digital wood-grain micro-carving."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Six faces; mould body; digital wood-grain micro-carving. Individually cropped and visually verified from the source catalog page (5 SKUs on one page, unambiguously matched by printed code and Chinese product name).",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/forest-song/Y1FMM105E.jpg"
   },
   {
     "id": "CN-EAGLE-FOREST-SONG:Y1FMM106E",
@@ -2074,9 +2150,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Six faces; mould body; digital wood-grain micro-carving."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Six faces; mould body; digital wood-grain micro-carving. Individually cropped and visually verified from the source catalog page (5 SKUs on one page, unambiguously matched by printed code and Chinese product name).",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/forest-song/Y1FMM106E.jpg"
   },
   {
     "id": "CN-EAGLE-FOREST-SONG:Y1FMM107E",
@@ -2101,9 +2178,10 @@
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_page_only",
-    "data_confidence": "extracted_from_pdf_text",
-    "notes": "Six faces; mould body; digital wood-grain micro-carving."
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "Six faces; mould body; digital wood-grain micro-carving. Individually cropped and visually verified from the source catalog page (5 SKUs on one page, unambiguously matched by printed code and Chinese product name).",
+    "display_image": "public/bathroom-product-assets/eagle-tiles/forest-song/Y1FMM107E.jpg"
   },
   {
     "id": "CN-EAGLE-STAR-MARKS:Y1FF07YE",

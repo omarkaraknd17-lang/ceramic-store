@@ -7,7 +7,7 @@
     "original_filename": "20260710112728_s.pdf",
     "page_count": 21,
     "source_sha256": "f79f9a285d21a22918152d97cabd5f153f40fc5b42ccba70a0f554d6b9710854",
-    "ingestion_status": "text_extracted",
+    "ingestion_status": "product_records_extracted_2026-09-20",
     "catalog_category": "Sintered stone slabs",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Product-display derivatives must retain this catalog_id in their metadata."
@@ -33,7 +33,7 @@
     "original_filename": "20240717155400_s.pdf",
     "page_count": 72,
     "source_sha256": "ed457b401b9fdbc95ac45cd00c1a78d6a7a513117d160fdecb92b0674f80e122",
-    "ingestion_status": "text_extracted",
+    "ingestion_status": "product_records_extracted_2026-09-20",
     "catalog_category": "Sintered stone / large-format porcelain",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Product-display derivatives must retain this catalog_id in their metadata."
@@ -111,7 +111,7 @@
     "original_filename": "20251124160131_s.pdf",
     "page_count": 36,
     "source_sha256": "39a2ac633bbd90fe6d79bd92d842f95d5e746ae96eefba9019ae532b7619b607",
-    "ingestion_status": "text_extracted",
+    "ingestion_status": "product_records_extracted_2026-09-20",
     "catalog_category": "Wood-look porcelain tiles",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Product-display derivatives must retain this catalog_id in their metadata."

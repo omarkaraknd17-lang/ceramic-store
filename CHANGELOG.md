@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.7] - 2026-09-20
+
+### Added
+
+- Discovered and closed a real gap the earlier "extraction complete" status missed: 4 Eagle Ceramics catalogs (Sintered Stone, Whale MAX Series 2024, Forest Song Series, Star Marks Stone — 87 records total) were still marked `text_extracted` in `source-catalogs.json`, meaning their SKU codes, sizes and design names had been read from the PDF text layer but never individually image-verified, so they were showing on the storefront with no real photo (the `source_page_only` records excluded in 1.1.6). Checked whether their source PDFs are actually still present in this environment (by SHA-256, not just filename) rather than assuming the whole group was blocked like the unrelated SEBACH/Mitrani gap: 3 of the 4 matched exactly (Sintered Stone, Whale MAX, Forest Song — 78 records); only Star Marks' PDF is genuinely absent and stays correctly blocked (9 records).
+- Individually cropped, visually verified and wired up all 78 recoverable records against their source catalog pages (9 pages across the 3 PDFs), matching each crop to its printed SKU code and Chinese product name rather than trusting extraction-order — reused and extended this session's "ETERNAL CHOICE" template + whitespace-gap-detection technique for multi-row, multi-panel grid layouts, with a manual/visual pass per page since the automated column splitter was unreliable on the multi-panel (3-6-pattern) swatches and on very pale/white swatches that blend into the page background. Upgraded all 78 from `source_page_only` (no image) to `source_embedded_image_verified`, updated their `source-catalogs.json` ingestion status to `product_records_extracted_2026-09-20`, and corrected `master-catalog-manifest.json`'s aggregate counts accordingly (verified customer-facing: 924 → 1002; source-page-only: 87 → 9). Verified via headless browser: live catalog product count increased from 555 to the correct 633, all spot-checked images load, zero script errors.
+
+### Fixed
+
+- Normalized a genuine `supplier_group` capitalization inconsistency found during the audit: "Sebach supplier group" / "Sebach and Mitrani supplier group" (381 records) used a different capitalization than "SEBACH supplier group" / "SEBACH and Mitrani supplier group" (284 records) for the exact same two suppliers — confirmed against the `brand` field, which consistently uses "SEBACH" (all-caps) across all 902 SEBACH-related records with zero exceptions. Normalized every record to the "SEBACH" casing and updated the manifest's `supplier_groups` list to drop the now-eliminated duplicate. Not yet used by any frontend filter, so this was a silent data-quality fix, not a live bug — but exactly the kind of thing that would have broken a future supplier filter or report.
+
 ## [1.1.6] - 2026-09-20
 
 ### Fixed
