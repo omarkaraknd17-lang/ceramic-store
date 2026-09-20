@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`1.1.2` (full catalog data-integrity audit: removed 15 genuine duplicate SPOT catalog records left by an earlier extraction pass; fixed an inconsistent sizes_mm data format that broke the storefront's size filter dropdown; found and extracted a Polisa catalog that had no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
+`1.1.3` (audit continued: found and fixed 3 orphaned image assets, upgrading 3 ECOEAGLE Wallboard records from a shared image to individual crops in the process; zero orphaned assets remain; removed 15 genuine duplicate SPOT catalog records; fixed an inconsistent sizes_mm data format; found and extracted a Polisa catalog with no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
 
 ## Completed
 

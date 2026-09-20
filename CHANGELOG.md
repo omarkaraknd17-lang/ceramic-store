@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.3] - 2026-09-20
+
+### Fixed
+
+- Continued the catalog audit: checked every image asset under `public/bathroom-product-assets/` against every dataset for orphaned files (present on disk, referenced by nothing). Found 3: a stale pre-split copy of the Chao Xian Shi shared row-crop (superseded by last session's individual crops), and two ECOEAGLE Wallboard Fabric Series files. One of the two wallboard files turned out to already contain 3 clearly individually-labeled swatches (G8PP01L, G8PP02L, G8DE06L) that 3 separate records had all been pointing at as one shared image; cropped each out individually and re-linked the records, upgrading them from the shared-image tier to fully individual verified crops. Removed the resulting 3 orphaned files. Zero orphaned image assets remain.
+- Verified no other dataset has bathroom-product-candidates.json-style "expected overlap" being mistaken for a bug: 187 candidates share a code with an already-verified record, which is by design (the candidates file is an unpublished superset, not rendered anywhere on the site).
+
 ## [1.1.2] - 2026-09-20
 
 ### Fixed

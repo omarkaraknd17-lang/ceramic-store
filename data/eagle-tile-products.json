@@ -3659,13 +3659,13 @@
       "page": 18,
       "kind": "catalog_page"
     },
-    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-series-a.jpg",
+    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-G8PP01L.jpg",
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "Available size/code variants: G8PP01L 600x2800mm; C8PP01L 158x2800mm; C3PP01L 158x3000mm."
+    "notes": "Available size/code variants: G8PP01L 600x2800mm; C8PP01L 158x2800mm; C3PP01L 158x3000mm. Individually cropped from the shared Fabric Series source page."
   },
   {
     "id": "CN-ECOEAGLE-WALLBOARD:G8PP02L",
@@ -3687,13 +3687,13 @@
       "page": 18,
       "kind": "catalog_page"
     },
-    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-series-a.jpg",
+    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-G8PP02L.jpg",
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "Available size/code variants: G8PP02L 600x2800mm; C8PP02L 158x2800mm; C3PP02L 158x3000mm."
+    "notes": "Available size/code variants: G8PP02L 600x2800mm; C8PP02L 158x2800mm; C3PP02L 158x3000mm. Individually cropped from the shared Fabric Series source page."
   },
   {
     "id": "CN-ECOEAGLE-WALLBOARD:G8DE06L",
@@ -3715,13 +3715,13 @@
       "page": 18,
       "kind": "catalog_page"
     },
-    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-series-a.jpg",
+    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-fabric-G8DE06L.jpg",
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "Available size/code variants: G8DE06L 600x2800mm; C8DE06L 158x2800mm; C3DE06L 158x3000mm."
+    "notes": "Available size/code variants: G8DE06L 600x2800mm; C8DE06L 158x2800mm; C3DE06L 158x3000mm. Individually cropped from the shared Fabric Series source page."
   },
   {
     "id": "CN-ECOEAGLE-WALLBOARD:G8PPF10L",
