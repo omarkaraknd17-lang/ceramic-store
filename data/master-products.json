@@ -9776,5 +9776,1803 @@
     "display_asset_status": "source_embedded_image_verified_shared_row_crop",
     "data_confidence": "visually_verified_high_resolution_source_page",
     "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-17NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-17NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white Calacatta marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-18MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-18MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white subtle-texture marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-19MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-19MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white fine-line texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-20NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-20NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white/gray bold-vein Calacatta marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-21NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-21NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white Calacatta marble-look with ink-painting bamboo/bird decor motif (printed twice in source with two different decor motifs under the same code)",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-22MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-22MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white relief wave texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p4.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-23NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-23NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "light gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-24PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-24PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "gray marble-look with tree-branch decor motif",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-25NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-25NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "dark gray marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-26MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-26MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "gray linear texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-27NMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-27NMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "light gray fine texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-28MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-28MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte/glossy mixed, marble-look",
+    "color_design": "gray geometric triangle relief",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p5.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-33NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-33NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white/gray diagonal-vein marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p6.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-34NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-34NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white/gray diagonal-vein marble-look, lighter",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p6.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-35NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-35NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "white/gray horizontal-vein marble-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p6.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-36PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Calacatta (卡拉卡塔)",
+    "sku_model_code": "G2C-36PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "glossy, marble-look",
+    "color_design": "gray geometric faceted decor motif",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p6.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-01NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-01NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "light gray cement/terrazzo-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-02NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-02NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "light gray cement-look, smooth",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-03MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-03MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "light gray 3D relief cube pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-04PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-04PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "light gray linear ribbed texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-05MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-05MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "light gray textured cement-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-06MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-06MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "gray linear ribbed texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-47MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Old Time (旧石光)",
+    "sku_model_code": "G2C-47MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, cement/terrazzo-look",
+    "color_design": "gray geometric triangle relief pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p7.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-06APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-06APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "white woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p8.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-06BPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-06BPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "white with blue floral lace border decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p8.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-06CPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-06CPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray geometric diamond lattice pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p8.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-07APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-07APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p9.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-07BPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-07BPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray with cream floral lace border decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p9.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-08APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-08APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "cream woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p9.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-09APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-09APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "tan/cream woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p10.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-09BPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-09BPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "tan chevron/arrow border decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p10.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-10APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G1C-10APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gold/tan woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p10.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-07PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-07PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "light gray woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p11.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-08PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-08PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p11.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-09PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-09PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "tan woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p11.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-10PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-10PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray/tan geometric triangle mosaic decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p11.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-11MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-11MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "gray/tan/white square mosaic decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p11.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-37PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-37PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "white/cream woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p13.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-38PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-38PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "cream with circular medallion decor motif",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p13.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-39PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Silk Carpet (丝毯)",
+    "sku_model_code": "G2C-39PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, woven textile-look",
+    "color_design": "tan woven textile texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p13.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-05APEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G1C-05APEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "light beige wood-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p14.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-05BMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G1C-05BMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "beige basketweave/wood mosaic pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p14.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-05CPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G1C-05CPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "beige geometric chevron wood decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p14.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-12NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G2C-12NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "light beige wood-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p15.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-13NPEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G2C-13NPEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "tan wood-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p15.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-14MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G2C-14MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "beige/tan basketweave wood mosaic pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p15.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-15MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Wood Life (生命树)",
+    "sku_model_code": "G2C-15MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, wood-look with 3D texture",
+    "color_design": "beige geometric triangle wood decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p15.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-29PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Vein (络印)",
+    "sku_model_code": "G2C-29PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, leather-look 3D relief",
+    "color_design": "white leather-texture relief",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p16.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-30PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Vein (络印)",
+    "sku_model_code": "G2C-30PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, leather-look 3D relief",
+    "color_design": "gray/tan geometric marble-inlay decor motif",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p16.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-31MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Vein (络印)",
+    "sku_model_code": "G2C-31MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, leather-look 3D relief",
+    "color_design": "white triangle relief pattern",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p16.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-32PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Vein (络印)",
+    "sku_model_code": "G2C-32PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, leather-look 3D relief",
+    "color_design": "gray leather-texture relief",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p16.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-03AMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G1C-03AMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "tan sandstone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 17,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p17.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-04AMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G1C-04AMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "tan sandstone-look, linear wave grain",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 17,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p17.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-03CMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G1C-03CMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "tan ribbed linear texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 17,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p17.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G1C-03BMEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G1C-03BMEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      600,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "tan square mosaic decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 17,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p17.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-40PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-40PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "gray sandstone-look",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-41PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-41PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "light gray sandstone-look, smooth",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-42PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-42PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "light gray with floral relief decor motif",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-43PEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-43PEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "gray geometric striped/triangle decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-44MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-44MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "white geometric triangle relief",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-45MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-45MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "gray square mosaic decor",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-EAGLE-CATALOG-2024-01-03-A:G2C-46MEA",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Polisa",
+    "source_catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+    "source_catalog": "Unidentified Eagle catalog (2024-01-03)",
+    "collection_series": "Gobi Sandstone (戈壁砂)",
+    "sku_model_code": "G2C-46MEA",
+    "product_name": null,
+    "product_type_category": "Ceramic wall tile",
+    "sizes_mm": [
+      900,
+      300
+    ],
+    "finish": "matte, sandstone-look",
+    "color_design": "gray ribbed linear texture",
+    "image_page_reference": {
+      "catalog_id": "CN-EAGLE-CATALOG-2024-01-03-A",
+      "page": 18,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/polisa/p18.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, collection, size and finish verified by high-resolution visual review; shares its source page's swatch-column image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
   }
 ]

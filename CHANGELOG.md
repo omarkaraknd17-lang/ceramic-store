@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.0] - 2026-09-20
+
+### Added
+
+- Found and fully extracted a genuinely un-flagged catalog that had been sitting at "visually reviewed, pending SKU extraction" since before this session with no entry on any pending-work list: a Polisa-brand tile catalog (18 pages, source file `20240103164142_s.pdf`). Extracted all 6 collections — Calacatta, Old Time, Silk Carpet, Wood Life, Vein, Gobi Sandstone — 62 SKUs total, each with a real verified shared-page swatch-column image.
+- Corrected `data/master-catalog-manifest.json`, which had been left stale at its original values (`record_count: 104` for `master-products.json`) through several sessions' worth of additions; aggregate counts now recomputed and verified programmatically against the actual dataset files (1468 total catalog records, 1026 verified customer-facing).
+
 ## [1.0.1] - 2026-09-19
 
 ### Added

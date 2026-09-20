@@ -85,10 +85,10 @@
     "original_filename": "20240103164142_s.pdf",
     "page_count": 18,
     "source_sha256": "c9627a023f2ebbe3742a3214602103326be20b094da403f6f3d435abae9dcc4e",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-20",
     "catalog_category": "Tile catalog",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: 6 collections (Calacatta, Old Time, Silk Carpet, Wood Life, Vein, Gobi Sandstone), 62 SKUs total, each with a real verified shared-page swatch-column image. Brand Polisa logo appears throughout and is shown in display images since it is this catalog's already-confirmed brand."
   },
   {
     "catalog_id": "CN-UNBRANDED-FLOOR",

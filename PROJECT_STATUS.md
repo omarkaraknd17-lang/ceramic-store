@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`1.0.1` (all originally-pending extraction items now complete: five Allye catalogs, 13 placeholder tile catalogs, K8FJ names, TAU promo, and the Chao Xian Shi shared-crop separation; site prepared for free hosting)
+`1.1.0` (found and extracted a Polisa catalog that had no entry on any pending list, 62 SKUs; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
 
 ## Completed
 
@@ -146,6 +146,8 @@
 - Allye Floor Tiles catalog fully extracted (98 SKUs: HD Inkjet Polished Glazed Tile + HD Inkjet Rustic Tile); its last 3 pages duplicated the already-extracted Polished Porcelain Tile catalog and were correctly skipped
 - All five Allye catalogs pending at the start of this session are now fully SKU-extracted with real verified images
 - The 17 Chao Xian Shi (超现石) 2023 "old products" SKUs that shared one multi-product row-crop image now have individually-cropped display images
+- Found and fully extracted a Polisa-brand tile catalog (6 collections, 62 SKUs) that had been sitting unflagged since before this session
+- Corrected `data/master-catalog-manifest.json`, which had drifted out of sync with the actual dataset files across several sessions; all aggregate counts are now recomputed and verified
 
 ## In Progress
 - Verify price, sale unit and availability for every product before storefront publication

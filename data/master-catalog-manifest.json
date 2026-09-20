@@ -28,9 +28,9 @@
   "datasets": [
     {
       "path": "data/master-products.json",
-      "scope": "Chinese supplier group only",
+      "scope": "Chinese supplier group only (Eagle Ceramics scan-only records, Allye Polished/Rustic/Milano/Wall/Floor tile catalogs, and one Polisa tile catalog)",
       "supplier_groups": ["Chinese supplier group"],
-      "record_count": 104,
+      "record_count": 394,
       "publication_rule": "Only records with individual verified display assets are customer-facing."
     },
     {
@@ -62,9 +62,9 @@
     }
   ],
   "aggregate_counts": {
-    "catalog_inventory_records": 1178,
-    "verified_customer_facing_records_with_direct_display_asset": 736,
-    "source_page_catalog_records": 104,
+    "catalog_inventory_records": 1468,
+    "verified_customer_facing_records_with_direct_display_asset": 1026,
+    "source_page_catalog_records": 87,
     "unpublished_review_candidates": 442,
     "collection_level_placeholder_records": 0,
     "total_supplier_catalog_sources": 43
