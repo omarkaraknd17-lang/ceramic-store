@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.1] - 2026-09-20
+
+### Fixed
+
+- Standardized `sizes_mm` to a consistent array-of-size-strings format (e.g. `["600 x 1200"]`) across `data/master-products.json`, `data/eagle-tile-products.json` and `data/tau-products.json`. 310 records (all of `eagle-tile-products.json`, all of `tau-products.json`, and the 62 newly-added Polisa records) had instead stored a single size as a raw `[width, height]` number pair, which the storefront's size filter flattened together with the correct string format from other records — producing a size dropdown that mixed whole sizes ("600 x 1200") with bare, meaningless individual numbers ("600", "1200") from the same list. Verified via a headless-browser check that the size filter now shows only clean, consistent size strings. `data/bathroom-verified-products.json` was intentionally left as raw numbers, since its own page uses them numerically (min/max width) rather than in a size filter.
+
 ## [1.1.0] - 2026-09-20
 
 ### Added
