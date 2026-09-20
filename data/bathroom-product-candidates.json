@@ -5447,21 +5447,7 @@
       49,
       51
     ],
-    "source_text_context": "Ŕĕēđ GOLAN\u0003±£¬¾¯ ±¬ 2 íáäØÚáŉáĪáŉ6 ġíÜÞØÞÙ \u0003 \u0011LQGG\u0003\u0003\u0003\u0016 \u0013\u0015\u0012\u0013\u0017\u0012\u0015\u0013\u0015\u0018\u0003\u0003\u0003\u0014\u0015 \u0014\u001b \u0015\u001b",
-    "verification_status": "candidate_from_pdf_text_requires_visual_product_review",
-    "publishable": false
-  },
-  {
-    "candidate_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:N67",
-    "supplier_group": "SEBACH supplier group",
-    "brand": "SEBACH",
-    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
-    "candidate_model_code": "N67",
-    "source_pages": [
-      18,
-      19
-    ],
-    "source_text_context": "ŔĎĢČĔđ LH\u0003±£¬¾¯ 17 áĪäŉ67ŉ×êÜãØáë×ŉíÖÜáŉàØáÜãÜáĝ 35-99 \u0003 \u0011LQGG\u0003\u0003\u0003\u0014\u001b \u0013\u0015\u0012\u0013\u0017\u0012\u0015\u0013\u0015\u0018\u0003\u0003\u0003\u0014\u0015 \u0014\u001b \u0016\u0017",
+    "source_text_context": "Ŕĕēđ GOLAN\u0003±£¬¾¯ ±¬ 2 íáäØÚáŉáĪáŉ6 ġíÜÞØÞÙ \u0003 \u0011LQGG\u0003\u0003\u0003\u0016 \u0013\u0015\u0012\u0013\u0017\u0012\u0015\u0013\u0015\u0018\u0003\u0003\u0003\u0014\u0015 \u0014\u001b \u0015\u001b [NOTE 2026-09-20: investigated — this fragment is spec-table noise (\"6mm tempered\") repeating across all GOLAN variant pages; ONE genuinely distinct GOLAN finish variant (frosted-middle glass) was found this pass and promoted separately as GOLAN-FROSTED-MIDDLE. The remaining GOLAN pages in this candidate likely document further finish/hardware-color variants of the same collection not yet individually extracted.]",
     "verification_status": "candidate_from_pdf_text_requires_visual_product_review",
     "publishable": false
   },

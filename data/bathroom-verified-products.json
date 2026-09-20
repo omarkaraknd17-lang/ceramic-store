@@ -11020,5 +11020,36 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "Source-listed price 1,495 ILS, size 50/30cm, marked as a new size option. Was previously mis-extracted as a bogus font-artifact candidate (BY43); individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:GOLAN-FROSTED-MIDDLE",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "GOLAN",
+    "sku_model_code": "GOLAN-FROSTED-MIDDLE",
+    "product_name": "מקלחון גולן - זכוכית חלבית אמצע",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      760,
+      790,
+      860,
+      890
+    ],
+    "finish": "chrome hardware, 6mm tempered glass",
+    "color_design": "frosted-middle-band glass shower enclosure (clear top and bottom, frosted center band)",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 3,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/GOLAN-frosted-middle.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Distinct finish variant of the GOLAN collection (frosted-middle glass banding) not captured by the existing clear-glass GOLAN record; found via a stray text-extraction fragment (\"N6\") that turned out to reference a real, separate variant rather than noise. Source-listed price 975 ILS for the shown size range. Final configuration and commercial terms require store confirmation."
   }
 ]

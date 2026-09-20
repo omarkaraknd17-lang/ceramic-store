@@ -29,43 +29,53 @@
     {
       "path": "data/master-products.json",
       "scope": "Chinese supplier group only (Eagle Ceramics scan-only records, Allye Polished/Rustic/Milano/Wall/Floor tile catalogs, and one Polisa tile catalog)",
-      "supplier_groups": ["Chinese supplier group"],
+      "supplier_groups": [
+        "Chinese supplier group"
+      ],
       "record_count": 394,
       "publication_rule": "Only records with individual verified display assets are customer-facing."
     },
     {
       "path": "data/bathroom-verified-products.json",
       "scope": "Verified Israeli bathroom suppliers",
-      "supplier_groups": ["SEBACH supplier group", "Mitrani supplier group", "SEBACH and Mitrani supplier group"],
-      "record_count": 372,
+      "supplier_groups": [
+        "SEBACH supplier group",
+        "Mitrani supplier group",
+        "SEBACH and Mitrani supplier group"
+      ],
+      "record_count": 373,
       "publication_rule": "Every record must preserve a source catalogue/page reference and a verified supplier display image."
     },
     {
       "path": "data/bathroom-product-candidates.json",
       "scope": "Unpublished source-text candidates from new bathroom catalogues",
-      "record_count": 404,
+      "record_count": 403,
       "publication_rule": "Not customer-facing until visually verified against source page and image."
     },
     {
       "path": "data/eagle-tile-products.json",
       "scope": "Eagle Ceramics / ECOEAGLE (Guangdong Eagle Brand Group) porcelain tile, SPC flooring and wallboard collections, plus 13 unbranded-on-page single-collection tile sheets (brand not shown anywhere in their source pages, so left unconfirmed)",
-      "supplier_groups": ["Chinese supplier group"],
+      "supplier_groups": [
+        "Chinese supplier group"
+      ],
       "record_count": 182,
       "publication_rule": "Records with display_asset_status 'source_lifestyle_image_only' or data_confidence 'collection_identified_pending_individual_sku_extraction' are not customer-facing until individually SKU-verified."
     },
     {
       "path": "data/tau-products.json",
       "scope": "TAU Cerámica (Spain) porcelain tile and metal mosaic collections",
-      "supplier_groups": ["TAU Ceramica supplier group"],
+      "supplier_groups": [
+        "TAU Ceramica supplier group"
+      ],
       "record_count": 66,
       "publication_rule": "Every record must preserve a source catalogue/page reference and a verified supplier display image."
     }
   ],
   "aggregate_counts": {
     "catalog_inventory_records": 1418,
-    "verified_customer_facing_records_with_direct_display_asset": 1005,
+    "verified_customer_facing_records_with_direct_display_asset": 1006,
     "source_page_catalog_records": 9,
-    "unpublished_review_candidates": 404,
+    "unpublished_review_candidates": 403,
     "collection_level_placeholder_records": 0,
     "total_supplier_catalog_sources": 43
   },
