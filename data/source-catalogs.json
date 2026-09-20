@@ -98,10 +98,10 @@
     "original_filename": "floor-tiles.pdf",
     "page_count": 19,
     "source_sha256": "c5eda25493b2c01e9a1f7013b42735c2a3ffd1f532659f34488dbe40161838a3",
-    "ingestion_status": "visually_reviewed_pending_sku_extraction",
+    "ingestion_status": "product_records_extracted_2026-09-19",
     "catalog_category": "Floor tiles",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
-    "notes": "Brand verified by visual review. Product-page records are staged in visual-extraction-queue.json until SKU/size OCR is verified."
+    "notes": "Fully extracted: HD Inkjet Polished Glazed Tile (AYQS/AYQT/AYQC/AYQW/AYQR, 63 SKUs) and HD Inkjet Rustic Tile (AYRS/AYRT/AYRW/AYRM, 39 SKUs), 98 total, each with a real verified shared-page swatch-grid image. The catalogs last 3 pages (Soluble Salt / Micro Crystal / Pulati polished porcelain series) duplicate collections already fully extracted in CN-UNBRANDED-POLISHED and were correctly skipped, not re-added."
   },
   {
     "catalog_id": "CN-EAGLE-FOREST-SONG",

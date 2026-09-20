@@ -6836,5 +6836,2945 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_high_resolution_source_page",
     "notes": "SKU, size and pattern verified by high-resolution visual review. The source catalog prints this exact code on more than one page/colorway in this section; the id disambiguates internally but sku_model_code is kept exactly as printed. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQS67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQS67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble/travertine-look",
+    "color_design": "beige/cream marble-travertine tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 2,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQS.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQT61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQT61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, stone-look",
+    "color_design": "gray/brown mixed stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQT62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQT62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, stone-look",
+    "color_design": "gray/brown mixed stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQT63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQT63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, stone-look",
+    "color_design": "gray/brown mixed stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQT64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQT64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, stone-look",
+    "color_design": "gray/brown mixed stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQC68",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQC68",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, Carrara marble-look",
+    "color_design": "white/gray Carrara marble",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQC_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQW66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQW66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR68",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR68",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR69",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR69",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "gray/blue/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 7,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR610",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR610",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR611",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR611",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR612",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR612",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR613",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR613",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR614",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR614",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR615",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR615",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR616",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR616",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR617",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR617",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR618",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR618",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 8,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR619",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR619",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR620",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR620",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR621",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR621",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR622",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR622",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR623",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR623",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR624",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR624",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR625",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR625",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR626",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR626",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 9,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_c.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR629",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR629",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR630",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR630",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR631",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR631",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR632",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR632",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR633",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR633",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR634",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR634",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR635",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR635",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR636",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR636",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYQR637",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Polished Glazed Tile",
+    "sku_model_code": "AYQR637",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "polished glazed, marble-look",
+    "color_design": "beige/gray/brown marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYQR_d.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS68",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS68",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS69",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS69",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/cement-look",
+    "color_design": "beige/gray rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 11,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS610",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS610",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS611",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS611",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS612",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS612",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS613",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS613",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS614",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS614",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS615",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS615",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRS616",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRS616",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, cement-look",
+    "color_design": "gray cement/concrete tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 12,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRS_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRT68",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRT68",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, stone/travertine-look",
+    "color_design": "beige/tan rustic stone tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 13,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRT.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRW67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRW67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, wood-look",
+    "color_design": "wood-look, warm and gray tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 14,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRW.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM61",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM61",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM62",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM62",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM63",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM63",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM64",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM64",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM65",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM65",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/tan marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 15,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_a.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM66",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM66",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM67",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM67",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM68",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM68",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM69",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM69",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
+  },
+  {
+    "id": "CN-UNBRANDED-FLOOR:AYRM610",
+    "supplier_group": "Chinese supplier group",
+    "brand": "Allye",
+    "source_catalog_id": "CN-UNBRANDED-FLOOR",
+    "source_catalog": "Floor Tiles",
+    "collection_series": "HD Inkjet Rustic Tile",
+    "sku_model_code": "AYRM610",
+    "product_name": null,
+    "product_type_category": "Glazed porcelain floor tile",
+    "sizes_mm": [
+      "300 x 600",
+      "600 x 600",
+      "450 x 900"
+    ],
+    "finish": "matte rustic, marble-look",
+    "color_design": "beige/gray marble tones",
+    "image_page_reference": {
+      "catalog_id": "CN-UNBRANDED-FLOOR",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/allye/AYRM_b.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "data_confidence": "visually_verified_high_resolution_source_page",
+    "notes": "SKU, size and pattern verified by high-resolution visual review; shares its source page's swatch-grid image with the other SKU codes on that page. Confirm SKU-specific size and commercial terms before sale."
   }
 ]

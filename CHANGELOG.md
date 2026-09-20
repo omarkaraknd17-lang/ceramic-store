@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.0] - 2026-09-19
+
+### Added
+
+- Fully extracted the Allye Floor Tiles catalog (19 pages): 98 SKUs across HD Inkjet Polished Glazed Tile (AYQS/AYQT/AYQC/AYQW/AYQR, 63 SKUs) and HD Inkjet Rustic Tile (AYRS/AYRT/AYRW/AYRM, 39 SKUs), each with a real verified shared-page swatch-grid image.
+- Caught and correctly skipped a duplicate: this catalog's last 3 pages (Soluble Salt / Micro Crystal / Pulati polished porcelain series) are the exact same collections already fully extracted in the Polished Porcelain Tile catalog earlier this session — no records were re-added for them.
+- This completes SKU extraction for all five Allye catalogs that were pending at the start of this session (Polished, Rustic/Milano, standalone Milano, Wall, Floor). `data/master-products.json` grew from 104 to 332 records this session, all Allye brand, all with real verified images.
+
 ## [0.9.0] - 2026-09-19
 
 ### Added

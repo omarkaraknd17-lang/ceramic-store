@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`0.9.0` (Allye Wall Tiles catalog fully SKU-extracted, 85 new records; Allye Polished/Rustic/Milano catalogs fully SKU-extracted with real images; all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed; site prepared for free hosting)
+`1.0.0` (all five pending Allye catalogs now fully SKU-extracted — Polished, Rustic/Milano, standalone Milano, Wall, Floor — 228 new records with real images; all 13 previously placeholder-only tile catalogs individually SKU-extracted; K8FJ Micro Cement names resolved; TAU promo roundup reviewed; site prepared for free hosting)
 
 ## Completed
 
@@ -143,10 +143,10 @@
 - Reviewed the TAU "Promoción Novedades" roundup PDF; it contained 14 genuinely new SKUs (including an entirely new NOVASTONE WALL collection), now added with individual verified images
 - Allye Polished Porcelain Tile catalog fully extracted (32 SKUs, all with real images); Allye Rustic Tiles' Milano Series fully extracted (18 SKUs); the separate standalone Milano Series catalog fully extracted (12 SKUs)
 - Allye Wall Tiles catalog fully extracted (85 SKUs: 13 main pattern series + 72 decor accent tiles)
+- Allye Floor Tiles catalog fully extracted (98 SKUs: HD Inkjet Polished Glazed Tile + HD Inkjet Rustic Tile); its last 3 pages duplicated the already-extracted Polished Porcelain Tile catalog and were correctly skipped
+- All five Allye catalogs pending at the start of this session are now fully SKU-extracted with real verified images
 
 ## In Progress
-
-- Individual SKU extraction for the Allye Floor Tiles catalog (19 pages) — large, not yet started
 - Verify price, sale unit and availability for every product before storefront publication
 - Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets — blocked: the source PDF and the previously-extracted 769-image manifest for these are not present anywhere in this environment; needs the user to re-supply them
 - Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset
