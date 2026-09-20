@@ -622,7 +622,7 @@ class Component extends DCLogic {
       requestSample: ()=>{
         if(!m) return;
         const body=this.title(m)+' ('+m.collection+')\n'+t.specSku+' '+m.sku+(m.size!=='—'?' · '+m.size.replace(' ס״מ',''):'');
-        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.sampleWa+'\n\n'+body),'_blank');
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.sampleWa+'\n\n'+body),'_blank','noopener');
       },
 
       hasCollectionHead: !!headCol,
@@ -702,7 +702,7 @@ class Component extends DCLogic {
         if(!S.basket.length) return this.setState({drawerOpen:false});
         const body = S.basket.map((p,i)=>(i+1)+'. '+this.title(p)+' ('+p.collection+')\n'+t.specSku+' '+p.sku+(p.size!=='—'?' · '+p.size.replace(' ס״מ',''):'')+'\n'+t.qty+': '+(p.qty||'')).join('\n\n');
         const who = S.intent ? '\n\n'+t.intentTitle+' '+S.intent : '';
-        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.waLead+'\n\n'+body+who), '_blank');
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.waLead+'\n\n'+body+who), '_blank', 'noopener');
       }
     };
   }

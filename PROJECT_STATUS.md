@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`1.1.3` (audit continued: found and fixed 3 orphaned image assets, upgrading 3 ECOEAGLE Wallboard records from a shared image to individual crops in the process; zero orphaned assets remain; removed 15 genuine duplicate SPOT catalog records; fixed an inconsistent sizes_mm data format; found and extracted a Polisa catalog with no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
+`1.1.4` (full application-code audit of app.js, bathroom-catalog.js and millennium-design.html, separate from the earlier data audits: fixed a real broken-markup bug affecting 14 products whose names contain a literal quote character, added HTML-escaping everywhere innerHTML is built from data or user input, closed a reverse-tabnabbing gap on 2 WhatsApp links, and guarded an unhandled localStorage parse that could have silently broken the whole catalog page; verified all fixes with a headless-browser pass, zero script errors. Earlier: found and fixed 3 orphaned image assets, upgrading 3 ECOEAGLE Wallboard records from a shared image to individual crops in the process; zero orphaned assets remain; removed 15 genuine duplicate SPOT catalog records; fixed an inconsistent sizes_mm data format; found and extracted a Polisa catalog with no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
 
 ## Completed
 

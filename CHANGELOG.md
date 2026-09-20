@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.4] - 2026-09-20
+
+### Fixed
+
+- Full application-code audit of `public/app.js`, `public/bathroom-catalog.js` and `public/millennium-design.html` (distinct from the earlier data audits, which only checked the JSON datasets). Found and fixed 3 real, verified issues:
+  - **Broken markup on 14 real products**: 14 records in `bathroom-verified-products.json` have a literal `"` in `product_name` (the Hebrew גרשיים abbreviation, e.g. `ריבוע ניקוז מקסימל 10/10 ס"מ`). `bathroom-catalog.js` interpolated `product_name` straight into `aria-label`/`alt` HTML attributes, which broke the attribute at the embedded quote and corrupted the rendered card (confirmed via headless-browser inspection before/after). Added an `escapeHtml()` helper and applied it everywhere `bathroom-catalog.js` and `app.js` build HTML strings via `innerHTML`, including a self-inflicted-injection path in `app.js`'s quote-request drawer where a freely-typed quantity value was re-rendered unescaped from `localStorage` on every render.
+  - **Reverse-tabnabbing gap**: `millennium-design.html`'s two WhatsApp `window.open(...)` calls were missing the `noopener` flag that `app.js`'s equivalent call already had; added it.
+  - **Unguarded `localStorage` parse**: `app.js` parsed its saved quote-request list from `localStorage` at module top level with no try/catch — an invalid stored value would throw before any function in the file is defined, silently breaking the entire catalog page with no fallback message. Wrapped it the same way `millennium-design.html` already guards its own `localStorage` reads.
+  - Verified all three fixes with a headless-browser pass: `index.html`'s catalog (642 products) and product dialog, and `bathroom-catalog.html` (369 products) render with zero script errors, and the previously quote-breaking product now shows its full, correct `alt`/`aria-label` text.
+
 ## [1.1.3] - 2026-09-20
 
 ### Fixed

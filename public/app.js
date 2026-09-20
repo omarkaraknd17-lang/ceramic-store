@@ -1,10 +1,19 @@
-const state = { products: [], filtered: [], request: JSON.parse(localStorage.getItem("ceramic-request") || "[]") };
+function loadStoredRequest() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem("ceramic-request") || "[]");
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    return [];
+  }
+}
+const state = { products: [], filtered: [], request: loadStoredRequest() };
 const $ = (selector) => document.querySelector(selector);
 const grid = $("#productGrid");
 const template = $("#productTemplate");
 const dialog = $("#productDialog");
 const zoomDialog = $("#imageZoomDialog");
 const label = (value, fallback = "לא צוין") => value || fallback;
+const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[char]));
 const text = (product) => [product.sku_model_code, product.product_name, product.collection_series, product.brand, product.product_type_category, product.color_design, product.finish, ...(product.sizes_mm || [])].filter(Boolean).join(" ").toLowerCase();
 const assetSlug = (value) => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const productImage = (product) => {
@@ -68,7 +77,7 @@ function render() {
   $("#emptyState").hidden = state.filtered.length !== 0;
 }
 function openProduct(product) {
-  $("#dialogContent").innerHTML = `<div class="dialog-layout"><button class="dialog-tile image-zoom-button" type="button" aria-label="הגדלת תמונת המוצר"><img class="dialog-image" src="${productImage(product)}" alt="תמונת קטלוג של ${product.sku_model_code}" /><span>לחצו להגדלה</span></button><div class="dialog-info"><p class="eyebrow">${label(product.brand)}</p><h2>${label(product.product_name, product.collection_series)}</h2><dl><dt>קוד</dt><dd><code>${product.sku_model_code}</code></dd><dt>קטגוריה</dt><dd>${label(product.product_type_category)}</dd><dt>מידה</dt><dd>${(product.sizes_mm || []).join(", ") || "באימות"}</dd><dt>גימור</dt><dd>${label(product.finish)}</dd><dt>עיצוב / גוון</dt><dd>${label(product.color_design)}</dd></dl><button class="button button-primary add-dialog-product" type="button">הוספה לבקשת הצעת מחיר</button><p class="quote-note">התמונה היא חיתוך מהמוצר המקורי בקטלוג. המחיר והמלאי מאושרים לפני הזמנה.</p></div></div>`;
+  $("#dialogContent").innerHTML = `<div class="dialog-layout"><button class="dialog-tile image-zoom-button" type="button" aria-label="הגדלת תמונת המוצר"><img class="dialog-image" src="${productImage(product)}" alt="תמונת קטלוג של ${escapeHtml(product.sku_model_code)}" /><span>לחצו להגדלה</span></button><div class="dialog-info"><p class="eyebrow">${escapeHtml(label(product.brand))}</p><h2>${escapeHtml(label(product.product_name, product.collection_series))}</h2><dl><dt>קוד</dt><dd><code>${escapeHtml(product.sku_model_code)}</code></dd><dt>קטגוריה</dt><dd>${escapeHtml(label(product.product_type_category))}</dd><dt>מידה</dt><dd>${escapeHtml((product.sizes_mm || []).join(", ") || "באימות")}</dd><dt>גימור</dt><dd>${escapeHtml(label(product.finish))}</dd><dt>עיצוב / גוון</dt><dd>${escapeHtml(label(product.color_design))}</dd></dl><button class="button button-primary add-dialog-product" type="button">הוספה לבקשת הצעת מחיר</button><p class="quote-note">התמונה היא חיתוך מהמוצר המקורי בקטלוג. המחיר והמלאי מאושרים לפני הזמנה.</p></div></div>`;
   withImageFallback($(".dialog-image"));
   $(".image-zoom-button").addEventListener("click", () => openZoom(product));
   $(".add-dialog-product").addEventListener("click", () => { dialog.close(); addToRequest(product); });
@@ -86,7 +95,7 @@ function renderRequest() {
   $("#requestEmpty").hidden = state.request.length > 0; $("#requestForm").hidden = state.request.length === 0;
   state.request.forEach((item, index) => {
     const row = document.createElement("div"); row.className = "request-item";
-    row.innerHTML = `<div><strong>${label(item.product.product_name, item.product.collection_series)}</strong><small>${item.sku} · ${(item.product.sizes_mm || []).join(", ")}</small></div><input type="text" inputmode="decimal" aria-label="כמות עבור ${item.sku}" placeholder="כמות" value="${item.quantity}"><button class="remove-item" type="button">הסרה</button>`;
+    row.innerHTML = `<div><strong>${escapeHtml(label(item.product.product_name, item.product.collection_series))}</strong><small>${escapeHtml(item.sku)} · ${escapeHtml((item.product.sizes_mm || []).join(", "))}</small></div><input type="text" inputmode="decimal" aria-label="כמות עבור ${escapeHtml(item.sku)}" placeholder="כמות" value="${escapeHtml(item.quantity)}"><button class="remove-item" type="button">הסרה</button>`;
     row.querySelector("input").addEventListener("input", e => { item.quantity = e.target.value; saveRequest(); });
     row.querySelector("button").addEventListener("click", () => { state.request.splice(index, 1); saveRequest(); renderRequest(); }); box.append(row);
   });
