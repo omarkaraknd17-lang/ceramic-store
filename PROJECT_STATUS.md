@@ -4,7 +4,7 @@
 
 ## Current Version
 
-`1.1.1` (fixed an inconsistent sizes_mm data format that broke the storefront's size filter dropdown; found and extracted a Polisa catalog that had no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
+`1.1.2` (full catalog data-integrity audit: removed 15 genuine duplicate SPOT catalog records left by an earlier extraction pass; fixed an inconsistent sizes_mm data format that broke the storefront's size filter dropdown; found and extracted a Polisa catalog that had no entry on any pending list; corrected a stale master-catalog-manifest.json; all previously-pending extraction items complete; site prepared for free hosting)
 
 ## Completed
 
@@ -149,6 +149,7 @@
 - Found and fully extracted a Polisa-brand tile catalog (6 collections, 62 SKUs) that had been sitting unflagged since before this session
 - Corrected `data/master-catalog-manifest.json`, which had drifted out of sync with the actual dataset files across several sessions; all aggregate counts are now recomputed and verified
 - Fixed an inconsistent `sizes_mm` data format (310 records stored a raw `[width, height]` number pair instead of a size string) that was breaking the storefront's size filter dropdown by mixing whole-size strings with bare individual numbers
+- Full catalog data-integrity audit: found and removed 15 genuine duplicate SPOT July 2026 records (same source page and SKU code re-extracted under a different name in an earlier gap-reconciliation pass) from `data/bathroom-verified-products.json`; verified required-field coverage, image-path conventions and status vocabulary are clean across all datasets
 
 ## In Progress
 - Verify price, sale unit and availability for every product before storefront publication

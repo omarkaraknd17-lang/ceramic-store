@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.2] - 2026-09-20
+
+### Fixed
+
+- Audited the whole catalog for data-integrity issues (required-field coverage, exact-id collisions, same-catalog/same-page/same-code duplicates, image-path conventions, `availability` consistency, `display_asset_status` vocabulary). Found and removed 15 genuine duplicate records in `data/bathroom-verified-products.json`, all in the SPOT July 2026 catalog: an earlier gap-reconciliation pass had re-extracted 15 products (5 RAIN medium faucets, 6 STICK tall faucets, and the PALACE 8840 / MITO 373 / MERIDA / TORNADO toilets) that were already present from the original ingestion, each time under a different collection name, brand label and extraction method but identical source page and SKU code. Verified each pair by reading both full records side by side before removing the later duplicate. `bathroom-verified-products.json` goes from 384 to 369 records; `master-catalog-manifest.json` aggregate counts recomputed accordingly.
+- Confirmed the 5 remaining same-code-different-record cases (in `master-products.json`'s Allye Wall Tiles data, and 2 in the Israeli SPOT catalog with different pages) are not duplicates: the source catalog itself prints the same code on genuinely different products/colorways or pages, which was already documented in those records' notes at extraction time.
+
 ## [1.1.1] - 2026-09-20
 
 ### Fixed
