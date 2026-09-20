@@ -27,7 +27,7 @@ const productImage = (product) => {
 };
 const PLACEHOLDER_IMAGE = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Crect width='400' height='400' fill='%23eee'/%3E%3Ctext x='50%25' y='50%25' font-family='sans-serif' font-size='18' fill='%23999' text-anchor='middle' dominant-baseline='middle'%3E%D7%AA%D7%9E%D7%95%D7%A0%D7%94 %D7%91%D7%90%D7%99%D7%9E%D7%95%D7%AA%3C/text%3E%3C/svg%3E";
 const withImageFallback = (imgEl) => { imgEl.addEventListener("error", () => { imgEl.onerror = null; imgEl.src = PLACEHOLDER_IMAGE; }, { once: true }); };
-const CUSTOMER_FACING_STATUSES_TO_EXCLUDE = new Set(["source_lifestyle_image_only"]);
+const CUSTOMER_FACING_STATUSES_TO_EXCLUDE = new Set(["source_lifestyle_image_only", "source_page_only"]);
 const isCustomerFacing = (product) => !CUSTOMER_FACING_STATUSES_TO_EXCLUDE.has(product.display_asset_status);
 function saveRequest() { localStorage.setItem("ceramic-request", JSON.stringify(state.request)); $("#requestCount").textContent = state.request.length; }
 function addToRequest(product) {

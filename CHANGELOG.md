@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.6] - 2026-09-20
+
+### Fixed
+
+- Continued the catalog data audit: checked cross-file referential integrity (every `source_catalog_id` used in any product/candidate record is registered in `source-catalogs.json`, and every registered catalog is used by at least one record — clean), actual on-disk existence of every `display_image` path (341 missing, all confined to the already-known, already-documented SEBACH/Mitrani directories awaiting re-supplied source files — nothing from this session's own extractions is missing), `sizes_mm` format, `image_page_reference.page` sanity, `display_asset_status` vocabulary consistency, price/currency/availability fields (clean — no fabricated data anywhere), and a mojibake/encoding sweep (clean).
+- Found and fixed a real policy-violation bug this way: `app.js`'s `CUSTOMER_FACING_STATUSES_TO_EXCLUDE` only excluded `source_lifestyle_image_only`, but not `source_page_only` — the 87 `source_page_only` records in `master-products.json` have no `display_image` at all (by design, they're unconfirmed catalog-page references pending individual SKU extraction), yet were being shown to real customers on the live catalog with a generic placeholder image, contradicting the manifest's own stated publication rule ("Only records with individual verified display assets are customer-facing"). Added `source_page_only` to the exclusion set. Also corrected `master-catalog-manifest.json`'s `verified_customer_facing_records_with_direct_display_asset` aggregate count, which had baked in the same 87-record error (1011 → 924). Verified via headless browser: the live catalog's product count dropped from 642 to the correct 555, zero script errors.
+
 ## [1.1.5] - 2026-09-20
 
 ### Fixed

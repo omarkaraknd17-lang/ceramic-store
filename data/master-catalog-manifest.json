@@ -63,7 +63,7 @@
   ],
   "aggregate_counts": {
     "catalog_inventory_records": 1453,
-    "verified_customer_facing_records_with_direct_display_asset": 1011,
+    "verified_customer_facing_records_with_direct_display_asset": 924,
     "source_page_catalog_records": 87,
     "unpublished_review_candidates": 442,
     "collection_level_placeholder_records": 0,
