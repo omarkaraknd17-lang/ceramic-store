@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.11] - 2026-09-20
+
+### Fixed
+
+- Tested mobile viewport rendering (375px width) across all 6 static pages with a headless browser — zero horizontal overflow anywhere, including after the new bathroom filter buttons.
+- Found and fixed a real SEO/UX gap: `millennium-design.html` — the site's main catalog page — had **no `<title>` tag at all**, only set dynamically inside its React-dependent `<helmet>` block (which, combined with the CDN-failure risk fixed in 1.1.10, meant the browser tab, bookmarks and search results would show a blank title whenever that page's JS didn't run). Added a static `<title>` and `<meta name="description">` directly in the real `<head>`, so it works regardless of whether the JS runtime loads. Also added missing `<meta name="description">` tags to the 4 pages that had a title but no description (`bathroom-catalog.html`, `bathroom.html`, `cabinets.html`, `showers.html`).
+- Verified via headless browser: all 434 internal links across all 7 pages still resolve with zero issues after these edits (no regression), and the new static title renders correctly on `millennium-design.html` even without its JS runtime.
+
 ## [1.1.10] - 2026-09-20
 
 ### Fixed

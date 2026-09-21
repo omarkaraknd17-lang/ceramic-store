@@ -4,6 +4,8 @@
 
 ## Current Version
 
+`1.1.11` (mobile viewport tested clean on all pages. Found millennium-design.html had no <title> tag at all (only set dynamically inside its React-dependent helmet block); added a static title+description that works regardless of JS. Added missing meta descriptions to 4 other pages. Verified all 434 links still resolve, no regressions.
+
 `1.1.10` (found a severe gap testing millennium-design.html: its React runtime loads from unpkg.com at request time with zero fallback, so a blocked/failed CDN request means visitors see a completely blank page with no error message. Reproduced the failure in this sandbox and added a timeout-based fallback message with a working WhatsApp link and home-page link, without touching the React/dc-runtime system itself.
 
 `1.1.9` (site-wide audit: crawled all 429 internal links/anchors across all 7 pages, zero broken; ran full functional tests of search/filter/quote-request/WhatsApp flows. Found and fixed a real gap: bathroom-catalog's hardcoded category list only covered 11 of 21 real categories, leaving 81 of 373 products (22%) unfilterable and showing raw English text on the Hebrew page. Added the missing translations and filter buttons.
