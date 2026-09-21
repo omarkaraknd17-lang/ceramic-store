@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>קרמיקה מילניום | קטלוג עיצוב ואריחים</title>
+<meta name="description" content="קרמיקה מילניום – קטלוג עיצוב מלא: אריחים, פורצלן, פסיפס ולוחות גדולים לכל הבית.">
 <script src="./support.js"></script>
 </head>
 <body>
@@ -41,7 +43,7 @@ a:hover{color:#BF6A38}
 
   <header style="position:relative;z-index:40;background:#FDFCF7;border-bottom:1px solid #DFD9C9;height:76px;padding:0 clamp(20px,5vw,72px);display:flex;align-items:center;gap:clamp(14px,3vw,36px)">
     <a href="./home.html" aria-label="קרמיקה מילניום - דף הבית" style="display:flex;align-items:center;gap:11px;text-decoration:none">
-      <img src="./logo.png" alt="" style="width:44px;height:44px;display:block;border-radius:10px">
+      <img src="./logo.png" onerror="this.style.display='none'" alt="" style="width:44px;height:44px;display:block;border-radius:10px">
       <span style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.16em;color:#5A6470;display:block">CERAMICS
         <strong style="display:block;font-family:'Frank Ruhl Libre',serif;font-size:21px;font-weight:700;letter-spacing:0;color:#122A44">{{ t.brand }}</strong>
       </span>
@@ -622,7 +624,7 @@ class Component extends DCLogic {
       requestSample: ()=>{
         if(!m) return;
         const body=this.title(m)+' ('+m.collection+')\n'+t.specSku+' '+m.sku+(m.size!=='—'?' · '+m.size.replace(' ס״מ',''):'');
-        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.sampleWa+'\n\n'+body),'_blank');
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.sampleWa+'\n\n'+body),'_blank','noopener');
       },
 
       hasCollectionHead: !!headCol,
@@ -702,11 +704,38 @@ class Component extends DCLogic {
         if(!S.basket.length) return this.setState({drawerOpen:false});
         const body = S.basket.map((p,i)=>(i+1)+'. '+this.title(p)+' ('+p.collection+')\n'+t.specSku+' '+p.sku+(p.size!=='—'?' · '+p.size.replace(' ס״מ',''):'')+'\n'+t.qty+': '+(p.qty||'')).join('\n\n');
         const who = S.intent ? '\n\n'+t.intentTitle+' '+S.intent : '';
-        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.waLead+'\n\n'+body+who), '_blank');
+        window.open('https://wa.me/972546601762?text='+encodeURIComponent(t.waLead+'\n\n'+body+who), '_blank', 'noopener');
       }
     };
   }
 }
+</script>
+<script>
+(function () {
+  var PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Crect width='400' height='400' fill='%23e7e1d3'/%3E%3Ctext x='50%25' y='50%25' font-family='sans-serif' font-size='18' fill='%238a7f66' text-anchor='middle' dominant-baseline='middle'%3E%D7%AA%D7%9E%D7%95%D7%A0%D7%94 %D7%91%D7%90%D7%99%D7%9E%D7%95%D7%AA%3C/text%3E%3C/svg%3E";
+  document.addEventListener('error', function (e) {
+    var t = e.target;
+    if (t && t.tagName === 'IMG' && t.src !== PLACEHOLDER && !t.dataset.fallbackApplied) {
+      t.dataset.fallbackApplied = '1';
+      t.src = PLACEHOLDER;
+    }
+  }, true);
+})();
+</script>
+<script>
+(function () {
+  setTimeout(function () {
+    if (document.body.innerText.trim() !== '') return;
+    var box = document.createElement('div');
+    box.setAttribute('dir', 'rtl');
+    box.style.cssText = 'font-family:Assistant,Arial,sans-serif;max-width:420px;margin:18vh auto;padding:28px;text-align:center;color:#122A44';
+    box.innerHTML = '<p style="font-size:18px;font-weight:700;margin:0 0 10px">טוען לאט מהרגיל</p>' +
+      '<p style="color:#5A6470;margin:0 0 20px">ייתכן שהדפדפן או הרשת חוסמים רכיב חיצוני הדרוש לעמוד זה. אפשר לנסות לרענן, או לפנות אלינו ישירות.</p>' +
+      '<a href="https://wa.me/972546601762" style="display:inline-block;background:#C9A468;color:#122A44;font-weight:700;padding:12px 22px;border-radius:2px;text-decoration:none;margin-inline-end:8px">שליחת הודעה בוואטסאפ</a>' +
+      '<a href="./home.html" style="display:inline-block;border:1px solid #122A44;color:#122A44;font-weight:600;padding:12px 22px;border-radius:2px;text-decoration:none">חזרה לדף הבית</a>';
+    document.body.appendChild(box);
+  }, 8000);
+})();
 </script>
 </body>
 </html>

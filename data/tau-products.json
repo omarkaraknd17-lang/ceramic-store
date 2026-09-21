@@ -10,8 +10,7 @@
     "product_name": "Evian Wall Gray",
     "product_type_category": "Wall tile",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte",
     "color_design": "gray, NCS S 2002-G, Colonial",
@@ -39,8 +38,7 @@
     "product_name": "Evian Wall Linen",
     "product_type_category": "Wall tile",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte",
     "color_design": "linen, NCS S 1002-G, Mediterranean",
@@ -68,8 +66,7 @@
     "product_name": "Evian Wall Pearl",
     "product_type_category": "Wall tile",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte",
     "color_design": "pearl, NCS S 2002-Y, Metallic",
@@ -97,8 +94,7 @@
     "product_name": "Evian Wall Sand",
     "product_type_category": "Wall tile",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte",
     "color_design": "sand, NCS S 1005-Y20R, Desert",
@@ -126,8 +122,7 @@
     "product_name": "Evian Wall White",
     "product_type_category": "Wall tile",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte",
     "color_design": "white, NCS S 1002-G, Neutral",
@@ -155,8 +150,7 @@
     "product_name": "Evian Wall Relieve Pearl",
     "product_type_category": "Wall tile (relief/textured)",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "pearl, NCS S 2002-Y, Metallic",
@@ -184,8 +178,7 @@
     "product_name": "Evian Wall Relieve Sand",
     "product_type_category": "Wall tile (relief/textured)",
     "sizes_mm": [
-      200,
-      600
+      "200 x 600"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "sand, NCS S 1005-Y20R, Desert",
@@ -213,8 +206,7 @@
     "product_name": "Balistone Coal",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "matte (M21)",
     "color_design": "Coal, NCS 7500N, BASICS",
@@ -242,8 +234,7 @@
     "product_name": "Balistone Emerald",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "not specified",
     "color_design": "Emerald, NCS S 5010-B70G, COLONIAL",
@@ -271,8 +262,7 @@
     "product_name": "Balistone Royalblue",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "not specified",
     "color_design": "Royalblue, NCS 7005-R80B, TEMPERATE",
@@ -300,8 +290,7 @@
     "product_name": "Balistone Sand",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "not specified",
     "color_design": "Sand, NCS 3005-Y50R, DESERT",
@@ -329,8 +318,7 @@
     "product_name": "Balistone Seagreen",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "matte (M21)",
     "color_design": "Seagreen, NCS 6010-B70G, COLONIAL",
@@ -358,8 +346,7 @@
     "product_name": "Balistone Silver",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "not specified",
     "color_design": "Silver, NCS 4005-Y50R, METALLIC",
@@ -387,8 +374,7 @@
     "product_name": "Balistone White",
     "product_type_category": "Small-format floor/wall tile (mosaic brick)",
     "sizes_mm": [
-      70,
-      280
+      "70 x 280"
     ],
     "finish": "gloss (M23)",
     "color_design": "White, NCS 2000-N, NEUTRAL",
@@ -416,8 +402,7 @@
     "product_name": "Mosaico Metal Triangle Argent 30.2x30.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      302,
-      304
+      "302 x 304"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Argent",
@@ -445,8 +430,7 @@
     "product_name": "Mosaico Metal Triangle Gold 30.2x30.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      302,
-      304
+      "302 x 304"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Gold",
@@ -474,8 +458,7 @@
     "product_name": "Mosaico Metal Triangle Cooper 30.2x30.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      302,
-      304
+      "302 x 304"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Cooper",
@@ -503,8 +486,7 @@
     "product_name": "Mosaico Metal Square Argent 30.5x30.5cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      305,
-      305
+      "305 x 305"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Argent",
@@ -532,8 +514,7 @@
     "product_name": "Mosaico Metal Square Gold 30.5x30.5cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      305,
-      305
+      "305 x 305"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Gold",
@@ -561,8 +542,7 @@
     "product_name": "Mosaico Metal Square Cooper 30.5x30.5cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      305,
-      305
+      "305 x 305"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Cooper",
@@ -590,8 +570,7 @@
     "product_name": "Mosaico Metal Flowers Argent 29.5x28.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      295,
-      284
+      "295 x 284"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Argent",
@@ -619,8 +598,7 @@
     "product_name": "Mosaico Metal Flowers Gold 29.5x28.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      295,
-      284
+      "295 x 284"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Gold",
@@ -648,8 +626,7 @@
     "product_name": "Mosaico Metal Flowers Cooper 29.5x28.4cm",
     "product_type_category": "Metal mosaic decorative accent tile",
     "sizes_mm": [
-      295,
-      284
+      "295 x 284"
     ],
     "finish": "brushed metal mosaic",
     "color_design": "Cooper",
@@ -677,8 +654,7 @@
     "product_name": "CAMPASPERO White",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, textured",
     "color_design": "White",
@@ -706,8 +682,7 @@
     "product_name": "CAMPASPERO Linen",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, textured",
     "color_design": "Linen",
@@ -735,8 +710,7 @@
     "product_name": "CAMPASPERO Sand",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, textured",
     "color_design": "Sand",
@@ -764,8 +738,7 @@
     "product_name": "CAMPASPERO Pearl",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, textured",
     "color_design": "Pearl",
@@ -793,8 +766,7 @@
     "product_name": "CAMPASPERO WALL White",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "White",
@@ -822,8 +794,7 @@
     "product_name": "CAMPASPERO WALL Linen",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Linen",
@@ -851,8 +822,7 @@
     "product_name": "CAMPASPERO WALL Sand",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Sand",
@@ -880,8 +850,7 @@
     "product_name": "CAMPASPERO WALL Pearl",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Pearl",
@@ -909,8 +878,7 @@
     "product_name": "CAMPASPERO WALL White (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "White (relief/RLV)",
@@ -938,8 +906,7 @@
     "product_name": "CAMPASPERO WALL Linen (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Linen (relief/RLV)",
@@ -967,8 +934,7 @@
     "product_name": "CAMPASPERO WALL Sand (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Sand (relief/RLV)",
@@ -996,8 +962,7 @@
     "product_name": "CAMPASPERO WALL Pearl (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Pearl (relief/RLV)",
@@ -1025,8 +990,7 @@
     "product_name": "LITHOS White",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, multiple finishes available",
     "color_design": "White",
@@ -1054,8 +1018,7 @@
     "product_name": "LITHOS Sand",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, multiple finishes available",
     "color_design": "Sand",
@@ -1083,8 +1046,7 @@
     "product_name": "LITHOS Pearl",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, multiple finishes available",
     "color_design": "Pearl",
@@ -1112,8 +1074,7 @@
     "product_name": "LITHOS Linen",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "porcelain, multiple finishes available",
     "color_design": "Linen",
@@ -1141,8 +1102,7 @@
     "product_name": "LITHOS White (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "relief (RLV)",
     "color_design": "White (relief/RLV)",
@@ -1170,8 +1130,7 @@
     "product_name": "LITHOS Sand (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "relief (RLV)",
     "color_design": "Sand (relief/RLV)",
@@ -1199,8 +1158,7 @@
     "product_name": "LITHOS Pearl (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "relief (RLV)",
     "color_design": "Pearl (relief/RLV)",
@@ -1228,8 +1186,7 @@
     "product_name": "LITHOS Linen (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      1200,
-      1200
+      "1200 x 1200"
     ],
     "finish": "relief (RLV)",
     "color_design": "Linen (relief/RLV)",
@@ -1257,8 +1214,7 @@
     "product_name": "LITHOS WALL White",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "White",
@@ -1286,8 +1242,7 @@
     "product_name": "LITHOS WALL Sand",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Sand",
@@ -1315,8 +1270,7 @@
     "product_name": "LITHOS WALL Pearl",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Pearl",
@@ -1344,8 +1298,7 @@
     "product_name": "LITHOS WALL Linen",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte",
     "color_design": "Linen",
@@ -1373,8 +1326,7 @@
     "product_name": "LITHOS WALL White (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "White (relief/RLV)",
@@ -1402,8 +1354,7 @@
     "product_name": "LITHOS WALL Sand (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Sand (relief/RLV)",
@@ -1431,8 +1382,7 @@
     "product_name": "LITHOS WALL Pearl (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Pearl (relief/RLV)",
@@ -1460,8 +1410,7 @@
     "product_name": "LITHOS WALL Linen (relief/RLV)",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      300,
-      900
+      "300 x 900"
     ],
     "finish": "matte, relief (RLV)",
     "color_design": "Linen (relief/RLV)",
@@ -1489,8 +1438,7 @@
     "product_name": "CASTELLO White",
     "product_type_category": "Porcelain floor/wall tile",
     "sizes_mm": [
-      105,
-      300
+      "105 x 300"
     ],
     "finish": "glossy stick mosaic",
     "color_design": "White",
@@ -1506,5 +1454,397 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "10.5x30cm stick-mosaic wall tile. A broader 'Basics' color range (10+ additional colors including tan, gold, bronze, olive, navy speckled, teal, turquoise) is shown in the source page as an unlabeled color strip; only White is individually named/confirmed here. Display image is the shared color-strip reference, not an isolated White swatch."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4547",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "TU3P4547",
+    "product_name": "PT Campaspero Linen TXT 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Textured (TXT), R11 slip resistance",
+    "color_design": "PT Campaspero Linen TXT 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4547.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4548",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "CAMPASPERO",
+    "sku_model_code": "TU3P4548",
+    "product_name": "E-PT Campaspero Linen TXT 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Textured (TXT)",
+    "color_design": "E-PT Campaspero Linen TXT 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 3,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4548.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4578",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "LITHOS",
+    "sku_model_code": "TU3P4578",
+    "product_name": "PSTH Lithos Linen / RLV 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Linen (RLV - rectified)",
+    "color_design": "PSTH Lithos Linen / RLV 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4578.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU3P4579",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "LITHOS",
+    "sku_model_code": "TU3P4579",
+    "product_name": "E-PSTH Lithos Linen / RLV 60x120 (stock)",
+    "product_type_category": "Porcelain floor/wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Linen (RLV - rectified)",
+    "color_design": "E-PSTH Lithos Linen / RLV 60x120 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU3P4579.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2299",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2299",
+    "product_name": "PT Novastone W White/Ivory / RLV 30x90 (stock)",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone W White/Ivory / RLV 30x90 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2299.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2302",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2302",
+    "product_name": "PT Novastone White / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone White / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2302.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2301",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2301",
+    "product_name": "PT Novastone Pearl / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone Pearl / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2301.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2300",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2300",
+    "product_name": "PT Novastone Ivory / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1005 x 1924"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "PT Novastone Ivory / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 5,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2300.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2295",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2295",
+    "product_name": "E-PT Novastone White/Ivory/Pearl RLV 30x90 (stock)",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone White/Ivory/Pearl RLV 30x90 (stock)",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2295.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2290",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2290",
+    "product_name": "E-PT Novastone Wall / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2290.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2303",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2303",
+    "product_name": "E-PT Novastone Wall White/Ivory/Pearl RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall White/Ivory/Pearl RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2303.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2305",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2305",
+    "product_name": "E-PT Novastone Wall Ivory / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall Ivory / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2305.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2311",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2311",
+    "product_name": "E-PT Novastone Wall White / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall White / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2311.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-PROMOCION-NOVEDADES:TU2P2306",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Cerámica",
+    "source_catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+    "source_catalog": "TAU Promoción Novedades",
+    "collection_series": "NOVASTONE WALL",
+    "sku_model_code": "TU2P2306",
+    "product_name": "E-PT Novastone Wall Pearl / RLV 30x90",
+    "product_type_category": "Wall tile",
+    "sizes_mm": [
+      "1200 x 2400"
+    ],
+    "finish": "Rectified (RLV)",
+    "color_design": "E-PT Novastone Wall Pearl / RLV 30x90",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-PROMOCION-NOVEDADES",
+      "page": 6,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau/TU2P2306.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
   }
 ]

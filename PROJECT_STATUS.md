@@ -4,7 +4,17 @@
 
 ## Current Version
 
-`0.4.0` (Eagle Ceramics/ECOEAGLE and TAU Cerámica bulk catalog ingestion)
+`1.1.11` (mobile viewport tested clean on all pages. Found millennium-design.html had no <title> tag at all (only set dynamically inside its React-dependent helmet block); added a static title+description that works regardless of JS. Added missing meta descriptions to 4 other pages. Verified all 434 links still resolve, no regressions.
+
+`1.1.10` (found a severe gap testing millennium-design.html: its React runtime loads from unpkg.com at request time with zero fallback, so a blocked/failed CDN request means visitors see a completely blank page with no error message. Reproduced the failure in this sandbox and added a timeout-based fallback message with a working WhatsApp link and home-page link, without touching the React/dc-runtime system itself.
+
+`1.1.9` (site-wide audit: crawled all 429 internal links/anchors across all 7 pages, zero broken; ran full functional tests of search/filter/quote-request/WhatsApp flows. Found and fixed a real gap: bathroom-catalog's hardcoded category list only covered 11 of 21 real categories, leaving 81 of 373 products (22%) unfilterable and showing raw English text on the Hebrew page. Added the missing translations and filter buttons.
+
+`1.1.8` (re-verified the remaining "blocked" bathroom catalogs by SHA-256; 2 stay genuinely blocked, 2 had their PDFs present. Audited all 442 unpublished candidates by page overlap and found 35 were noise (font-glyph artifacts, cover-page text, or products already verified under a different code token) and removed them; visually verified and promoted 2 genuinely new products (KD2 shower enclosure, MUST02 vanity shelf). Caught and corrected a scoping mistake in the cleanup script itself (an unrelated same-named candidate in a different, still-blocked catalog) before it caused data loss. candidates: 442 -> 404, verified: 369 -> 372.
+
+`1.1.7` (found and closed a real gap the earlier "extraction complete" status missed: 4 Eagle catalogs (87 records) were still text-only, not individually image-verified. Checked by SHA-256 whether their source PDFs are still present rather than assuming the whole group was blocked like SEBACH/Mitrani: 3 of 4 were (78 records), only Star Marks' PDF is genuinely gone (9 records, stays blocked). Individually cropped and verified all 78 against their source pages; live catalog count now correctly 633. Also normalized a supplier_group capitalization inconsistency (Sebach vs SEBACH) found via audit, confirmed against the brand field's consistent casing.
+
+`1.1.6` (continued the catalog data audit: checked cross-file referential integrity, on-disk image existence, sizes_mm/page-ref/status-vocabulary sanity, price/availability integrity and encoding — all clean except the already-known SEBACH/Mitrani missing-image gap. Found and fixed a real policy-violation bug: 87 unconfirmed source_page_only records with no real photo were being shown to customers on the live catalog against the manifest's own publication rule; excluded them in app.js and corrected the manifest's verified-count (1011 -> 924). Verified via headless browser: live product count corrected from 642 to 555. Earlier (1.1.5): finished the whole-project code audit by covering cabinets.html, showers.html, styles.css, and the rest of millennium-design.html's template — fixed an invalid CSS margin shorthand on .eyebrow that the browser was silently dropping. Earlier (1.1.4): full application-code audit of app.js, bathroom-catalog.js and millennium-design.html — fixed a real broken-markup bug affecting 14 products whose names contain a literal quote character, added HTML-escaping everywhere innerHTML is built from data or user input, closed a reverse-tabnabbing gap on 2 WhatsApp links, and guarded an unhandled localStorage parse that could have silently broken the whole catalog page. Earlier: found and fixed 3 orphaned image assets, removed 15 genuine duplicate SPOT catalog records, fixed an inconsistent sizes_mm data format, extracted a previously-unflagged Polisa catalog, corrected a stale master-catalog-manifest.json; site prepared for free hosting)
 
 ## Completed
 
@@ -133,14 +143,27 @@
 - Full existing project codebase (storefront pages, catalog data, docs) brought into the `ceramic-store` git repository for the first time; `main` now reflects the real project instead of an empty scaffold
 - SPOT July 2026 catalog cross-checked in full against the existing 356-record catalog; 20 previously-missing SKUs added across 9 products (new MAXIMAL square drain sizes, a missing MAX Stick Short bronze finish, a new XO wall-system body and 16 cm spout finish set, a missing Rocco wall-system bronze body, two new Rocco spout-length finish sets, a missing matte-black Rocco oval basin, and the new LAPINO compact vanity)
 - SEBACH Shower Enclosures 2025 catalog visually reviewed page-by-page against the existing 13 catalogued models; 9 previously-missing shower/bathtub-screen models added (ROTEM, KD, KDD, HLP, DLP, YANIV, LIRAZ, DAN, NOAM)
+- Eagle Ceramics Travertine Collection ingested and fully SKU-extracted: 8 individually-verified white/yellow travertine-look porcelain slab SKUs added to `data/eagle-tile-products.json`, each with a high-resolution (400dpi) source-page crop checked for supplier brand marks
+- Site prepared for free static hosting (e.g. GitHub Pages): added a root `index.html` redirect, fixed a stale redirect that made `public/index.html` unreachable, and confirmed (via a headless-browser pass across all 8 storefront pages) that every page loads and renders with no JavaScript errors
+- The 147 customer-facing Eagle/ECOEAGLE tile records and 52 TAU Cerámica records are now actually displayed on the storefront (`public/index.html`), not just present as data; combined with the existing 104-record dataset this page now shows 303 verified tile products
+- `public/bathroom-catalog.html` (384 verified SEBACH/Mitrani records) is now linked from `public/bathroom.html` navigation; it was previously fully built but unreachable from any page
+- Added a graceful placeholder fallback for every product/logo/hero image across the site that references a file not present in this repository, so the known missing-image gap (see Next Steps) no longer shows as broken-image icons
+- All 13 collection-level placeholder tile catalogs (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) now have individually-verified SKU records (35 total) with real codes, colors, sizes and finishes read directly from the source pages; no brand mark was found in any of them across all pages reviewed, so brand is intentionally left unconfirmed rather than assumed
+- Resolved the four unnamed K8FJ693/696/700/701TE Micro Cement product names (Yardang Gray, Yasur Volcanic Ash, Ripple Rock Gray, Navajo Gray) and fixed a finish-field data error found while doing so
+- Reviewed the TAU "Promoción Novedades" roundup PDF; it contained 14 genuinely new SKUs (including an entirely new NOVASTONE WALL collection), now added with individual verified images
+- Allye Polished Porcelain Tile catalog fully extracted (32 SKUs, all with real images); Allye Rustic Tiles' Milano Series fully extracted (18 SKUs); the separate standalone Milano Series catalog fully extracted (12 SKUs)
+- Allye Wall Tiles catalog fully extracted (85 SKUs: 13 main pattern series + 72 decor accent tiles)
+- Allye Floor Tiles catalog fully extracted (98 SKUs: HD Inkjet Polished Glazed Tile + HD Inkjet Rustic Tile); its last 3 pages duplicated the already-extracted Polished Porcelain Tile catalog and were correctly skipped
+- All five Allye catalogs pending at the start of this session are now fully SKU-extracted with real verified images
+- The 17 Chao Xian Shi (超现石) 2023 "old products" SKUs that shared one multi-product row-crop image now have individually-cropped display images
+- Found and fully extracted a Polisa-brand tile catalog (6 collections, 62 SKUs) that had been sitting unflagged since before this session
+- Corrected `data/master-catalog-manifest.json`, which had drifted out of sync with the actual dataset files across several sessions; all aggregate counts are now recomputed and verified
+- Fixed an inconsistent `sizes_mm` data format (310 records stored a raw `[width, height]` number pair instead of a size string) that was breaking the storefront's size filter dropdown by mixing whole-size strings with bare individual numbers
+- Full catalog data-integrity audit: found and removed 15 genuine duplicate SPOT July 2026 records (same source page and SKU code re-extracted under a different name in an earlier gap-reconciliation pass) from `data/bathroom-verified-products.json`; verified required-field coverage, image-path conventions and status vocabulary are clean across all datasets
 
 ## In Progress
-
-- Full variant extraction for the four verified Allye polished-porcelain collections, then high-resolution OCR or supplier data-sheet verification for the remaining scan-only pages
 - Verify price, sale unit and availability for every product before storefront publication
-- Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets
-- Individual SKU extraction for the 13 collection-level placeholder tile catalogs (HOBART, NERO MARGIUA, DUSTIN, ARIK, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) and brand confirmation for them
-- Individual SKU extraction for the "old products" row shared-image entries in the Chao Xian Shi (超现石) 2023 dataset, and for the unnamed K8FJ693/696/700/701TE micro-cement variants
+- Extract individual SEBACH and Mitrani product records, starting with bathroom cabinets — blocked: the source PDF and the previously-extracted 769-image manifest for these are not present anywhere in this environment; needs the user to re-supply them
 
 ## Next Steps
 
@@ -149,5 +172,7 @@
 - Crop each source-page image into a SKU-specific tile-only display image, starting with the verified Allye polished range
 - Confirm public pricing, availability and ordering rules before enabling purchases
 - Locate and re-supply the original 1,010 supplier catalogue images so existing verified records can be backed by their real image assets in this repository (most existing records currently reference `public/bathroom-product-assets/...` paths whose image files are not yet present here)
-- Identify the brand behind the 13 collection-level placeholder tile catalogs (visual template matches Eagle Ceramics but is not confirmed)
-- Follow up on the TAU "Promoción Novedades" roundup PDF to confirm whether it references any collection not already covered by EVIAN WALL, BALISTONE, LUXOR or EVOLVE 2026
+- Identify the brand behind the 13 tile catalogs added in v0.6.0 (ARIK, HOBART, NERO MARGIUA, DUSTIN, TREVI, TERRAZZO, PIETRA, MOON, BARSOOM, WINS, PORTLAND, LARA, CREST) — no brand mark appears anywhere in any of their source pages, so it remains unconfirmed
+- Re-supply the original supplier image archive so the ~1,200+ legacy records that currently fall back to a placeholder (356 of 384 bathroom records, all 851 `millennium-design.html` catalog photos, and the site logo/hero images) can show their real photos
+- Verify from a real (non-sandboxed) network that `public/millennium-design.html`'s runtime dependency on `unpkg.com` for React loads reliably once the site is live
+- Merge the site-prep branch into `main` and enable free static hosting (e.g. GitHub Pages) once approved

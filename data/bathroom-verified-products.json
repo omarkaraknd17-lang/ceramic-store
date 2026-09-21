@@ -8454,358 +8454,6 @@
     "notes": "The source maps code 712007 to gold. Customer image is an unaltered crop of the XO collection photograph. Confirm exact finish, compatibility and commercial terms with the store."
   },
   {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:RAIN-LOW-702650",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "RAIN",
-    "sku_model_code": "702650",
-    "product_name": "ברז בינוני ריין",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "chrome",
-    "color_design": "medium basin faucet for countertop sink",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 18,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-18.jpg",
-    "display_crop": {
-      "size_x": 200,
-      "position_x": 13.3,
-      "position_y": 54,
-      "aspect_ratio": "450 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702650 to chrome. Customer image is an unaltered crop of the RAIN collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:RAIN-LOW-702653",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "RAIN",
-    "sku_model_code": "702653",
-    "product_name": "ברז בינוני ריין",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "brushed",
-    "color_design": "medium basin faucet for countertop sink",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 18,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-18.jpg",
-    "display_crop": {
-      "size_x": 200,
-      "position_x": 13.3,
-      "position_y": 54,
-      "aspect_ratio": "450 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702653 to brushed. Customer image is an unaltered crop of the RAIN collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:RAIN-LOW-702654",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "RAIN",
-    "sku_model_code": "702654",
-    "product_name": "ברז בינוני ריין",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "black",
-    "color_design": "medium basin faucet for countertop sink",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 18,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-18.jpg",
-    "display_crop": {
-      "size_x": 200,
-      "position_x": 13.3,
-      "position_y": 54,
-      "aspect_ratio": "450 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702654 to black. Customer image is an unaltered crop of the RAIN collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:RAIN-LOW-702655",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "RAIN",
-    "sku_model_code": "702655",
-    "product_name": "ברז בינוני ריין",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "graphite PVD",
-    "color_design": "medium basin faucet for countertop sink",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 18,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-18.jpg",
-    "display_crop": {
-      "size_x": 200,
-      "position_x": 13.3,
-      "position_y": 54,
-      "aspect_ratio": "450 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702655 to graphite PVD. Customer image is an unaltered crop of the RAIN collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:RAIN-LOW-702651",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "RAIN",
-    "sku_model_code": "702651",
-    "product_name": "ברז בינוני ריין",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "bronze PVD",
-    "color_design": "medium basin faucet for countertop sink",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 18,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-18.jpg",
-    "display_crop": {
-      "size_x": 200,
-      "position_x": 13.3,
-      "position_y": 54,
-      "aspect_ratio": "450 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702651 to bronze PVD. Customer image is an unaltered crop of the RAIN collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702850",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702850",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "chrome",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702850 to chrome. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702853",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702853",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "brushed",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702853 to brushed. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702854",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702854",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "black",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702854 to black. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702855",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702855",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "graphite PVD",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702855 to graphite PVD. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702856",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702856",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "rose gold PVD",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702856 to rose gold PVD. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:STICK-TALL-702857",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Rocco by SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "STICK",
-    "sku_model_code": "702857",
-    "product_name": "ברז סטיק גבוה צר",
-    "product_type_category": "Bathroom faucet",
-    "sizes_mm": [],
-    "finish": "gold PVD",
-    "color_design": "slim tall basin faucet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 15,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-15.jpg",
-    "display_crop": {
-      "size_x": 220,
-      "position_x": 15,
-      "position_y": 57,
-      "aspect_ratio": "410 / 650"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source maps code 702857 to gold PVD. Customer image is an unaltered crop of the STICK collection photograph. Confirm exact finish, installation and commercial terms with the store."
-  },
-  {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:MINIMAL-703100",
     "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "Rocco by SEBACH",
@@ -10494,120 +10142,8 @@
     "notes": "Customer image is an unaltered source crop. Confirm installation, stock and commercial terms with the store."
   },
   {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:PALACE-8840",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "SEBACH",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "PALACE TORNADO",
-    "sku_model_code": "8840",
-    "product_name": "מונובלוק פאלאס קצר",
-    "product_type_category": "Floor-standing toilet",
-    "sizes_mm": [
-      610
-    ],
-    "finish": "white",
-    "color_design": "Tornado compact toilet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 27,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-27.jpg",
-    "display_crop": {
-      "size_x": 160,
-      "position_x": 4,
-      "position_y": 50,
-      "aspect_ratio": "560 / 620"
-    },
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "The source states code 8840, white finish and 61 cm compact size. Customer image is an unaltered source crop. Confirm installation, stock and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:CERSANIT-890700",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Cersanit",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "MITO 373",
-    "sku_model_code": "890700",
-    "product_name": "מונובלוק MITO 373",
-    "product_type_category": "Floor-standing toilet",
-    "sizes_mm": [],
-    "finish": "white",
-    "color_design": "compact toilet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 30,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-30.jpg",
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "Customer image is an unaltered source crop. Confirm specifications, stock and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:CERSANIT-890669",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Cersanit",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "MERIDA",
-    "sku_model_code": "890669",
-    "product_name": "מונובלוק MERIDA",
-    "product_type_category": "Floor-standing toilet",
-    "sizes_mm": [],
-    "finish": "white",
-    "color_design": "compact toilet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 31,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-31.jpg",
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "Customer image is an unaltered source crop. Confirm specifications, stock and commercial terms with the store."
-  },
-  {
-    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:CERSANIT-890879",
-    "supplier_group": "SEBACH and Mitrani supplier group",
-    "brand": "Cersanit",
-    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-    "source_catalog": "SPOT July 2026",
-    "collection_series": "TORNADO",
-    "sku_model_code": "890879",
-    "product_name": "מונובלוק TORNADO",
-    "product_type_category": "Floor-standing toilet",
-    "sizes_mm": [],
-    "finish": "white",
-    "color_design": "compact toilet",
-    "image_page_reference": {
-      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
-      "page": 32,
-      "kind": "verified_source_page_photo_crop"
-    },
-    "display_image": "public/bathroom-source-pages/spot/page-32.jpg",
-    "price": null,
-    "currency": null,
-    "availability": "not_confirmed",
-    "display_asset_status": "source_page_photo_crop_verified",
-    "data_confidence": "visually_verified_source_page_photo_and_pdf_text",
-    "notes": "Customer image is an unaltered source crop. Confirm specifications, stock and commercial terms with the store."
-  },
-  {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:111100",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10636,7 +10172,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:111150",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10665,7 +10201,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:735571",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10691,7 +10227,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710300",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10717,7 +10253,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:711604",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10745,7 +10281,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:711605",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10773,7 +10309,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:711606",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10801,7 +10337,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:711607",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10829,7 +10365,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710101",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10855,7 +10391,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710160",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10883,7 +10419,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710161",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10911,7 +10447,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710163",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10939,7 +10475,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710164",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10967,7 +10503,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710200",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -10995,7 +10531,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710201",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -11023,7 +10559,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710203",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -11051,7 +10587,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:710204",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -11079,7 +10615,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:134101MB",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -11109,7 +10645,7 @@
   },
   {
     "id": "IL-SEBACH-MITRANI-SPOT-2026-07:122260L",
-    "supplier_group": "Sebach and Mitrani supplier group",
+    "supplier_group": "SEBACH and Mitrani supplier group",
     "brand": "SEBACH / Mitrani",
     "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
     "source_catalog": "SPOT July 2026",
@@ -11138,7 +10674,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:ROTEM",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11167,7 +10703,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KD",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11197,7 +10733,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KDD",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11228,7 +10764,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:HLP",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11257,7 +10793,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:DLP",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11286,7 +10822,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:YANIV",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11314,7 +10850,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:LIRAZ",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11342,7 +10878,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:DAN",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11370,7 +10906,7 @@
   },
   {
     "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:NOAM",
-    "supplier_group": "Sebach supplier group",
+    "supplier_group": "SEBACH supplier group",
     "brand": "SEBACH",
     "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
     "source_catalog": "Shower Enclosures 2025",
@@ -11395,5 +10931,125 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "Source-listed price 645 ILS (67cm); installation 300 ILS extra. Fixed bathtub glass screen, 6mm tempered glass. Dimensions transcribed from source page; final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KD2-NICKEL",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "KD2",
+    "sku_model_code": "KD2-NICKEL",
+    "product_name": "מקלחון KD2 - ניקל",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      1400,
+      1700,
+      2400
+    ],
+    "finish": "nickel hardware, 6mm tempered clear glass",
+    "color_design": "clear glass shower enclosure, front with 2 fixed panels + 2 doors",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 36,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/KD2-nickel.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source lists 2 width ranges (140-170cm at 2,385 ILS, 170-240cm at 2,485 ILS) under this nickel finish; sizes_mm records the overall min/max range. Was previously mis-extracted as a bogus font-artifact candidate; individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:KD2-BLACK",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "KD2",
+    "sku_model_code": "KD2-BLACK",
+    "product_name": "מקלחון KD2 - שחור שקוף / פרזול שחור",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      1400,
+      1700,
+      2400
+    ],
+    "finish": "matte black hardware, 6mm tempered glass",
+    "color_design": "shower enclosure with black hardware, front with 2 fixed panels + 2 doors",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 37,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/KD2-black.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source lists 2 width ranges (140-170cm at 2,745 ILS, 170-240cm at 2,945 ILS) under this black-hardware finish; sizes_mm records the overall min/max range. Was previously mis-extracted as a bogus font-artifact candidate; individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-MITRANI-SPOT-2026-07:MUST02",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "Rocco by SEBACH",
+    "source_catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
+    "source_catalog": "SPOT July 2026",
+    "collection_series": "Rocco",
+    "sku_model_code": "MUST02",
+    "product_name": "משטח עץ מעוצב \"מאסט\" כולל כיור, ברז ומתלה מגבת",
+    "product_type_category": "Bathroom vanity",
+    "sizes_mm": [
+      300,
+      500
+    ],
+    "finish": "chrome faucet, wood-finish shelf",
+    "color_design": "wood-look designed wall shelf with integrated round countertop basin, faucet and towel holder cutout",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-MITRANI-SPOT-2026-07",
+      "page": 44,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-cabinets/MUST02.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Source-listed price 1,495 ILS, size 50/30cm, marked as a new size option. Was previously mis-extracted as a bogus font-artifact candidate (BY43); individually visually verified against the source page this pass. Final configuration and commercial terms require store confirmation."
+  },
+  {
+    "id": "IL-SEBACH-SHOWER-ENCLOSURES-2025:GOLAN-FROSTED-MIDDLE",
+    "supplier_group": "SEBACH supplier group",
+    "brand": "SEBACH",
+    "source_catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+    "source_catalog": "SEBACH Shower Enclosures 2025",
+    "collection_series": "GOLAN",
+    "sku_model_code": "GOLAN-FROSTED-MIDDLE",
+    "product_name": "מקלחון גולן - זכוכית חלבית אמצע",
+    "product_type_category": "Custom shower enclosure",
+    "sizes_mm": [
+      760,
+      790,
+      860,
+      890
+    ],
+    "finish": "chrome hardware, 6mm tempered glass",
+    "color_design": "frosted-middle-band glass shower enclosure (clear top and bottom, frosted center band)",
+    "image_page_reference": {
+      "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
+      "page": 3,
+      "kind": "embedded_supplier_image"
+    },
+    "display_image": "public/bathroom-product-assets/sebach-showers/GOLAN-frosted-middle.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "Distinct finish variant of the GOLAN collection (frosted-middle glass banding) not captured by the existing clear-glass GOLAN record; found via a stray text-extraction fragment (\"N6\") that turned out to reference a real, separate variant rather than noise. Source-listed price 975 ILS for the shown size range. Final configuration and commercial terms require store confirmation."
   }
 ]
