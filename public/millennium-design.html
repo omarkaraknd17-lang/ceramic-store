@@ -437,7 +437,12 @@ const CATT = {
   'קרמיקה סינית — ריצוף':['Imported — floor','مستورد — أرضيات'],
   'קרמיקה סינית — חיפוי':['Imported — wall','مستورد — تكسية'],
   'קרמיקה סינית — מלוטש':['Imported — polished','مستورد — مصقول'],
-  'קרמיקה סינית — מבחר יבוא':['Imported — selection','مستورد — تشكيلة']
+  'קרמיקה סינית — מבחר יבוא':['Imported — selection','مستورد — تشكيلة'],
+  'לוחות פורצלן גדולים':['Large-format porcelain slabs','ألواح بورسلان كبيرة'],
+  'אבן ממוגזרת':['Sintered stone','حجر مضغوط'],
+  'אריחי ריצוף':['Floor tiles','بلاط أرضيات'],
+  'פורצלן דמוי עץ':['Wood-look porcelain','بورسلان بمظهر الخشب'],
+  'פרקט SPC':['SPC vinyl flooring','أرضيات SPC']
 };
 const DESCT = {
   'אריח ריצוף פורצלן':['Porcelain floor tile','أريحة أرضيات بورسلان'],
@@ -512,7 +517,7 @@ class Component extends DCLogic {
   st(on){ return on ? {bg:'#122A44', fg:'#FDFCF7', bd:'#122A44', fw:'700'} : {bg:'#FDFCF7', fg:'#5A6470', bd:'#DFD9C9', fw:'400'} }
 
   isAmb(p){ return p.heb === 'תצוגת אווירה מהקטלוג' || !!p.page }
-  isGrip(p){ return /נגד החלקה/.test(p.finish||'') || /R1[01]/.test(p.name) }
+  isGrip(p){ return /נגד החלקה|anti.?slip|non.?slip/i.test(p.finish||'') || /R1[01]/.test(p.name||p.sku||'') }
 
   pathDefs(){
     const t=this.t(), big=(this.all().find(p=>/^12[05]\//.test(p.size))||{}).size;
