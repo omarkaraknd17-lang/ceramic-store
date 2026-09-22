@@ -480,7 +480,16 @@ class Component extends DCLogic {
       if (ui) Object.assign(this.state, {lang:ui.lang||'he', cat:ui.cat||'הכל', collection:ui.collection||null, size:ui.size||null, grip:!!ui.grip, hideAmb:!!ui.hideAmb});
       if (Array.isArray(bk)) this.state.basket = bk;
     } catch(e){}
-    const tick = () => { window.MILL_PHOTOS ? this.setState({ready:true, shown:this.per}) : setTimeout(tick,60) };
+    const tick = () => {
+      if (!window.MILL_PHOTOS) { setTimeout(tick,60); return }
+      const photos = window.MILL_PHOTOS;
+      const validCollections = new Set(photos.map(p=>p.collection));
+      const validCats = new Set(photos.map(p=>p.category));
+      const patch = {ready:true, shown:this.per};
+      if (this.state.collection && !validCollections.has(this.state.collection)) patch.collection = null;
+      if (this.state.cat !== 'הכל' && !validCats.has(this.state.cat)) patch.cat = 'הכל';
+      this.setState(patch);
+    };
     tick();
     this._key = e => { if (e.key === 'Escape') this.setState({modalId:null, drawerOpen:false, megaOpen:false}) };
     document.addEventListener('keydown', this._key);
@@ -585,7 +594,7 @@ class Component extends DCLogic {
     }
 
     const m = S.modalId ? this.byId(S.modalId) : null;
-    const headCol = S.collection;
+    const headCol = (S.collection && colInfo[S.collection]) ? S.collection : null;
     const headSizes = headCol ? Object.keys(all.filter(p=>p.collection===headCol).reduce((a,p)=>{ if(p.size!=='—') a[p.size]=1; return a },{})).slice(0,6) : [];
 
     return {
