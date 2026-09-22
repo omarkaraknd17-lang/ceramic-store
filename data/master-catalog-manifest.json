@@ -63,21 +63,21 @@
     },
     {
       "path": "data/tau-products.json",
-      "scope": "TAU Cerámica (Spain) porcelain tile and metal mosaic collections",
+      "scope": "TAU Cerámica (Spain) porcelain tile, metal mosaic and large-format (Big Sizes 120x280) slab collections",
       "supplier_groups": [
         "TAU Ceramica supplier group"
       ],
-      "record_count": 66,
+      "record_count": 93,
       "publication_rule": "Every record must preserve a source catalogue/page reference and a verified supplier display image."
     }
   ],
   "aggregate_counts": {
-    "catalog_inventory_records": 1418,
-    "verified_customer_facing_records_with_direct_display_asset": 1006,
+    "catalog_inventory_records": 1445,
+    "verified_customer_facing_records_with_direct_display_asset": 1033,
     "source_page_catalog_records": 9,
     "unpublished_review_candidates": 403,
     "collection_level_placeholder_records": 0,
-    "total_supplier_catalog_sources": 43
+    "total_supplier_catalog_sources": 44
   },
   "source_separation": "Supplier groups must not be merged, renamed or inferred from display artwork. Chinese sources remain separate from TAU, SEBACH, Mitrani and all other supplier groups."
 }

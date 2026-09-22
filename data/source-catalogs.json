@@ -557,5 +557,17 @@
     "catalog_category": "Porcelain slab, travertine-look, 4 colors (with/without holes) x 2 finishes",
     "source_provenance": "User-supplied PDF attachment; source identity retained in data.",
     "notes": "Same 2025-02-27 shoot batch as CN-EAGLE-TANGGULA-STONE-II (sibling timestamped file)."
+  },
+  {
+    "catalog_id": "ES-TAU-BIG-SIZES",
+    "brand": "TAU Ceramica",
+    "supplier_group": "TAU Ceramica supplier group",
+    "catalog_category": "Large-format porcelain slab collection (120x280 / 120x120)",
+    "source_provenance": "Uploaded as Big_Sizes.zip (extracted to Big_Sizes.pdf)",
+    "original_filename": "Big_Sizes.pdf",
+    "source_sha256": "138eb8a622513f12f990d4ade76c670e84ddd121cfc8ce1c8cef5080f0dba7b0",
+    "page_count": 90,
+    "ingestion_status": "product_records_extracted_2026-09-22",
+    "notes": "Previously unregistered — found inside an unexamined Big_Sizes.zip archive during a follow-up audit. 27 large-format slab collections (marble/stone/metal-look), mostly offered in Natural Matt and Polished finishes at 120x280cm, some also at 120x120cm. No per-collection numeric SKU codes are printed in the catalog; synthesized IDs follow the pattern BIGSIZES-<COLLECTION>-<FINISH>."
   }
 ]
