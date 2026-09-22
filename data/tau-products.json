@@ -1846,5 +1846,761 @@
     "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
     "notes": "From the dated 03/09/2026 TAU 'Promoción Novedades' roundup PDF, previously registered as a promotional intake with no standalone products extracted. On review this SKU is a genuinely new code not already present in this dataset's CAMPASPERO/LITHOS/other collections."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-ATLASGRAY",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-ATLASGRAY",
+    "product_name": "Atlas Gray",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 4,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/AtlasGray.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-BEAMRUSTEEL",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Metal",
+    "sku_model_code": "BIGSIZES-BEAMRUSTEEL",
+    "product_name": "Beam Rusteel",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35), multicara/mix — 6 different designs",
+    "color_design": "Metal-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 10,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/BeamRusteel.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-BOSCOBLACK",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-BOSCOBLACK",
+    "product_name": "Bosco Black",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 16,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/BoscoBlack.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-CALACATTAGREEN",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-CALACATTAGREEN",
+    "product_name": "Calacatta Green",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 22,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/CalacattaGreen.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-CALCARE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-CALCARE",
+    "product_name": "Calcare",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Brushed; SP (M43)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 28,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Calcare.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-CASSANIAGRAY",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-CASSANIAGRAY",
+    "product_name": "Casania Gray",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 38,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/CassaniaGray.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-DORSET",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-DORSET",
+    "product_name": "Dorset",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 44,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Dorset.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-ELITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-ELITE",
+    "product_name": "Elite",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 54,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Elite.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-EMPORIOCALACATTA",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-EMPORIOCALACATTA",
+    "product_name": "Emporio Calacatta",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 60,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/EmporioCalacatta.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-HERVAS",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Wood",
+    "sku_model_code": "BIGSIZES-HERVAS",
+    "product_name": "Hervas Nogal",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Wood-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 66,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Hervas.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-INTEGRA",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-INTEGRA",
+    "product_name": "Integra",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 72,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Integra.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-INVISIBLEGOLD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-INVISIBLEGOLD",
+    "product_name": "Invisible Gold",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 80,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/InvisibleGold.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-IRONSTONEBLACK",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-IRONSTONEBLACK",
+    "product_name": "Irostone Black",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 86,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/IronstoneBlack.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-LEMA",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Cement",
+    "sku_model_code": "BIGSIZES-LEMA",
+    "product_name": "Lema",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Cement-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 92,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Lema.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-MAGNABLUE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-MAGNABLUE",
+    "product_name": "Magna Blue",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 98,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/MagnaBlue.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-MARQUINABLACK",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-MARQUINABLACK",
+    "product_name": "Marquina Black",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 104,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/MarquinaBlack.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-ONICEGOLD",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-ONICEGOLD",
+    "product_name": "Onice Gold",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 110,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/OniceGold.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-PALISANDROGRAY",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-PALISANDROGRAY",
+    "product_name": "Palisandro Gray",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 116,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/PalisandroGray.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-PIAMONTE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-PIAMONTE",
+    "product_name": "Piamonte",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 122,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Piamonte.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-PIRINEO",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Wood",
+    "sku_model_code": "BIGSIZES-PIRINEO",
+    "product_name": "Pirineo Sand",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Wood-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 128,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Pirineo.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-PORTLORENBLACK",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-PORTLORENBLACK",
+    "product_name": "Portloren Black",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 134,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/PortlorenBlack.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-RAPOLANO",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-RAPOLANO",
+    "product_name": "Rapolano",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 140,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Rapolano.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-SLATESTONE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-SLATESTONE",
+    "product_name": "Slatestone",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 146,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Slatestone.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-TRAVERTINO",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Stone",
+    "sku_model_code": "BIGSIZES-TRAVERTINO",
+    "product_name": "Travertino",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35)",
+    "color_design": "Stone-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 156,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Travertino.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-VARENNA",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Marble",
+    "sku_model_code": "BIGSIZES-VARENNA",
+    "product_name": "Varenna",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Marble-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 164,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/Varenna.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-ALPIWHITE",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Basics",
+    "sku_model_code": "BIGSIZES-ALPIWHITE",
+    "product_name": "Alpi White",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Basics-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 170,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/AlpiWhite.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
+  },
+  {
+    "id": "ES-TAU-BIG-SIZES:BIGSIZES-GRUMBLACK",
+    "supplier_group": "TAU Ceramica supplier group",
+    "brand": "TAU Ceramica",
+    "source_catalog_id": "ES-TAU-BIG-SIZES",
+    "source_catalog": "TAU Big Sizes (120x280 large-format slabs)",
+    "collection_series": "Big Sizes — Basics",
+    "sku_model_code": "BIGSIZES-GRUMBLACK",
+    "product_name": "Grum Black",
+    "product_type_category": "Porcelain slab",
+    "sizes_mm": [
+      "1200 x 2800"
+    ],
+    "finish": "Natural Matt (M35); Polished (M43)",
+    "color_design": "Basics-look large-format porcelain slab, V.2/V.3 destonified, rectified",
+    "image_page_reference": {
+      "catalog_id": "ES-TAU-BIG-SIZES",
+      "page": 171,
+      "kind": "catalog_page"
+    },
+    "display_image": "public/bathroom-product-assets/tau-big-sizes/GrumBlack.jpg",
+    "price": null,
+    "currency": null,
+    "availability": "not_confirmed",
+    "display_asset_status": "source_embedded_image_verified",
+    "data_confidence": "visually_verified_source_image_and_pdf_text",
+    "notes": "No per-collection numeric SKU is printed in the catalog; sku_model_code is a synthesized identifier (BIGSIZES-<COLLECTION>). Display image is the collection's own full-bleed material photo from its catalog spread, individually cropped to exclude all overlaid text. Confirm finish/format availability and commercial terms before sale."
   }
 ]
