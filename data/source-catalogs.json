@@ -163,10 +163,10 @@
     "original_filename": "spot072026.pdf",
     "page_count": 56,
     "source_sha256": "ff3c722938932974cee2eb240f54f18a8988e08a8cc1b7ac42f47374d22e99a9",
-    "ingestion_status": "gap_reconciliation_pass_completed_2026-09-19",
+    "ingestion_status": "product_records_and_display_images_complete_2026-09-22",
     "catalog_category": "Bathroom accessories, drains, faucets and shower sets",
     "source_provenance": "User-supplied PDF attachment; co-branded SEBACH / Mitrani source identity retained in data.",
-    "notes": "Current July 2026 spot catalog. Text layer cross-checked against bathroom-verified-products.json on 2026-09-19; 20 previously-missing SKUs added (see CHANGELOG). Some prices appear in the source, but price publication still requires store confirmation."
+    "notes": "Current July 2026 spot catalog. Text layer cross-checked against bathroom-verified-products.json on 2026-09-19; 20 previously-missing SKUs added (see CHANGELOG). Some prices appear in the source, but price publication still requires store confirmation. All 211 product records now have individually verified, on-disk display images (211/211)."
   },
   {
     "catalog_id": "IL-SEBACH-SHOWER-ENCLOSURES-2025",
@@ -176,10 +176,10 @@
     "original_filename": "חוברת מקלחונים סבח 2025.pdf",
     "page_count": 56,
     "source_sha256": "c7a0d84b14661e33ac0320e82c043f4b143237d80d91e19440ef68c42b98dee8",
-    "ingestion_status": "gap_reconciliation_pass_completed_2026-09-19",
+    "ingestion_status": "product_records_and_display_images_complete_2026-09-22",
     "catalog_category": "Shower enclosures",
     "source_provenance": "User-supplied PDF attachment; SEBACH source identity retained in data.",
-    "notes": "PDF Hebrew text layer is not reliably readable (custom font encoding); model names (Latin) were extracted from text and pages visually reviewed on 2026-09-19. 9 previously-missing shower/bathtub-screen models added (see CHANGELOG)."
+    "notes": "PDF Hebrew text layer is not reliably readable (custom font encoding); model names (Latin) were extracted from text and pages visually reviewed on 2026-09-19. 9 previously-missing shower/bathtub-screen models added (see CHANGELOG). All 25 product records now have individually verified, on-disk display images (25/25)."
   },
   {
     "catalog_id": "CN-ECOEAGLE-SPC",
