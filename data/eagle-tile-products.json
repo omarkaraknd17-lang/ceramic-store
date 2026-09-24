@@ -3883,13 +3883,13 @@
       "page": 18,
       "kind": "catalog_page"
     },
-    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-skin-touch.jpg",
+    "display_image": "public/bathroom-product-assets/ecoeagle/wallboard-skin-touch__C8PPF09L.jpg",
     "price": null,
     "currency": null,
     "availability": "not_confirmed",
-    "display_asset_status": "source_embedded_image_verified_shared_row_crop",
+    "display_asset_status": "source_embedded_image_verified",
     "data_confidence": "visually_verified_source_image_and_pdf_text",
-    "notes": "Available size/code variants: C8PPF09L 158x2800mm; C3PPF09L 158x3000mm."
+    "notes": "Available size/code variants: C8PPF09L 158x2800mm; C3PPF09L 158x3000mm. [2026-09-24: individually cropped and manually visually verified against its source page after automated OCR matching was inconclusive for this specific tile; no longer shares its photo with other SKUs.]"
   },
   {
     "id": "CN-EAGLE-TRAVERTINE:JF-01",
