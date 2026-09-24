@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omarkaraknd17-lang.github.io/ceramic-store/sitemap.xml
